@@ -1,0 +1,1952 @@
+code|lat|lon|name|spider
+52|-22.7242526995|-47.339549291|Americana|cetesb
+42|-22.9024888192|-47.0572004533|Campinas-Centro|cetesb
+41|-22.874618945|-47.0589727567|Campinas-Taquaral|cetesb
+43|-22.9467284161|-47.1192808619|Campinas-V.União|cetesb
+37|-23.6683561457|-46.7800433837|Capão Redondo|cetesb
+28|-23.5313950283|-46.8357797277|Carapicuiba|cetesb
+10|-23.5535425617|-46.6727047693|Cerqueira César|cetesb
+31|-23.5663417755|-46.737414282|Cid.Universitária-USP-Ipen|cetesb
+8|-23.6163200788|-46.6634655274|Congonhas|cetesb
+24|-23.8790267307|-46.4184833619|Cubatão-Centro|cetesb
+30|-23.8315890081|-46.3695687909|Cubatão-Vale do Mogi|cetesb
+25|-23.84941617|-46.3886762431|Cubatão-Vila Parisi|cetesb
+15|-23.6858764117|-46.6116219324|Diadema|cetesb
+35|-23.4555342581|-46.5185334031|Guarulhos-Paço Municipal|cetesb
+40|-23.4401170078|-46.409948771|Guarulhos-Pimentas|cetesb
+5|-23.5918419901|-46.6606875025|Ibirapuera|cetesb
+34|-23.6805076511|-46.6750431583|Interlagos|cetesb
+33|-23.501547361|-46.4207368395|Itaim Paulista|cetesb
+50|-23.5800148314|-46.4666514115|Itaquera|cetesb
+54|-23.2941992435|-45.9682338643|Jacareí|cetesb
+64|-22.5674900631|-47.4001792909|Limeira|cetesb
+36|-23.518705831|-46.7433200408|Marg.Tietê-Ponte dos Remédios|cetesb
+22|-23.5782513944|-46.4649955667|Mauá|cetesb
+3|-23.5497340451|-46.6004166453|Mooca|cetesb
+6|-23.480098706|-46.6920519221|Nossa Senhora do Ó|cetesb
+17|-23.526721419|-46.7920776612|Osasco|cetesb
+29|-23.7762659844|-46.6969610784|Parelheiros|cetesb
+1|-23.5448456587|-46.6276755924|Parque D.Pedro II|cetesb
+44|-22.7723213793|-47.1548428657|Paulínia|cetesb
+45|-22.7868064344|-47.1365588816|Paulínia - Sul|cetesb
+27|-23.5614598947|-46.7020165085|Pinheiros|cetesb
+77|-22.7012223403|-47.6496526899|Piracicaba|cetesb
+79|-21.153941892|-47.8284805266|Ribeirão Preto|cetesb
+2|-23.5059927222|-46.6289603|Santana|cetesb
+16|-23.6549772296|-46.7099983818|Santo Amaro|cetesb
+32|-23.6569941995|-46.5309187565|S.André-Paço Municipal|cetesb
+18|-23.6398036992|-46.4916367658|S.André-Capuava|cetesb
+82|-23.9630572042|-46.3211700937|Santos|cetesb
+83|-23.9812951574|-46.3005095935|Santos-Ponta da Praia|cetesb
+19|-23.6713539571|-46.5846678859|S.Bernardo-Paulicéia|cetesb
+38|-23.6986710865|-46.5462321867|S.Bernardo-Centro|cetesb
+7|-23.618442773|-46.5563539375|São Caetano do Sul|cetesb
+55|-23.1878873303|-45.8711976231|S.José Campos|cetesb
+57|-23.1836973451|-45.8308969846|S.José Campos-Vista Verde|cetesb
+51|-23.5024265843|-47.4790299116|Sorocaba|cetesb
+20|-23.6093238642|-46.7582943678|Taboão da Serra|cetesb
+94|-23.3607515379|-47.8707990665|Tatuí|cetesb
+58|-23.0323456229|-47.5757990316|Taubaté|cetesb
+71|-21.7825221457|-48.1858318132|Araraquara|cetesb
+73|-22.3266083966|-49.0927593054|Bauru|cetesb
+75|-22.2986196635|-48.5674574048|Jaú|cetesb
+81|-21.1419427576|-48.9830752706|Catanduva|cetesb
+72|-21.1868410999|-50.4393168499|Araçatuba|cetesb
+76|-22.1998094871|-49.9599697461|Marília|cetesb
+78|-22.1199367348|-51.408777068|Presidente Prudente|cetesb
+80|-20.7846892839|-49.3982777929|São José do Rio Preto|cetesb
+MALEMBA|-12.6776225249|-38.5394575728|MALEMBA|cetrel
+LAMARAO|-12.5958867676|-38.3988816349|LAMARAO|cetrel
+CAMARA|-12.7064353737|-38.3216979576|CAMARA|cetrel
+MACHADINHO|-12.7573629719|-38.2844009602|MACHADINHO|cetrel
+ESCOLA|-12.6357235922|-38.2734983997|ESCOLA|cetrel
+CONCORDIA|-12.6044569118|-38.325926123|CONCORDIA|cetrel
+GRAVATA|-12.6867810755|-38.3339251368|GRAVATA|cetrel
+COBRE|-12.6306616254|-38.3588484222|COBRE|cetrel
+AREIAS|-12.8015541006|-38.224286707|AREIAS|cetrel
+LEANDRINHO|-12.641994474|-38.3751920997|LEANDRINHO|cetrel
+FUTURAMA II|-12.6567981374|-38.368001019|FUTURAMA II|cetrel
+Copacabana|-22.9649861111|-43.1804861111|Copacabana|rio
+Centro|-22.9083388889|-43.1781555556|Centro|rio
+São Cristóvão|-22.8977861111|-43.2217444444|São Cristóvão|rio
+Tijuca|-22.9250194444|-43.2325916667|Tijuca|rio
+Irajá|-22.8315861111|-43.3268638889|Irajá|rio
+Bangu|-22.887925|-43.4710861111|Bangu|rio
+Campo Grande|-22.8861805556|-43.5567|Campo Grande|rio
+Pedra de Guaratiba|-23.0044166667|-43.6290694444|Pedra de Guaratiba|rio
+117|-20.2904668812|-70.1001924276|Alto Hospicio|sinca
+201|-22.093082|-70.20121|Gobernación|sinca
+204|-22.8887241426|-69.3181407148|Sierra Gorda |sinca
+222|-22.0855187103|-70.1886825158|Escuela E-10|sinca
+228|-22.342264|-68.650897|Chiu Chiu|sinca
+230|-22.111064|-70.210828|Bomberos|sinca
+231|-22.063792|-70.185945|Gendarmería|sinca
+233|-22.4602707229|-68.937706917|Complejo Deportivo 23 de Marzo|sinca
+235|-22.442839063|-68.9325463469|Colegio Pedro Vergara Keller|sinca
+236|-22.4621446446|-68.9280616934|Estación Centro|sinca
+237|-23.6135421582|-70.3833156824|Antofagasta|sinca
+332|-27.3703291549|-70.3239066784|Copiapo Sivica|sinca
+333|-28.4699980688|-71.2196525628|Huasco Sivica|sinca
+414|-30.2277187688|-71.0861905807|Hospital|sinca
+420|-30.2277677521|-71.0861268336|Andacollo|sinca
+424|-31.8892783125|-70.6293117697|Cuncumen |sinca
+425|-29.9330065187|-71.261966366|La Serena|sinca
+426|-29.9703902353|-71.3360382501|Coquimbo|sinca
+501|-32.736065|-71.450827|Campiche|sinca
+503|-32.748154|-71.474204|La Greda|sinca
+504|-32.764139|-71.454494|Los Maitenes|sinca
+505|-32.718589|-71.407282|Puchuncaví|sinca
+506|-32.800981|-71.483371|Sur|sinca
+507|-32.807512|-71.436274|Valle Alegre|sinca
+509|-32.924568|-71.515399|Concón|sinca
+511|-32.929552|-71.440571|Colmo|sinca
+512|-32.915458|-71.48148|Las Gaviotas|sinca
+521|-32.797715|-70.898037|Lo Campo|sinca
+522|-32.779208|-70.959114|Catemu|sinca
+523|-32.823956|-71.006441|Romeral|sinca
+524|-32.776573|-70.938144|Santa Margarita|sinca
+529|-33.0204198174|-71.5500928429|Viña del Mar|sinca
+535|-32.935167|-71.52577|Junta de Vecinos|sinca
+540|-32.78786|-71.527718|Quintero|sinca
+547|-32.795151048|-71.5330196802|Loncura|sinca
+548|-32.7789879022|-71.3730312769|Ventanas|sinca
+549|-33.0474665972|-71.4345128719|Quilpue|sinca
+550|-33.0497437981|-71.6141672317|Valparaiso|sinca
+609|-34.1623146091|-70.7139192255|Rancagua I|sinca
+611|-34.3945414179|-70.8529815423|Rengo|sinca
+612|-34.5797599171|-70.9896851865|San Fernando|sinca
+615|-34.1438883759|-70.7371312077|Rancagua II|sinca
+703|-35.4351418877|-71.6782614993|La Florida|sinca
+709|-34.9749250775|-71.2339675123|Curicó|sinca
+710|-35.4357255887|-71.619553864|U.C. Maule|sinca
+711|-35.4065827447|-71.6333964749|Universidad de Talca|sinca
+713|-35.8369422349|-71.592865854|Linares|sinca
+802|-36.7236951418|-73.1236588652|Consultorio - San Vicente|sinca
+804|-36.780632|-73.115657|JUNJI|sinca
+806|-36.737202|-73.104427|Inpesca|sinca
+807|-36.769803|-73.113708|Indura|sinca
+809|-36.9964309604|-73.1158053572|Calabozo|sinca
+810|-36.5948808865|-72.0892536505|INIA, Chillán|sinca
+815|-37.008669|-73.148086|Coronel Norte|sinca
+816|-37.031702|-73.138689|Coronel Sur|sinca
+827|-36.7846537411|-73.0520630258|Kingston College|sinca
+831|-37.0211828777|-73.1495555509|Cerro Merquín|sinca
+837|-36.735998|-73.118693|Nueva Libertad|sinca
+838|-36.791231|-73.119152|ENAP Price|sinca
+846|-36.6591170565|-72.4799613704|Nueva  Aldea|sinca
+850|-36.743905|-72.47721|Quillón|sinca
+854|-36.923329603|-73.0361323009|Punteras|sinca
+859|-37.1006962574|-73.1557603947|Lota rural|sinca
+860|-37.0776198097|-73.1541364986|Lota urbana|sinca
+861|-36.983803|-73.159774|Lagunillas|sinca
+871|-36.683859|-72.465292|Cayumanqui|sinca
+873|-36.6161677517|-72.0930405585|Puren|sinca
+875|-37.4711822887|-72.3614628498|21 de mayo|sinca
+876|-37.023623|-72.277476|Colicheu|sinca
+877|-37.068142|-72.289451|Progreso|sinca
+901|-38.748699123|-72.6207882282|Las Encinas Temuco|sinca
+902|-38.7647674517|-72.5987956822|Padre Las Casas II|sinca
+904|-38.7253024448|-72.5711925509|Museo Ferroviario|sinca
+A01|-40.584478666|-73.1187198221|Osorno|sinca
+A06|-42.9492038147|-72.7250011335|Chaiten Norte|sinca
+A07|-41.4795069236|-72.9687559301|Mirasol|sinca
+B03|-45.5799644795|-72.0611259878|Coyhaique|sinca
+B04|-45.5790456672|-72.0499645058|Coyhaique II|sinca
+C05|-53.1582954922|-70.9214974825|Punta Arenas|sinca
+D11|-33.422301|-70.651162|Independencia|sinca
+D12|-33.5166303623|-70.588123962|La Florida|sinca
+D13|-33.3767735203|-70.5233267841|Las Condes|sinca
+D14|-33.464142|-70.660797|Parque O'Higgins|sinca
+D15|-33.4378113791|-70.7501712331|Pudahuel|sinca
+D16|-33.4928487895|-70.7194402798|Cerrillos|sinca
+D17|-33.5470996456|-70.6662041019|El Bosque|sinca
+D18|-33.4330896101|-70.7321478687|Cerro Navia|sinca
+D27|-33.591390623|-70.594788|Puente Alto|sinca
+D28|-33.6737520714|-70.9530647374|Talagante|sinca
+D30|-33.3496269283|-70.7237926126|QUILICURA |sinca
+E03|-39.8313161047|-73.2285128221|Valdivia|sinca
+F01|-18.4834279915|-70.290550727|Arica|sinca
+Dhaka|23.796373|90.424614|Dhaka|usembassy
+New Delhi|28.63576|77.22445|New Delhi|usembassy
+Lima|-12.099398|-76.96888|Lima|usembassy
+Mumbai|19.07283|72.88261|Mumbai|usembassy
+Bogota|4.637735|-74.09486|Bogota|usembassy
+Pristina|42.661995|21.15055|Pristina|usembassy
+Kolkata|22.56263|88.36304|Kolkata|usembassy
+Hanoi|21.021938|105.81881|Hanoi|usembassy
+Addis Ababa School|8.996519|38.725433|Addis Ababa School|usembassy
+Addis Ababa Central|9.058498|38.761642|Addis Ababa Central|usembassy
+Chennai|13.08784|80.27847|Chennai|usembassy
+Ho Chi Minh City|10.782773|106.700035|Ho Chi Minh City|usembassy
+Hyderabad|17.38405|78.45636|Hyderabad|usembassy
+Jakarta Central|-6.182536|106.834236|Jakarta Central|usembassy
+Ulaanbaatar|47.928387|106.92947|Ulaanbaatar|usembassy
+Jakarta South|-6.236704|106.79324|Jakarta South|usembassy
+1|-34.625279|-58.365533|Station La Boca|buenosaires
+3|-34.599648|-58.391363|Córdoba station|buenosaires
+2|-34.606226|-58.432599|Centennial Park Station|buenosaires
+EN7|51.6686433473|-0.02200720557|Enfield - Prince of Wales School|london
+EN1|51.6450367267|-0.0661800662229|Enfield - Bush Hill Park|london
+BW1|51.618686|0.307746|Brentwood - Brentwood Town Hall|london
+HR1|51.617327|-0.298775|Harrow - Stanmore|london
+EN4|51.614864007|-0.0507658363689|Enfield - Derby Road|london
+EN5|51.613865|-0.125338|Enfield - Bowes Primary School|london
+HG1|51.599302|-0.068218|Haringey - Haringey Town Hall|london
+HR2|51.588417|-0.362989|Harrow - Pinner Road|london
+HG4|51.5839769008|-0.125400278485|Haringey - Priory Park South|london
+RB4|51.57661|0.030858|Redbridge - Gardner Close|london
+HV3|51.572976|0.179079|Havering - Romford|london
+RB7|51.5694843315|0.0829074748965|Redbridge - Ley Street|london
+BG1|51.563752|0.177891|Barking and Dagenham - Rush Green|london
+IS6|51.557895|-0.106989|Islington - Arsenal|london
+IS2|51.555378|-0.116146|Islington - Holloway Road|london
+CP2|51.554064|0.60606|Castle Point - Hadleigh|london
+BT5|51.552656|-0.248774|Brent - Neasden Lane|london
+BT4|51.552476|-0.258089|Brent - Ikea|london
+CD1|51.544219|-0.175284|Camden - Swiss Cottage|london
+TH5|51.5405194915|-0.033307388878|Tower Hamlets - Victoria Park|london
+BT6|51.537799|-0.247793|Brent - John Keble Primary School|london
+MW4|51.5363854088|-0.725480414495|Windsor and Maidenhead - Aldebury Road|london
+EA6|51.53085|-0.292488|Ealing - Hanger Lane Gyratory|london
+BG2|51.529389|0.132857|Barking and Dagenham - Scrattons Farm|london
+CD9|51.5277066195|-0.129053205283|Camden - Euston Road|london
+HK6|51.526454|-0.08491|Hackney - Old Street|london
+EI1|51.5236078191|-0.2655026318|Ealing - Western Avenue|london
+MY1|51.52254|-0.15459|Westminster - Marylebone Road|london
+MY7|51.52254|-0.15459|Westminster - Marylebone Road FDMS|london
+TH2|51.5225294861|-0.04215509919|Tower Hamlets - Mile End Road|london
+BL0|51.522287|-0.125848|Camden - Bloomsbury|london
+KC7|51.52106551|-0.21344617|Kensington and Chelsea - North Ken FDMS|london
+KC1|51.5210467476|-0.213492139585|Kensington and Chelsea - North Ken|london
+MW1|51.520894547|-0.724024666515|Windsor and Maidenhead - Frascati Way|london
+HV1|51.5207874593|0.205460705694|Havering - Rainham|london
+CT4|51.5202252732|-0.0961060474176|City of London - Beech Street|london
+EA8|51.518948|-0.265617|Ealing - Horn Lane|london
+EI8|51.5189160349|-0.265652052386|Ealing - Horn Lane TEOM|london
+TK3|51.518162|0.439548|Thurrock - Stanford-le-Hope|london
+IM1|51.5173675146|-0.120194711317|Camden - Holborn (inmidtown)|london
+CD3|51.515532|-0.127027|Camden - Shaftesbury Avenue|london
+TH4|51.5150461674|-0.00841849265643|Tower Hamlets - Blackwall|london
+CT2|51.5145253362|-0.104515626338|City of London - Farringdon Street|london
+WM6|51.5139287404|-0.152792701882|Westminster - Oxford Street|london
+CT3|51.5138471784|-0.077765681752|City of London - Sir John Cass School|london
+NB1|51.511998|-0.116715|Westminster - Strand (Northbank BID)|london
+BX3|51.510808|0.121617|Bexley - Thamesmead|london
+CT6|51.510499|-0.091634|City of London - Walbrook Wharf|london
+CT8|51.5095436854|-0.0873571979556|City of London - Upper Thames Street|london
+EA7|51.508549|-0.392179|Ealing - Southall|london
+EI7|51.5085164816|-0.392208459173|Ealing - Southall FDMS|london
+HF4|51.5045625672|-0.224670007032|Hammersmith and Fulham - Shepherds Bush|london
+KC3|51.49913951|-0.164337605|Kensington and Chelsea - Knightsbridge|london
+WM9|51.497733183|-0.144241409162|Westminster - Victoria (Victoria BID)|london
+WM8|51.4970661776|-0.14243882074|Westminster - Victoria|london
+HI0|51.496309|-0.460826|Hillingdon - Keats Way|london
+KC2|51.49550391|-0.178809464|Kensington and Chelsea - Cromwell Road|london
+WM0|51.494681|-0.131938|Westminster - Horseferry Road|london
+BQ7|51.4946486813|0.137279111232|Bexley - Belvedere West|london
+BQ8|51.4946486813|0.137279111232|Bexley - Belvedere West FDMS|london
+SK6|51.4931557049|-0.101527038275|Southwark - Elephant and Castle|london
+GN2|51.492571|0.017697|Greenwich - Millennium Village|london
+BX2|51.4906102082|0.158914493928|Bexley - Belvedere|london
+BX0|51.4906102082|0.158914493928|Bexley - Belvedere FDMS|london
+GN0|51.490532|0.074003|Greenwich - A206 Burrage Grove|london
+KC5|51.49019756|-0.190863311|Kensington and Chelsea - Earls Court Rd|london
+TH6|51.4891342634|-0.0129769309432|Tower Hamlets - Millwall Park|london
+LH0|51.48878|-0.441627|Hillingdon - Harlington|london
+KC4|51.48743685|-0.168397129|Kensington and Chelsea - Kings Road|london
+GN3|51.486957|0.095111|Greenwich - Plumstead High Street|london
+GR8|51.486884|0.017901|Greenwich - Woolwich Flyover|london
+LB5|51.485486774|-0.124545234819|Lambeth - Bondway Interchange|london
+LW3|51.4811412185|-0.0456708566668|Lewisham - Mercury Way|london
+SK5|51.4804994936|-0.0595528932573|Southwark - A2 Old Kent Road|london
+RI1|51.480189|-0.237335|Richmond Upon Thames - Castelnau|london
+MW2|51.4801789727|-0.62380842514|Windsor and Maidenhead - Clarence Road|london
+WAA|51.4794395281|-0.141786953606|Wandsworth - Battersea|london
+TK8|51.478697|0.255133|Thurrock - London Road (Purfleet)|london
+TK1|51.477076|0.317938|Thurrock - London Road (Grays)|london
+RI2|51.476168|-0.230427|Richmond Upon Thames - Barnes Wetlands|london
+LW2|51.474954|-0.039641|Lewisham - New Cross|london
+GR7|51.472504|-0.012381|Greenwich - Blackheath|london
+BX1|51.4659832747|0.184877126994|Bexley - Slade Green|london
+BX9|51.4659832747|0.184877126994|Bexley - Slade Green FDMS|london
+WA9|51.4650325059|-0.215824580948|Wandsworth - Putney|london
+LW4|51.4646910612|-0.016068243204|Lewisham - Loampit Vale|london
+LB4|51.4641135412|-0.114581026951|Lambeth - Brixton Road|london
+WA8|51.4637206047|-0.215890144123|Wandsworth - Putney High Street Facade|london
+WAC|51.4636903568|-0.166713485995|Wandsworth - Lavender Hill (Clapham Jct)|london
+WA7|51.463429|-0.215871|Wandsworth - Putney High Street|london
+TK4|51.4617571253|0.357953197319|Thurrock - Calcutta Road Tilbury|london
+WA2|51.456962|-0.191074|Wandsworth - Wandsworth Town Hall|london
+GR9|51.456357|0.040725|Greenwich - Westhorne Avenue|london
+GB0|51.4563|0.085606|Greenwich and Bexley - Falconwood FDMS|london
+GB6|51.4563|0.085606|Greenwich and Bexley - Falconwood|london
+RHG|51.4531422511|-0.341218138106|Richmond Upon Thames - Chertsey Road|london
+RD0|51.4529847075|-0.944461432664|Reading - New Town|london
+GR4|51.45258|0.070766|Greenwich - Eltham|london
+LW1|51.445468|-0.020266|Lewisham - Catford|london
+GN4|51.4346627061|0.0642224671705|Greenwich - Fiveways Sidcup Rd A20|london
+WAB|51.429331|-0.166524|Wandsworth - Tooting High Street|london
+LB6|51.4282131429|-0.131868638796|Lambeth - Streatham Green|london
+TD5|51.4252560361|-0.345608290873|Richmond Upon Thames - Bushy Park|london
+TD0|51.4243043441|-0.345714576447|Richmond Upon Thames - Ntl Physical Lab|london
+ME2|51.4161384795|-0.192230805043|Merton - Merton Road|london
+KT3|51.413691|-0.302269|Kingston Upon Thames - Sopwith Way|london
+CR5|51.411349|-0.12311|Croydon - Norbury|london
+CR8|51.410039|-0.127523|Croydon - Norbury Manor|london
+ME1|51.40105|-0.195929|Merton - Morden Civic Centre|london
+ME7|51.3943415638|-0.165161044588|Merton - Willow Lane Industrial Estate|london
+ST5|51.3892869045|-0.14166152478|Sutton - Beddington Lane north|london
+ST8|51.3835652278|-0.136417861473|Sutton - Beddington Lane |london
+KT4|51.379312|-0.281259|Kingston Upon Thames - Tolworth Broadway|london
+ST6|51.377923|-0.240414|Sutton - Worcester Park|london
+CR9|51.3739530635|-0.0967638468324|Croydon - Park Lane|london
+ST3|51.365318|-0.165936|Sutton - Carshalton|london
+CR7|51.3622305655|-0.117604507351|Croydon - Purley Way A23|london
+ST4|51.3586596125|-0.149723946605|Sutton - Wallington|london
+ZV3|51.293759175|0.195766572888|Sevenoaks - Sevenoaks Quarry|london
+ZV1|51.289391|0.201437|Sevenoaks - Greatness Park|london
+ZV2|51.28879|0.193401|Sevenoaks - Bat and Ball|london
+RG1|51.1658584759|-0.167734107139|Reigate and Banstead - Horley|london
+RG2|51.161508|-0.162928|Reigate and Banstead - Horley South|london
+RG6|51.1612605001|-0.16241003678|Reigate and Banstead - Horley South East|london
+RG3|51.142082|-0.194181|Reigate and Banstead - Poles Lane|london
+ARM5|54.353728|-6.654558|Armagh Lonsdale Road|northern_ireland
+BALY|54.861595|-6.250873|Ballymena Ballykeel|northern_ireland
+BEL2|54.59965|-5.928833|Belfast Centre|northern_ireland
+BEL5|54.594789|-5.857523|Belfast Newtownards Road|northern_ireland
+BEL0|54.587516|-5.92378|Belfast Ormeau Road|northern_ireland
+BEL1|54.572586|-5.974944|Belfast Stockman's Lane|northern_ireland
+BE2|54.591753|-5.949517|Belfast Westlink Roden Street|northern_ireland
+CAS3|54.594577|-5.803313|Castlereagh Dundonald|northern_ireland
+DER4|54.99642|-7.310163|Derry Dale's Corner|northern_ireland
+DERR|55.002851|-7.331128|Derry Rosemount|northern_ireland
+DPK1|54.328443|-5.715743|Downpatrick Roadside|northern_ireland
+LVD2|54.9284|-6.926879|Limavady Dungiven|northern_ireland
+LIS5|54.543516|-6.008608|Lisburn Dunmurry Seymour Hill|northern_ireland
+LN|54.43951|-7.900328|Lough Navar|northern_ireland
+NWY5|54.180381|-6.33924|Newry Canal Street|northern_ireland
+NWT5|54.666013|-5.950219|Newtownabbey Antrim Road|northern_ireland
+ND2|54.641963|-5.837939|North Down Holywood A2|northern_ireland
+SBAN|54.821427|-7.453291|Strabane Springhill Park|northern_ireland
+ABD1|57.128567|-2.125447|Aberdeen Anderson Dr|scotland
+ABD|57.15736|-2.094278|Aberdeen Errol Place|scotland
+AD1|57.169738|-2.095348|Aberdeen King Street|scotland
+ABD0|57.141922|-2.091664|Aberdeen Market Street 2|scotland
+ABD3|57.144555|-2.106472|Aberdeen Union Street Roadside|scotland
+ABD8|57.134195|-2.093968|Aberdeen Wellington Road|scotland
+ALO2|56.117343|-3.791818|Alloa A907|scotland
+AFR1|56.642076|-2.894328|Angus Forfar Glamis Rd|scotland
+ACTH|55.79216|-3.2429|Auchencorth Moss|scotland
+BUSH|55.862281|-3.205782|Bush Estate|scotland
+DUMF|55.070033|-3.614233|Dumfries|scotland
+DUN4|56.467332|-2.943423|Dundee Broughty Ferry Road|scotland
+DUN6|56.465126|-2.993867|Dundee Lochee Road|scotland
+DUN1|56.475434|-2.959861|Dundee Mains Loan|scotland
+DUNM|56.464258|-2.971386|Dundee Meadowside|scotland
+DUN5|56.462383|-2.96739|Dundee Seagate|scotland
+DUN7|56.45974|-2.970708|Dundee Whitehall Street|scotland
+MARN|55.607469|-4.497986|E Ayrshire Kilmarnock St Marnock St|scotland
+EDB2|55.919596|-4.333505|East Dunbartonshire Bearsden|scotland
+EDB1|55.904167|-4.225|East Dunbartonshire Bishopbriggs|scotland
+EDB3|55.935921|-4.151759|East Dunbartonshire Kirkintilloch|scotland
+EDB4|55.938253|-4.317753|East Dunbartonshire Milngavie |scotland
+MUSS|55.944008|-3.059223|East Lothian Musselburgh N High St|scotland
+ED11|55.896909|-3.31966|Edinburgh Currie|scotland
+ED10|55.939026|-3.392727|Edinburgh Glasgow Road|scotland
+ED5|55.937708|-3.232267|Edinburgh Gorgie Road|scotland
+ED9|55.960497|-3.30325|Edinburgh Queensferry Road|scotland
+ED8|55.974594|-3.161455|Edinburgh Salamander St|scotland
+ED1|55.9425|-3.281111|Edinburgh St John's Road|scotland
+ED3|55.945589|-3.182186|Edinburgh St Leonards|scotland
+ESK|55.31531|-3.206111|Eskdalemuir|scotland
+FAL7|55.988456|-3.969288|Falkirk Banknock|scotland
+FAL09|56.015766|-3.608622|Falkirk Bo'ness|scotland
+FAL11|56.002188|-3.784352|Falkirk Graham's Road|scotland
+FALK|56.018951|-3.721013|Falkirk Grangemouth MC|scotland
+FAL8|56.010894|-3.718233|Falkirk Grangemouth Zetland Park|scotland
+FAL5|55.991087|-3.941685|Falkirk Haggs|scotland
+FAL3|56.001956|-3.786485|Falkirk Hope St|scotland
+FAL10|56.013572|-3.789022|Falkirk Main St Bainsford|scotland
+FAL6|56.000507|-3.790128|Falkirk West Bridge Street|scotland
+CUPA|56.319444|-3.014167|Fife Cupar|scotland
+DUNF|56.07383|-3.44862|Fife Dunfermline|scotland
+KIR|56.124331|-3.141347|Fife Kirkcaldy|scotland
+ROSY|56.036243|-3.417582|Fife Rosyth|scotland
+FW|56.82266|-5.101102|Fort William|scotland
+GL1|55.850556|-4.231111|Glasgow Abercromby Street|scotland
+GLA5|55.861667|-4.271389|Glasgow Anderston|scotland
+GL3|55.87603|-4.318754|Glasgow Broomhill|scotland
+GL6|55.851071|-4.19714|Glasgow Burgher St.|scotland
+GLA6|55.874167|-4.294722|Glasgow Byres Road|scotland
+GL9|55.870766|-4.318448|Glasgow Dumbarton Road|scotland
+GGWR|55.872038|-4.270936|Glasgow Great Western Road|scotland
+GHSR|55.860936|-4.238214|Glasgow High Street|scotland
+GLA4|55.85917|-4.258889|Glasgow Kerbside|scotland
+GL2|55.836256|-4.270768|Glasgow Nithsdale Road|scotland
+GLKP|55.865782|-4.243631|Glasgow Townhead|scotland
+GLA7|55.79412|-4.354968|Glasgow Waulkmillglen Reservoir|scotland
+GRAN|56.010319|-3.704399|Grangemouth|scotland
+GRA2|56.013142|-3.710833|Grangemouth Moray|scotland
+INC2|55.944079|-4.734421|Inverclyde Greenock A8|scotland
+INV2|57.481308|-4.241451|Inverness|scotland
+INV03|57.479525|-4.225588|Inverness Academy Street|scotland
+LERW|60.13922|-1.185319|Lerwick|scotland
+NL3|55.84581|-3.947346|N Lanarkshire Chapelhall|scotland
+NL1|55.851944|-4.019444|N Lanarkshire Coatbridge Whifflet|scotland
+NL4|55.957778|-4.039444|N Lanarkshire Croy|scotland
+NL9|55.908941|-4.082339|N Lanarkshire Moodiesburn|scotland
+NL6|55.788333|-3.986389|N Lanarkshire Motherwell|scotland
+NL7|55.843523|-4.023222|N Lanarkshire Shawhead Coatbridge|scotland
+IRV|55.614578|-4.666786|North Ayrshire Irvine High St|scotland
+NL11|55.843583|-4.037413|North Lanarkshire Kirkshaw|scotland
+PAI3|55.841836|-4.423958|Paisley Gordon Street|scotland
+PAI4|55.848115|-4.426619|Paisley St James St|scotland
+PEEB|55.657472|-3.196527|Peebles|scotland
+PET2|56.399327|-3.434182|Perth Atholl Street|scotland
+PET1|56.373126|-3.841475|Perth Crieff|scotland
+PETH|56.396597|-3.4324|Perth High Street|scotland
+PET3|56.41467|-3.44964|Perth Muirton|scotland
+REN1|55.863313|-4.390978|Renfrew Cockels Loan|scotland
+HARB|55.470162|-4.633681|South Ayrshire Ayr Harbour|scotland
+AYR|55.464531|-4.631673|South Ayrshire Ayr High St|scotland
+SL07|55.818802|-4.167073|South Lanarkshire Cambuslang|scotland
+EK0|55.775278|-4.163611|South Lanarkshire East Kilbride|scotland
+SL05|55.774018|-4.03736|South Lanarkshire Hamilton|scotland
+SL03|55.673936|-3.775658|South Lanarkshire Lanark|scotland
+SLC08|55.798813|-4.058363|South Lanarkshire Raith Interchange 2|scotland
+SL04|55.828408|-4.218786|South Lanarkshire Rutherglen|scotland
+SL06|55.818357|-4.081839|South Lanarkshire Uddingston|scotland
+STRL|56.11472|-3.932178|Stirling Craig's Roundabout|scotland
+SV|57.734456|-4.776583|Strath Vaich|scotland
+WDB3|55.91796|-4.406231|West Dunbartonshire Clydebank|scotland
+WDB4|55.943197|-4.55973|West Dunbartonshire Glasgow Road|scotland
+BRX|55.934357|-3.46919|West Lothian Broxburn|scotland
+WLC1|55.97671|-3.59731|West Lothian Linlithgow High Street 2|scotland
+WLN4|55.983925|-3.455939|West Lothian Newton|scotland
+ANG5|53.307155|-4.274216|Anglesey Brynteg|wales
+AN10|53.410479|-4.493642|Anglesey Felin Cafnan|wales
+ANG2|53.290642|-4.406563|Anglesey Llynfaes|wales
+AH|52.50385|-3.034178|Aston Hill|wales
+CAE5|51.666667|-3.194919|Caerphilly Blackwood High Street|wales
+CAE8|51.74032|-3.2983|Caerphilly Fochriw|wales
+CAE4|51.573962|-3.218084|Caerphilly White Street|wales
+CARD|51.48178|-3.17625|Cardiff Centre|wales
+CHEP|51.638094|-2.678731|Chepstow A48|wales
+NTH1|51.659617|-3.801693|Cimla Road / Victoria Gardens|wales
+CWMB|51.6538|-3.006953|Cwmbran|wales
+CAE6|51.680579|-3.133508|Hafod-yr-ynys Roadside|wales
+MAWR|53.136152|-4.074791|Marchlyn Mawr|wales
+CAE7|51.57537|-3.231658|Nantgarw Road|wales
+PEMB|51.781784|-4.691462|Narberth|wales
+NPT4|51.601262|-2.973273|Newport M4 Junction 25|wales
+NPT1|51.601203|-2.977281|Newport St Julians Comp School|wales
+PT7|51.590233|-3.786049|Port Talbot Docks|wales
+PT6|51.572433|-3.751092|Port Talbot Dyffryn School|wales
+PTLW|51.58493|-3.801069|Port Talbot Little Warren|wales
+PT4|51.58395|-3.770822|Port Talbot Margam|wales
+PT11|51.579656|-3.766465|Port Talbot Prince Street 2|wales
+PT8|51.591479|-3.779197|Port Talbot Talbot Road|wales
+PT10|51.589942|-3.772005|Port Talbot Theodore Road|wales
+PT9|51.576676|-3.759005|Port Talbot Twll-yn-y-Wal Park|wales
+RHD7|51.61968|-3.33232|Rhondda Glyncoch Garth Avenue|wales
+RHD8|51.684393|-3.378816|Rhondda Mountain Ash|wales
+RHD6|51.604647|-3.338912|Rhondda Pontypridd Gelliwastad Rd|wales
+RHD4|51.597845|-3.331923|Rhondda-Cynon-Taf Broadway|wales
+RHD2|51.565439|-3.256145|Rhondda-Cynon-Taf Nantgarw|wales
+SWA9|51.645733|-3.939392|Swansea Cwm Level Park|wales
+SWA7|51.632927|-3.93854|Swansea Hafod DOAS|wales
+SWA5|51.662122|-3.921301|Swansea Morriston Roadside|wales
+SWA1|51.632696|-3.947374|Swansea Roadside|wales
+SWA8|51.625711|-3.934461|Swansea St Thomas DOAS|wales
+SW10|51.625921|-3.941502|Swansea Station Court High Street|wales
+TWYN|51.744444|-3.365833|Twynyrodyn|wales
+GLM8|51.444567|-3.187042|V Glamorgan Windsor Road Penarth|wales
+WREX|53.04222|-3.002778|Wrexham|wales
+AY1|51.812443|-0.808084|Aylesbury Walton Street 2|england
+BAR6|53.551177|-1.50816|Barnsley A628 Pogmoor Roadside|england
+BAR9|53.546344|-1.452162|Barnsley A635 Kendray Roadside|england
+HB010|52.138153|-0.46663|Bedford Lurke Street|england
+HB011|52.135049|-0.474658|Bedford Prebend Street|england
+BAI2|52.455719|-1.743912|Birmingham Airport 2|england
+WIL1|51.348788|-2.252262|Bradford-on-Avon, Masons Lane|england
+BUR2|53.524915|-2.277565|Bury Prestwich|england
+BUR1|53.563481|-2.330732|Bury Radcliffe|england
+WIL8|51.43534|-2.00255|Calne London Road|england
+WIL5|51.436345|-2.004275|Calne, New Road 2|england
+NEW2|51.537598|-0.002138|Cam Road|england
+CAM3|52.199575|0.12774|Cambridge Gonville Place|england
+CAM5|52.21393|0.138083|Cambridge Montague Road|england
+CAM4|52.20843|0.141521|Cambridge Newmarket Road|england
+CAM1|52.204133|0.127483|Cambridge Parker Street|england
+CRL2|54.90455|-2.937022|Carlisle Stanwix Bank|england
+HB013|51.770339|-0.591364|Dacorum Northchurch High Street|england
+WIL3|51.352198|-1.990416|Devizes, Sidmouth Street|england
+HB012|51.795569|-0.076225|East Herts Hertford Gascoyne Way|england
+EWE2|51.349927|-0.249748|Ewell High Street|england
+FAR2|50.850875|-1.17806|Fareham Portland Street|england
+GA1|54.951529|-1.649945|Gateshead A1 Dunston|england
+GA2|54.965944|-1.604438|Gateshead Bottle Bank|england
+GA3|54.962008|-1.597121|Gateshead Lychgate Court|england
+GIRT|52.225556|0.087222|Girton Road|england
+FAR1|50.844177|-1.183323|Gosport Road|england
+T55|51.481478|-0.486675|Heathrow Green Gates|england
+LHR2|51.479167|-0.440556|Heathrow LHR2|england
+T54|51.459444|-0.479444|Heathrow Oaks Road|england
+HEN|51.536552|-0.903958|Henley|england
+HB008|51.662193|-0.264313|Hertsmere Borehamwood Background|england
+HB009|51.659803|-0.261916|Hertsmere Borehamwood Roadside|england
+HI1|51.55226|-0.40278|Hillingdon 1 - South Ruislip|england
+SIPS|51.484384|-0.455695|Hillingdon Sipson|england
+HB002|51.940974|-0.274038|Hitchin Stevenage Road|england
+HB003|51.940988|-0.274431|Hitchin Stevenage Road Particulates|england
+HS5|51.489398|-0.310081|Hounslow Brentford|england
+HS4|51.492507|-0.257252|Hounslow Chiswick|england
+HS2|51.482982|-0.411895|Hounslow Cranford|england
+HS9|51.447388|-0.408733|Hounslow Feltham|england
+HS8|51.500676|-0.284383|Hounslow Gunnersbury|england
+HS7|51.463402|-0.427525|Hounslow Hatton Cross|england
+HS6|51.479129|-0.36476|Hounslow Heston|england
+BN2|51.591901|-0.205992|London Barnet Chalgrove School|england
+HIL1|51.487989|-0.480984|London Hillingdon Harmondsworth|england
+HIL4|51.487534|-0.479451|London Hillingdon Harmondsworth Os|england
+HIL5|51.498167|-0.412333|London Hillingdon Hayes|england
+HI3|51.48113|-0.42376|London Hillingdon Oxford Avenue|england
+HB006|51.87765|-0.376297|London Luton Airport|england
+HB007|51.880154|-0.422144|Luton Dunstable Road East|england
+MAN1|53.472077|-2.239001|Manchester Oxford Road|england
+MAN7|53.48157|-2.23793|Manchester Piccadilly LA|england
+MAHG|53.3712|-2.239|Manchester Sharston|england
+WIL7|51.420963|-1.726842|Marlborough London Road|england
+NUL1|53.012375|-2.224184|Newcastle-under-Lyme Queens Gardens|england
+OX6|51.752527|-1.250939|Oxford High St|england
+OX3|51.744856|-1.260338|Oxford St Ebbes (Cal Club)|england
+REA2|51.464355|-0.977094|Reading Caversham Road|england
+REA4|51.461957|-1.012459|Reading Oxford Road|england
+RED3|54.60317|-1.09784|Redcar Dormanstown|england
+IMP|52.23364|0.10508|S Cambs Impington|england
+ORCH|52.2335|0.115229|S Cambs Orchard Park School|england
+M60|53.503784|-2.381239|Salford M60|england
+WIL4|51.065247|-1.793793|Salisbury, Exeter Street|england
+CW|53.5794|-2.09385|Shaw Crompton Way|england
+SLH7|51.502202|-0.608653|Slough Chalvey|england
+SLH3|51.480372|-0.508729|Slough Colnbrook|england
+SLH6|51.480372|-0.508729|Slough Colnbrook Osiris|england
+SLH5|51.484326|-0.5085|Slough Lakeside 1 Osiris|england
+SLH8|51.487764|-0.502656|Slough Lakeside 2|england
+SLH9|51.487764|-0.502656|Slough Lakeside 2 Osiris|england
+SLH4|51.511599|-0.607794|Slough Town Centre A4|england
+GX|51.574108|-0.533309|South Bucks Gerrards Cross|england
+SHOL|52.772975|0.181633|South Holland Westmere School|england
+MONK|52.785625|-0.175053|Spalding Monkhouse School|england
+HB005|51.900528|-0.205111|Stevenage Lytton Way|england
+STK7|53.391717|-2.22628|Stockport Cheadle A34|england
+STK5|53.38547|-2.129559|Stockport Hazel Grove|england
+SUN2|54.883642|-1.406726|Sunderland Silksworth (CC)|england
+SUN4|54.907415|-1.394195|Sunderland Trimdon Street|england
+BN1|51.614675|-0.176607|Tally Ho|england
+TAM1|53.458994|-2.005694|Tameside Mottram Moor|england
+TAME|53.445847|-2.098802|Tameside Two Trees School|england
+GOS1|50.821611|-1.163939|Tichborne Way|england
+TRAF|53.448876|-2.320941|Trafford|england
+TRF2|53.442476|-2.311421|Trafford A56|england
+WD1|51.601041|-1.12355|Wallingford|england
+WL4|51.601728|-0.016442|Waltham Crooked Billet|england
+WL1|51.562376|-0.004898|Waltham Forest Dawlish Rd|england
+WL5|51.556239|-0.013628|Waltham Forest Leyton|england
+HB004|51.6592|-0.402863|Watford Town Hall|england
+WAT|51.645112|-1.004394|Watlington|england
+HB001|51.767563|-0.214824|Welwyn Hatfield|england
+WID2|53.371193|-2.722289|Widnes Marzahn Way|england
+WID1|53.365391|-2.73168|Widnes Milton Road|england
+WIG7|53.549444|-2.638056|Wigan Centre PM10|england
+NEW3|51.514727|0.014554|Wren Close|england
+WYA4|51.624072|-0.75436|Wycombe Abbey 4|england
+WSTO|51.652503|-0.894158|Wycombe Stokenchurch|england
+YK10|53.967646|-1.086538|York Bootham|england
+YK11|53.951889|-1.075861|York Fishergate|england
+YK16|53.937787|-1.073861|York Fulford Road|england
+YK7|53.963805|-1.085679|York Gillygate|england
+YK13|53.965951|-1.070219|York Heworth Green|england
+YK8|53.954167|-1.094639|York Holgate|england
+YK9|53.954663|-1.068241|York Lawrence Street|england
+YK15|53.953411|-1.086275|York Nunnery Lane|england
+YK018|53.966432|-1.126061|York Plantation Drive|england
+BAR3|53.56292|-1.510436|Barnsley Gawber|england
+BPLE|51.074793|-4.041924|Barnstaple A39|england
+BATH|51.391127|-2.354155|Bath Roadside|england
+BIL|54.60537|-1.275039|Billingham|england
+BBRD|53.388511|-3.025014|Birkenhead Borough Road|england
+BIRR|52.47609|-1.875024|Birmingham A4540 Roadside|england
+AGRN|52.437165|-1.829999|Birmingham Acocks Green|england
+BIR1|52.511722|-1.830583|Birmingham Tyburn|england
+BLAR|53.747751|-2.452724|Blackburn Accrington Road|england
+BLC2|53.80489|-3.007175|Blackpool Marton|england
+BORN|50.73957|-1.826744|Bournemouth|england
+BDMA|53.771245|-1.759774|Bradford Mayo Avenue|england
+BRT3|50.840836|-0.147572|Brighton Preston Park|england
+BRS8|51.462839|-2.584482|Bristol St Paul's|england
+BURW|53.559029|-2.293772|Bury Whitefield Roadside|england
+CAM|52.20237|0.124456|Cambridge Roadside|england
+CANK|52.687298|-1.980821|Cannock A5190 Roadside|england
+CANT|51.27399|1.098061|Canterbury|england
+CARL|54.894834|-2.945307|Carlisle Roadside|england
+MACK|51.05625|-2.68345|Charlton Mackrell|england
+CHAT|51.374264|0.54797|Chatham Roadside|england
+CHLG|53.244131|-1.454946|Chesterfield Loundsley Green|england
+CHS7|53.231722|-1.456944|Chesterfield Roadside|england
+CHBO|51.149617|-1.438228|Chilbolton Observatory|england
+CHBR|50.735454|-1.780888|Christchurch Barrack Road|england
+COAL|52.411563|-1.560228|Coventry Allesley|england
+DCST|53.518868|-1.138073|Doncaster A630 Cleveland Street|england
+EB|50.805778|0.271611|Eastbourne|england
+EX|50.725083|-3.532465|Exeter Roadside|england
+GLAZ|53.46008|-2.472056|Glazebury|england
+HM|54.334944|-0.80855|High Muffles|england
+HONI|50.792287|-3.196702|Honiton|england
+HUL2|53.74878|-0.341222|Hull Freetown|england
+HULR|53.758971|-0.305749|Hull Holderness Road|england
+LB|53.40337|-1.752006|Ladybower|england
+LEAM|52.28881|-1.533119|Leamington Spa|england
+LEAR|52.294884|-1.542911|Leamington Spa Rugby Road|england
+LEED|53.80378|-1.546472|Leeds Centre|england
+LED6|53.819972|-1.576361|Leeds Headingley Kerbside|england
+LEIR|52.638677|-1.124228|Leicester A594 Roadside|england
+LECU|52.619823|-1.127311|Leicester University|england
+LEOM|52.22174|-2.736665|Leominster|england
+LIN3|53.221373|-0.534189|Lincoln Canwick Rd.|england
+LVP|53.34633|-2.844333|Liverpool Speke|england
+LH|50.7937|0.18125|Lullington Heath|england
+LUTR|51.892293|-0.46211|Luton A505 Roadside|england
+MAN3|53.48152|-2.237881|Manchester Piccadilly|england
+MAHG|53.371306|-2.239218|Manchester Sharston|england
+MKTH|52.554444|-0.772222|Market Harborough|england
+MID|54.569297|-1.220874|Middlesbrough|england
+NEWC|54.97825|-1.610528|Newcastle Centre|england
+NCA3|54.986405|-1.595362|Newcastle Cradlewell Roadside|england
+NTN3|52.271886|-0.879898|Northampton Kingsthorpe|england
+NO12|52.614193|1.301976|Norwich Lakenfields|england
+NOTT|52.95473|-1.146447|Nottingham Centre|england
+NWBV|52.969377|-1.188851|Nottingham Western Boulevard|england
+BOLD|52.502436|-2.003497|Oldbury Birmingham Road|england
+OX|51.751745|-1.257463|Oxford Centre Roadside|england
+OX8|51.744806|-1.260278|Oxford St Ebbes|england
+PLYM|50.37167|-4.142361|Plymouth Centre|england
+PMTH|50.82881|-1.068583|Portsmouth|england
+PRES|53.76559|-2.680353|Preston|england
+REA5|51.454896|-0.940382|Reading London Rd.|england
+ROCH|51.45617|0.634889|Rochester Stoke|england
+ECCL|53.48481|-2.334139|Salford Eccles|england
+SASH|50.411463|-4.227678|Saltash Callington Road|england
+SDY|52.132417|-0.300306|Sandy Roadside|england
+SCN2|53.58634|-0.636811|Scunthorpe Town|england
+CW|53.579283|-2.093786|Shaw Crompton Way|england
+SHBR|53.40495|-1.455815|Sheffield Barnsley Road|england
+SHDG|53.378622|-1.478096|Sheffield Devonshire Green|england
+SHE|53.41058|-1.396139|Sheffield Tinsley|england
+SIB|52.2944|1.463497|Sibton|england
+SA33|50.920265|-1.463484|Southampton A33|england
+SOUT|50.90814|-1.395778|Southampton Centre|england
+SEND|51.544206|0.678408|Southend-on-Sea|england
+SHLW|53.451826|-2.742134|St Helens Linkway|england
+OSY|51.77798|1.049031|St Osyth|england
+SOTR|54.565819|-1.3159|Stockton-on-Tees A1305 Roadside|england
+EAGL|54.516667|-1.358547|Stockton-on-Tees Eaglescliffe|england
+STKR|52.980436|-2.111898|Stoke-on-Trent A50 Roadside|england
+STOK|53.02821|-2.175133|Stoke-on-Trent Centre|england
+STOR|50.916932|-0.449548|Storrington Roadside|england
+SUN2|54.88361|-1.406878|Sunderland Silksworth|england
+SUNR|54.91839|-1.408391|Sunderland Wessington Way|england
+WAL4|52.605621|-2.030523|Walsall Woodlands|england
+WAR|53.38928|-2.615358|Warrington|england
+WEYB|52.95049|1.122017|Weybourne|england
+WFEN|52.2985|0.290917|Wicken Fen|england
+WSMR|53.365391|-2.73168|Widnes Milton Road|england
+WIG5|53.54914|-2.638139|Wigan Centre|england
+TRAN|53.37287|-3.022722|Wirral Tranmere|england
+WTHG|50.832947|-0.379916|Worthing A27 Roadside|england
+YW|50.5976|-3.71651|Yarner Wood|england
+YK10|53.967513|-1.086514|York Bootham|england
+17|45.071717|-64.479792|Kentville|nova_scotia
+3|45.07267|-64.84033|Aylesford|nova_scotia
+10|44.647175|-63.573689|Halifax Johnston|nova_scotia
+2|44.646347|-63.573569|Halifax Downtown|nova_scotia
+9|44.71969|-63.48162|Lake Major|nova_scotia
+4|45.682647|-62.69671|Pictou|nova_scotia
+5|46.142317|-60.172575|Sydney|nova_scotia
+8|45.614028|-61.362122|Port Hawkesbury|nova_scotia
+2|48.272553616|24.3585931271|Yasinia|zakarpattia
+8|48.0529841533|24.2051413236|Rakhiv|zakarpattia
+13|48.1081420517|24.2078813995|Terentyn|zakarpattia
+5|48.0588|24.4156|Luhy|zakarpattia
+26|47.968|24.0056|V. Bychkiv|zakarpattia
+27|48.004|24.1103|Kosivska Poliana|zakarpattia
+42|48.3087|24.2506|Drahobrat|zakarpattia
+48|47.9357|24.1738|Dilove|zakarpattia
+49|47.9372|23.8718|Solotvyno|zakarpattia
+18|48.12|22.82|Tisabech|zakarpattia
+19|48.0|22.5|Tivadar|zakarpattia
+20|48.41|22.2|Zakhon|zakarpattia
+21|48.11|22.31|Vasharoshnamen|zakarpattia
+22|47.79|22.71|Chenher|zakarpattia
+23|47.72|22.45|Aherdemaior|zakarpattia
+36|48.165|23.26|Khust|zakarpattia
+12|48.224037528|23.2413684455|Rokosovo|zakarpattia
+9|48.0050517748|23.5757464412|Tiachiv|zakarpattia
+4|48.18|23.25|Kryva|zakarpattia
+10|48.3301|23.9286|Ust-Chorna|zakarpattia
+17|48.24|24.05|Krasna|zakarpattia
+37|48.1144|23.7691|Nerestnytsia|zakarpattia
+39|48.715|23.38|N. Studenyi|zakarpattia
+40|48.6194|23.3307|Zalomysko|zakarpattia
+41|48.6723|23.563|Torun|zakarpattia
+34|48.6704|23.3381|Pylypets|zakarpattia
+35|48.5872|23.4446|Repynne|zakarpattia
+6|48.5269|23.5038|Mizhhiria|zakarpattia
+14|48.5|23.75|Kolochava retr.|zakarpattia
+3|48.4066|23.6756|Kolochava|zakarpattia
+1|48.3668608137|23.2857070769|Dovhe|zakarpattia
+28|48.26|22.85|Nyzhni Remety|zakarpattia
+31|48.6126|22.9632|Poliana|zakarpattia
+38|48.794|23.099|N. Vorota|zakarpattia
+15|48.7434083446|23.0209721955|Pidpolozzia|zakarpattia
+16|48.54|22.94|Svaliava|zakarpattia
+7|48.6666364069|23.1967980401|Plai|zakarpattia
+33|48.4431|22.7161|Mukachevo|zakarpattia
+46|48.45|22.25|Chop|zakarpattia
+43|48.7341|22.5148|Simer|zakarpattia
+44|48.77|22.5|Zarichevo|zakarpattia
+45|48.9053|22.5536|Yavornyk|zakarpattia
+11|48.6214|22.3|Uzhhorod|zakarpattia
+32|48.6988|22.7997|T. Poliana|zakarpattia
+29|48.8973|22.4651|V. Bereznyi|zakarpattia
+30|48.9894|22.6293|Zhornava|zakarpattia
+25|48.8586|22.6054|Chornoholova|zakarpattia
+33631|48.6332700965|22.2612241853|Uzhhorod|zakarpattia
+33514|48.8973|22.4651|V. Bereznyi|zakarpattia
+33634|48.217|22.633|Berehovo|zakarpattia
+33515|48.6675257518|23.1980875392|Plai|zakarpattia
+33638|48.165|23.26|Khust|zakarpattia
+33633|48.5269|23.5038|Mizhhiria|zakarpattia
+33647|48.0529841533|24.2051413236|Rakhiv|zakarpattia
+33517|48.794|23.099|N. Vorota|zakarpattia
+33518|48.712945435|23.3754595066|N. Studenyi|zakarpattia
+46|42.501528107|-92.3162044449|Waterloo, Water Tower|iowa
+4|41.8234469009|-90.2115603427|Clinton, Chancy Park|iowa
+3|41.8749559473|-90.1774342706|Clinton, Rainbow Park|iowa
+20|41.6581838968|-91.5034837383|Iowa City, Hoover School|iowa
+27|40.9690448535|-95.0449845864|Viking Lake State Park|iowa
+55|41.4014683118|-91.0684607139|Muscatine, High School East Campus|iowa
+15|43.1239241863|-94.693509682|Emmetsburg, ILCC|iowa
+6|41.5301353528|-90.5878207481|Davenport, 10th & Vine|iowa
+50|41.5121683906|-90.624016|Davenport, Hayes School|iowa
+8|40.6932073013|-92.0059125527|Lake Sugema|iowa
+53|42.3275630228|-96.3680570932|Sioux City, Neal North|iowa
+13|41.4069259415|-91.0616243872|Muscatine, Musser Park|iowa
+12|41.4194305608|-91.0710086904|Muscatine, Greenwood Cemetery|iowa
+2|41.4638033596|-90.6824487231|Buffalo, Linwood Mining|iowa
+8|58.3882105525|-134.56765397|Floyd Dryden|alaska
+20|64.7633479706|-147.309555561|FNSB NP Fire|alaska
+1|61.2059164011|-149.824698151|Garden|alaska
+5|61.3266793963|-149.569697798|Parkgate|alaska
+10|61.5330554184|-149.034593136|Butte|alaska
+13|61.5993121998|-149.10360433|Palmer|alaska
+26|61.1811077949|-149.834040151|Laurel|alaska
+17|64.8456852711|-147.727395755|FNSB NCORE|alaska
+AQ Central Phoenix CP|33.4579803079|-112.046593736|AQ Central Phoenix CP|phoenix
+AQ West 43rd Ave WF|33.4063266306|-112.144413842|AQ West 43rd Ave WF|phoenix
+AQ Cave Creek CC|33.821678819|-112.017188565|AQ Cave Creek CC|phoenix
+AQ Buckeye BE|33.3698986334|-112.620704762|AQ Buckeye BE|phoenix
+AQ South Phoenix SP|33.4031434589|-112.075225154|AQ South Phoenix SP|phoenix
+AQ North Phoenix NP|33.5603204312|-112.066192993|AQ North Phoenix NP|phoenix
+AQ Durango Complex DC|33.4265585507|-112.118149359|AQ Durango Complex DC|phoenix
+AQ South Scottsdale SS|33.4796559409|-111.917104705|AQ South Scottsdale SS|phoenix
+AQ Dysart DY|33.6371879441|-112.341858271|AQ Dysart DY|phoenix
+AQ Higley HI|33.3107058803|-111.722491226|AQ Higley HI|phoenix
+AQ Tempe TE|33.4112380633|-111.934726587|AQ Tempe TE|phoenix
+AQ West Chandler WC|33.298972005|-111.884273453|AQ West Chandler WC|phoenix
+AQ Zuni Hills ZH|33.6871762113|-112.294161947|AQ Zuni Hills ZH|phoenix
+AQ West Phoenix WP|33.4837843052|-112.142573119|AQ West Phoenix WP|phoenix
+AQ Deer Valley DV|33.6845040656|-112.086346543|AQ Deer Valley DV|phoenix
+AQ Glendale GL|33.56916667|-112.1913889|AQ Glendale GL|phoenix
+AQ Mesa ME|33.4101874469|-111.86535682|AQ Mesa ME|phoenix
+AQ Blue Point BP|33.5455337311|-111.609310013|AQ Blue Point BP|phoenix
+AQ Humbolt Mountain HM|33.9807454207|-111.797708814|AQ Humbolt Mountain HM|phoenix
+AQ Falcon Field FF|33.452328371|-111.733216461|AQ Falcon Field FF|phoenix
+AQ Pinnacle Peak PP|33.7122562808|-111.852628689|AQ Pinnacle Peak PP|phoenix
+AQ Fountain Hills FH|33.6109271076|-111.725355306|AQ Fountain Hills FH|phoenix
+AQ Rio Verde RV|33.7184164912|-111.671713496|AQ Rio Verde RV|phoenix
+AQ Diablo|33.39623257|-111.967989845|AQ Diablo|phoenix
+AQ Thirty-Third|33.4617304889|-112.127926911|AQ Thirty-Third|phoenix
+9|32.42526|-111.063519|Tangerine|tucson
+12|32.3807979537|-111.127179626|Coachline|tucson
+2|32.2951239367|-110.982301028|Childrens Park NCore|tucson
+10|32.2518502522|-110.965306056|Geronimo|tucson
+4|32.25658963|-110.94866714|Cherry & Glenn|tucson
+11|32.1730023199|-110.980137626|Rose Elementary|tucson
+3|32.20739|-110.910634|Alvernon & 22nd|tucson
+6|32.2044194275|-110.878069514|Craycroft & 22nd|tucson
+13|32.1912054464|-110.840594084|Golf Links|tucson
+7|32.1745752386|-110.737158738|Saguaro Park East|tucson
+8|32.047670411|-110.774377084|Fairgrounds|tucson
+5|31.8795071913|-110.99649028|Green Valley|tucson
+15|31.827282|-111.011128|Green Valley Fire|tucson
+MURI1|41.3728716494|-111.042259121|Murphy Ridge|wyoming
+MOXA1|41.7505422291|-109.788469019|Moxa Arch|wyoming
+WYHI1|41.1580029652|-108.619476779|Hiawatha|wyoming
+WAMS1|41.6777150735|-108.024134548|Wamsutter|wyoming
+SOPA1|42.527642599|-108.72034835|South Pass|wyoming
+WYJS1|42.4064430202|-109.560166266|Juel Spring|wyoming
+WYBP1|42.4866652101|-110.099124234|Big Piney|wyoming
+SHEL1|42.719025518|-109.752844599|Boulder|wyoming
+WYPD1|42.8698533664|-109.870820228|Pinedale|wyoming
+WYCH1|41.130738752|-104.753179126|Cheyenne Mobile|wyoming
+CHEY1|41.1822615515|-104.77871203|Cheyenne NCore|wyoming
+CASP1|42.8222628853|-106.365053638|Casper|wyoming
+WYCA1|42.8458020081|-106.277390172|Casper Mobile|wyoming
+WYCV1|43.1012952353|-105.498980953|Converse County|wyoming
+CACO1|44.1470970618|-105.530286888|Campbell County|wyoming
+TBNG1|44.6633382854|-105.287397344|Thunder Basin National Grassland|wyoming
+116|46.3180049133|-117.984928861|Dayton-W Main St|washington
+151|47.5926604722|-122.627498526|Bremerton-Spruce Ave|washington
+152|47.4306138499|-120.341905894|Wenatchee-Fifth St|washington
+155|47.8084977781|-117.342658205|Colbert-Greenbluff Rd|washington
+71|45.8679038147|-122.412031498|Yacolt-Yacolt Rd|washington
+132|48.3999503259|-119.518931544|Omak-Colville Tribe|washington
+190|47.6007325258|-122.148212039|Bellevue-SE 12th St|washington
+156|47.8062736989|-122.316689511|Lynnwood-212 (ULT)|washington
+68|48.4771022947|-120.190306786|Winthrop-Chewuch Rd|washington
+118|48.2940437987|-122.659547986|Oak Harbor-SW 6th|washington
+173|48.5447258541|-117.903144632|Colville-E 1st St|washington
+24|47.5977566137|-120.664029714|Leavenworth-Evans St|washington
+25|46.1393831372|-122.961981394|Longview-30th Ave|washington
+123|46.3754555221|-120.729368375|White Swan-Yakama Tribe|washington
+137|47.2135963895|-123.100928091|Shelton-W Franklin|washington
+42|47.5681884762|-122.308614849|Seattle-Beacon Hill|washington
+20|46.2184612415|-119.201164305|Kennewick-Metaline|washington
+29|46.5754655272|-119.00201321|Mesa-Pepiot Way|washington
+65|47.8852714127|-117.988669919|Wellpinit-Spokane Tribe|washington
+21|46.8153895175|-117.874033385|LaCrosse-Hill St|washington
+46|47.5296130829|-122.320651374|Seattle-South Park|washington
+27|48.0542753371|-122.171585736|Marysville-7th Ave|washington
+119|48.4653578067|-122.560388381|Anacortes-Bartholomew Rd|washington
+40|47.1280650399|-118.381875102|Ritzville-Alder St|washington
+41|47.2311443717|-117.369158815|Rosalia-Josephine St|washington
+2|47.3862247702|-122.231964228|Kent-Central & James|washington
+4|46.9725345311|-123.831644425|Aberdeen-Division St|washington
+1|47.0293974564|-122.821577276|Lacey-College St|washington
+5|47.613069716|-122.201888865|Bellevue-Bellevue Way|washington
+9|48.2977680365|-124.625035072|Cheeka Peak|washington
+7|48.7625167553|-122.442109997|Bellingham-Yew St|washington
+188|48.848065|-122.688888|Ferndale-Mountain View Rd|washington
+143|48.9476024098|-122.147092575|Maple Falls - Azure Way|washington
+120|47.6725461896|-117.364966668|Spokane-Augusta Ave|washington
+189|47.337866385|-120.094775626|Malaga-Malaga Hwy|washington
+141|48.5205695113|-122.614266591|Anacortes 202 Avenue|washington
+76|47.5599757788|-122.33826383|Seattle-Duwamish|washington
+108|47.6453849793|-117.589067398|Airway Heights-W 12th Ave|washington
+168|46.3197050573|-119.998469923|Sunnyside-S 16th St|washington
+72|46.5950331015|-120.512250122|Yakima-4th Ave|washington
+126|46.6640441084|-122.967351301|Chehalis-Market Blvd|washington
+127|48.3665538704|-124.610573753|Neah Bay 2-Makah Tribe|washington
+164|45.643350053|-122.587586263|Vancouver NE 84th Ave|washington
+166|48.1149931129|-123.43636179|Port Angeles- E 5th St|washington
+74|47.6998003159|-117.42639679|Spokane-Monroe St|washington
+106|47.6639533761|-117.257667073|Spokane-E Broadway Ave|washington
+10|47.838296759|-120.023411427|Chelan-Woodin Ave|washington
+56|47.3393125398|-124.285398106|Taholah-Quinault Tribe|washington
+38|47.1400951611|-122.300368699|Puyallup-128th St|washington
+15|48.950794757|-122.554374892|Custer-Loomis|washington
+58|48.3645525376|-120.12104321|Twisp-Glover St|washington
+17|46.9938311782|-120.544961585|Ellensburg-Ruby St|washington
+16|48.2468121065|-121.603072342|Darrington-Fir St|washington
+32|48.4101723261|-122.337538561|Mt Vernon-S Second St|washington
+31|46.7839591575|-121.743671252|Mt Rainier-Jackson Visitors Ctr|washington
+30|47.1303716293|-119.2737|Moses Lake-Balsam St|washington
+37|46.7245599535|-117.18067212|Pullman-Dexter SE|washington
+36|48.12919|-122.77897|Port Townsend-San Juan Ave|washington
+53|47.186328372|-122.451559919|Tacoma- L Street|washington
+77|47.490238327|-121.772783559|North Bend-North Bend Way|washington
+184|48.855274|-122.7047|Ferndale-Kickerville Road|washington
+54|47.2655932415|-122.384977236|Tacoma-Alexander Ave|washington
+64|46.0587892668|-118.351548253|Walla Walla-12th St|washington
+13|46.4255876257|-117.059735033|Clarkston-13th St|washington
+57|46.3803185225|-120.332765286|Toppenish-Yakama Tribe|washington
+28|36.8911213883|-81.25423|Rural Retreat|virginia
+10|38.0765035465|-78.5039362325|Albemarle High School|virginia
+17|39.280962952|-78.0815548046|Frederick Co. Public School Maint. Dept.|virginia
+25|37.6266545931|-79.5125733768|Natural Bridge Station|virginia
+26|38.47753|-78.81952|Harrisonburg VDOT|virginia
+24|37.2833985063|-79.8845149349|Herman L. Horn Elementary School|virginia
+13|37.3443612083|-77.2592297395|Charles City County|virginia
+14|37.3574732898|-77.5935010371|Beach Road VDOT|virginia
+18|37.6061420382|-77.2188016884|Hanover|virginia
+19|37.5564785076|-77.4002615581|MSIC (MathScience Innovation Center)|virginia
+37|37.5908291618|-77.4693276653|Bryan Park|virginia
+30|37.1037343466|-76.3870524559|NASA Langley Research Center|virginia
+31|36.8555608076|-76.3013212976|NOAA Storage Facility|virginia
+34|36.9012002522|-76.437909474|Tidewater Community College|virginia
+35|36.6652472914|-76.730752986|VA Tech Agricultural Research Center|virginia
+11|38.8577223507|-77.059192986|Aurora Hills Visitor Center|virginia
+12|38.2008925557|-77.37742|Fredericksburg Geomagnetic Observatory|virginia
+15|38.7733276228|-77.1046648046|Lee District Park - Fairfax County|virginia
+16|38.4736501727|-77.7677284419|Sumerduck - C. Phelps Wildlife Mgmt Area|virginia
+20|39.0246945853|-77.4892179208|Ashburn - Broad Run High School|virginia
+21|38.5228356648|-78.4349037675|Shenandoah National Park - Big Meadows|virginia
+23|38.8528200361|-77.6346115581|Long Park - Haymarket|virginia
+27|38.4812418951|-77.3703527255|Widewater Elem. School - Widewater|virginia
+39|38.7684895383|-77.1834615581|Springfield Near Road Site|virginia
+Appleton AAL|44.3074014972|-88.3950950068|Appleton AAL|wisconsin
+Bad River (Tribal site)|46.6022580011|-90.6561429864|Bad River (Tribal site)|wisconsin
+Bayside|43.1808069727|-87.9009104753|Bayside|wisconsin
+Beloit - Converse|42.518369045|-89.0636202037|Beloit - Converse|wisconsin
+Chiwaukee|42.504687311|-87.8092529463|Chiwaukee|wisconsin
+Columbus|43.3155198568|-89.1088849796|Columbus|wisconsin
+Devils Lake|43.4350818215|-89.6798301765|Devils Lake|wisconsin
+Eau Claire DOT|44.7613946117|-91.4130350475|Eau Claire DOT|wisconsin
+Fond du Lac|43.6874724101|-88.4220450611|Fond du Lac|wisconsin
+Grafton|43.3432111908|-87.9209963512|Grafton|wisconsin
+Green Bay East|44.5073078532|-87.9934900679|Green Bay East|wisconsin
+Green Bay UW|44.5309815374|-87.9080088049|Green Bay UW|wisconsin
+Harrington Beach|43.4982978165|-87.8102052784|Harrington Beach|wisconsin
+Horicon Wildlife Area|43.4663544665|-88.6211560611|Horicon Wildlife Area|wisconsin
+Jefferson - Laatsch|43.0034183077|-88.828204871|Jefferson - Laatsch|wisconsin
+Kenosha - Water Tower|42.5956038787|-87.8857635251|Kenosha - Water Tower|wisconsin
+Kewaunee|44.4431307237|-87.5051498778|Kewaunee|wisconsin
+Kohler|43.7439608513|-87.7776167858|Kohler|wisconsin
+La Crosse - DOT|43.7775506109|-91.2269100136|La Crosse - DOT|wisconsin
+Lake Dubay|44.7073587767|-89.771842879|Lake Dubay|wisconsin
+Lake Geneva|42.5805972372|-88.499290163|Lake Geneva|wisconsin
+Madison East|43.1010127858|-89.3576605975|Madison East|wisconsin
+Madison University|43.0737761964|-89.4359752377|Madison University|wisconsin
+Manitowoc|44.1386764905|-87.6161400543|Manitowoc|wisconsin
+Milwaukee College Ave Park and Ride|42.9307151346|-87.9320038642|Milwaukee College Ave Park and Ride|wisconsin
+Milwaukee Fire Dept HQ|43.0399644121|-87.9207842827|Milwaukee Fire Dept HQ|wisconsin
+Milwaukee SER DNR HQ|43.0609859743|-87.9135140136|Milwaukee SER DNR HQ|wisconsin
+Milwaukee Sixteenth St.|43.0172483944|-87.9337405568|Milwaukee Sixteenth St.|wisconsin
+Milwaukee College Ave Near Road|42.9326249862|-87.9343950747|Milwaukee College Ave Near Road|wisconsin
+Newport Park|45.2371621802|-86.9939162426|Newport Park|wisconsin
+Perkinstown|45.2066211653|-90.5971399185|Perkinstown|wisconsin
+Potawatomi (Tribal site)|45.5649729895|-88.8085749796|Potawatomi (Tribal site)|wisconsin
+Potosi|42.6930147199|-90.6981451969|Potosi|wisconsin
+Racine|42.7147809056|-87.7984137365|Racine|wisconsin
+Rhinelander|45.6450850025|-89.41848|Rhinelander|wisconsin
+Sheboygan|43.8151997783|-87.7912896401|Sheboygan|wisconsin
+Sheboygan Kohler-Andre|43.679|-87.716|Sheboygan Kohler-Andre|wisconsin
+Trout Lake|46.0518332123|-89.6538511543|Trout Lake|wisconsin
+Wauk-Cleveland|43.0201189367|-88.2150500679|Wauk-Cleveland|wisconsin
+80010008|39.8283852654|-104.938268711|Adams County Admin Building (ADM)|colorado
+80590002|39.8003357534|-105.099996163|Arvada (ARV)|colorado
+80970007|39.1956849615|-106.836135827|Aspen (ASPN)|colorado
+80590013|39.5415058979|-105.298358569|Aspen Park (ASP)|colorado
+80970008|39.1929751699|-106.823239234|Aspen PM (ASPN2)|colorado
+80050006|39.6385895337|-104.568974918|Aurora East (AURE)|colorado
+80130014|40.0702995864|-105.220264256|Boulder Reservoir (BOUR)|colorado
+80131001|40.0129781629|-105.267204859|Boulder-CU/Athens (BOU)|colorado
+80310002|39.7511896933|-104.98764585|CAMP (CAMP)|colorado
+80310014|39.7517796996|-105.030540125|Carriage (CRG)|colorado
+80350004|39.5344881423|-105.070366459|Chatfield Park (CHAT)|colorado
+80410017|38.8480085204|-104.828588744|Colorado College (CCOL)|colorado
+80771001|39.1069178942|-108.74100134|Colorado National Monument (CO NM)|colorado
+80830006|37.3501512|-108.587177897|Cortez Ozone (CTZ)|colorado
+80290004|38.7392093208|-108.073081977|Delta (DELT)|colorado
+80310025|39.703960702|-104.99798783|Denver Animal Shelter (DMAS)|colorado
+80310016|39.7357328688|-104.95813449|DESCI (DES)|colorado
+80810003|40.3292140077|-108.494275667|Elk Springs (ELK)|colorado
+80691004|40.5774661772|-105.078750428|Fort Collins - CSU (FTC)|colorado
+80690009|40.5712526966|-105.08000607|Fort Collins - CSU Facilities (FTCF)|colorado
+80690012|40.583899729|-105.075273746|Fort Collins - DMA (DMA)|colorado
+80690012|40.6421067041|-105.275106269|Fort Collins - Rist Canyon (FTCR)|colorado
+80690011|40.5925190278|-105.141139945|Fort Collins - West (FTCW)|colorado
+80770017|39.0637874321|-108.561278393|Grand Jct. Powell/PM2.5 (GJPB)|colorado
+80770018|39.0642673939|-108.561650057|Grand Junction Shelter (GJCT)|colorado
+81230006|40.4148277045|-104.706873581|Greeley - Hospital (GREH)|colorado
+81230009|40.3863182421|-104.737406692|Greeley - Weld Co. Tower (GRET)|colorado
+80050002|39.5679658777|-104.95722955|Highland (HLD)|colorado
+80410015|38.8309069267|-104.839265636|Highway 24 (H24)|colorado
+80310027|39.7321176892|-105.015321374|I-25 Denver (I25DEN)|colorado
+80310028|39.7859129872|-104.988878383|I-25 Globeville (I25GLO)|colorado
+80310026|39.7794887774|-105.005185373|La Casa (CASA)|colorado
+80990003|38.1137892425|-102.62618656|Lamar Met - Port of Entry (LAM)|colorado
+80130003|40.1645985744|-105.100791755|Longmont - Municipal (LNGM)|colorado
+80410016|38.8530723127|-104.901390484|Manitou (MAN)|colorado
+80310013|39.7385868349|-104.939961971|National Jewish Hospital (NJH)|colorado
+80590011|39.7432067569|-105.179095029|NREL - South Table Mtn. (NREL)|colorado
+80770020|39.1306798221|-108.313612409|Palisade Ozone & Met (PAL)|colorado
+80850005|38.342466705|-108.945025232|Paradox (PDX)|colorado
+80450012|39.541812217|-107.784051716|Rifle Ozone (RIFLO3)|colorado
+80450007|39.5319191199|-107.78218296|Rifle PM (RIFL)|colorado
+80590006|39.912816241|-105.188595775|Rocky Flats - North (RFN)|colorado
+80410013|38.9583394427|-104.817227412|U.S. AF Academy (ACAD)|colorado
+80013001|39.8382164216|-104.949851832|Welby (WBY)|colorado
+80590005|39.6387848353|-105.139507669|Welch (WCH)|colorado
+49|21.9494832709|-159.364962436|NIUMALU|hawaii
+34|21.323757658|-158.08866521|KAPOLEI|hawaii
+44|21.3933176455|-157.969994771|PEARL CITY|hawaii
+46|21.3058679218|-157.873035283|SAND ISLAND|hawaii
+37|21.3076269382|-157.855463849|HONOLULU|hawaii
+60|20.8709533336|-156.4924643|KAHULUI|hawaii
+45|20.7809942748|-156.446376908|KIHEI|hawaii
+54|20.9019201489|-156.370487822|PAIA|hawaii
+41|19.509663548|-155.913503613|KONA|hawaii
+36|19.1175674165|-155.778221597|OCEAN VIEW|hawaii
+38|19.2038306254|-155.480129403|PAHALA|hawaii
+40|19.7175974551|-155.110543613|HILO|hawaii
+48|19.5554126358|-155.101966113|MOUNTAIN VIEW|hawaii
+42|-154.898668|-154.898668|PUNA E|hawaii
+DIXIE|32.6798040389|-93.8601451969|Dixie site|louisiana
+SHREVEPORT|32.5362672908|-93.7489513535|Shreveport Downtown Airport site|louisiana
+MONROE|32.5097525801|-92.0460882261|Monroe Airport site|louisiana
+CARVILLE|30.2038182619|-91.117277955|Carville site|louisiana
+CONVENT|29.9948697194|-90.8171010685|St. James Parish Courthouse Convent site|louisiana
+DUTCHTOWN|30.2293825445|-90.9654988153|Dutchtown site|louisiana
+FRENCHSETTLEMENT|30.3151633156|-90.8112760655|French Settlement site|louisiana
+BAYOUPLAQUEMINE|30.2210171495|-91.3152794046|Bayou Plaquemine site|louisiana
+LSU|30.4198169162|-91.1820275221|Baton Rouge LSU site|louisiana
+CAPITOL|30.4620452411|-91.1792281671|Baton Rouge Capitol site|louisiana
+PORTALLEN|30.5008489435|-91.2136172379|Port Allen site|louisiana
+SOUTHERN|30.525663472|-91.1861561245|Southern University site|louisiana
+PRIDE|30.7008983903|-91.0560550131|Pride site|louisiana
+NEWROADS|30.6817223817|-91.3662373972|New Roads site|louisiana
+I610|29.9959712853|-90.1181956378|I-610 site New Orleans|louisiana
+KENNER|30.0410099353|-90.2727806935|Kenner site|louisiana
+THIBODAUX|29.7644250564|-90.7655597716|Thibodaux site|louisiana
+CHALMETTEVISTA|29.9431083564|-89.9762492481|Chalmette Vista site|louisiana
+GARYVILLE|30.0572770827|-90.6191744989|Garyville site|louisiana
+CITYPARK|29.9933177269|-90.1014226017|New Orleans City Park site|louisiana
+MERAUX|29.9396295655|-89.9238304033|Meraux site|louisiana
+MADISONVILLE|30.4293392324|-90.1996794982|MadisonvilleNorthshore site|louisiana
+LAFAYETTE|30.2258785702|-92.0427641658|Lafayette USGS site|louisiana
+STMARTINVILLE|30.088037063|-91.8697652309|St. Martinville site|louisiana
+CARLYSS|30.1400216494|-93.3682801676|Carlyss site|louisiana
+VINTON|30.2276329477|-93.579751289|Vinton site|louisiana
+WESTLAKE|30.2624216898|-93.2850756408|Westlake site|louisiana
+LIGHTHOUSE|30.2199065818|-93.3092766736|Lake Charles Lighthouse Lane site|louisiana
+250030006|42.4520186087|-73.2554039806|PITTSFIELD SOUTH ST|massachusetts
+250130016|42.1090412086|-72.5912781415|SPRINGFIELD|massachusetts
+250130008|42.1944741678|-72.5556415732|CHICOPEE|massachusetts
+250154002|42.2985280551|-72.3345804293|WARE|massachusetts
+250112005|42.6058329834|-72.5966537098|GREENFIELD|massachusetts
+250270023|42.2639820486|-71.7948544234|WORCESTER SUMMER ST|massachusetts
+250051004|41.6857451724|-71.1697707631|FALL RIVER|massachusetts
+250230005|42.0651058088|-71.0127430097|BROCKTON|massachusetts
+250213003|42.2118361914|-71.1145195732|BLUE HILL|massachusetts
+250092006|42.4748622143|-70.971967435|LYNN|massachusetts
+250094005|42.8145102197|-70.818491806|NEWBURYPORT|massachusetts
+250250044|42.3251398385|-71.0560012781|VON HILLERN|massachusetts
+250250042|42.3295110379|-71.0826570049|ROXBURY|massachusetts
+250250002|42.3489550689|-71.0977066427|KENMORE|massachusetts
+250095005|42.7708739746|-71.1028364293|HAVERHILL|massachusetts
+SL|45.7804091657|-108.511545185|Billings|montana
+BI|45.3661538434|-106.489822311|Birney|montana
+BH|45.6837694478|-111.056334158|Bozeman|montana
+BD|45.4403077149|-105.370262695|Broadus|montana
+BN|46.0026077351|-112.501250593|Butte|montana
+FV|48.3637153861|-114.189269016|Flathead Valley|montana
+FT|47.0129126951|-114.224269835|Frenchtown|montana
+OP|47.4943271583|-111.303333632|Great Falls|montana
+PS|46.2436252054|-114.15886523|Hamilton|montana
+RP|46.6587663046|-112.013102442|Helena|montana
+LB|48.3916801562|-115.55226892|Libby|montana
+ML|48.3175253305|-107.862253714|Malta:2309 Short Oil Road|montana
+MS|46.8423027098|-114.020582393|Missoula|montana
+SE|47.1756351845|-113.476170127|Seeley Lake|montana
+OF|47.8034030102|-104.48558098|Sidney|montana
+TF|47.5943945196|-115.323750607|Thompson Falls|montana
+PE|44.6570190742|-111.08961098|West Yellowstone|montana
+LT|47.0485156425|-109.455359287|Lewistown|montana
+23-005-2003|43.5610434965|-70.207334153|Cape Elizabeth|maine
+23-031-2002|43.3431687525|-70.4710525893|Kennebunkport|maine
+23-009-0103|44.3771094997|-68.2609372121|McFarland Hill|maine
+23-013-0004|43.9179625686|-69.2607600588|Port Clyde|maine
+23-029-0019|44.5317180612|-67.5956093828|Jonesport|maine
+23-029-0032|44.9636347288|-67.0607347369|Sipayik (Pleasant...|maine
+23-009-0102|44.3517566623|-68.226898049|Cadillac|maine
+23-017-0002|44.3778163131|-70.8547770817|Bethel|maine
+23-001-0014|43.9746901813|-70.1246095136|Durham|maine
+23-011-2005|44.2306356148|-69.7849861509|Gardiner|maine
+23-031-0040|43.5889287147|-70.8771782754|Shapleigh Ball Park|maine
+23-031-0038|43.6567184938|-70.6290511366|West Buxton|maine
+23-019-4008|44.7361160535|-68.6709569921|Holden|maine
+23-003-0014|47.3552706177|-68.3209298187|Madawaska|maine
+23-003-1008|46.6985014253|-68.0389846975|Presque Isle|maine
+23-007-2002|45.0802845698|-70.211892024|Carrabassett|maine
+23-017-2011|44.5514366328|-70.5463143308|Rumford|maine
+23-001-0011|44.0894137723|-70.214227098|Lewiston|maine
+23-019-0010|44.8166078102|-68.8202066136|Bangor|maine
+23-019-0002|44.7988624673|-68.7696630972|Bangor|maine
+23-005-0029|43.6602640157|-70.2689929167|Portland Deering ...|maine
+43|36.1063882241|-115.253327456|Paul Meyer|clark_country
+71|36.169751|-115.263025|Walter Johnson|clark_country
+73|36.1734250057|-115.332736313|Palo Verde|clark_country
+75|36.2705901956|-115.238280544|Joe Neal|clark_country
+298|36.0487057239|-115.052910006|Green Valley|clark_country
+540|36.1419076131|-115.078758469|Jerome Mack|clark_country
+561|36.163959|-115.113916|Sunrise Acres|clark_country
+601|35.9781593068|-114.846324775|Boulder City|clark_country
+1019|35.785671|-115.357081469|Jean|clark_country
+1501|36.1397224314|-115.17566125|Rancho & Teddy|clark_country
+1502|36.1743451877|-115.139738762|Casino Center|clark_country
+2002|36.1912491956|-115.122963469|JD Smith|clark_country
+8000|36.3578175627|-115.361370619|Las Vegas Paiute|clark_country
+9992|36.2155956021|-115.195343563|NLV Airport|clark_country
+38|40.853544649|-73.9661459841|Ft Lee Near Road|new_jersey
+16|40.7316060206|-74.0663338431|Jersey City|new_jersey
+17|40.7254193816|-74.0523333496|Jersey City FH|new_jersey
+34|40.7210388218|-74.192883291|Newark Firehouse|new_jersey
+2|40.6702634145|-74.1261206783|Bayonne|new_jersey
+10|40.662347|-74.214867|Elizabeth|new_jersey
+11|40.6414540634|-74.2083752912|Elizabeth Trailer|new_jersey
+30|40.6033465142|-74.275038422|Rahway PM|new_jersey
+25|40.46218|-74.4294346941|Rutgers University|new_jersey
+12|40.515282059|-74.8066828999|Flemington|new_jersey
+37|39.9345330071|-75.1262117597|Camden Spruce St|new_jersey
+6|40.7876371557|-74.6763091747|Chester|new_jersey
+36|40.9246118024|-75.0678192704|Columbia|new_jersey
+18|39.4222877611|-75.0252070745|Millville|new_jersey
+32|39.4648774189|-74.4487239144|Brigantine|new_jersey
+53|40.7431701011|-73.5854990411|Eisenhower Park|new_york
+56|40.8489429172|-73.9305900411|IS 143|new_york
+42|43.6859131906|-74.9856172278|Nicks Lake|new_york
+60|40.7144504732|-73.9951734293|Division Street|new_york
+134|42.9213297721|-78.7658261694|Buffalo Near Road|new_york
+50|43.4495835551|-74.5162417146|Piseco Lake|new_york
+62|40.7362862565|-73.8215619408|Queens College|new_york
+63|41.1821098642|-74.0281679209|Rockland County|new_york
+61|40.5802646017|-74.198299653|Fresh Kills West|new_york
+80|40.63306|-74.137156|Port Richmond|new_york
+25|41.7855191222|-73.7413190206|Millbrook|new_york
+49|40.5966541321|-74.125254653|Susan Wagner|new_york
+24|40.8161463073|-73.9020880798|IS 52|new_york
+46|40.7452282374|-73.4192472237|Babylon|new_york
+21|42.9932869117|-78.7715750386|Amherst|new_york
+44|43.0523629002|-76.0592105913|East Syracuse|new_york
+45|42.0911590174|-77.2098745423|Pinnacle|new_york
+28|43.145785801|-77.5405982378|Rochester|new_york
+40|44.3658835886|-73.9029404248|Whiteface Summit|new_york
+3|43.2842818347|-76.4627931015|Fulton|new_york
+1|42.6422684022|-73.7546783651|Albany County HD|new_york
+5|42.6807823531|-73.7574190363|Loudonville|new_york
+8|40.815414878|-73.8854659202|IS 74|new_york
+6|40.6944959018|-73.927573676|PS 274|new_york
+13|40.72698|-73.8931304692|Maspeth|new_york
+75|40.7299989253|-73.9844593059|PS 19|new_york
+73|40.8197231969|-73.9482483059|CCNY|new_york
+106|43.145000436|-77.5576065702|Rochester Near Rd|new_york
+39|44.393127688|-73.8589460206|Whiteface Base|new_york
+79|42.9981419554|-78.8993178162|Tonawanda II|new_york
+10|40.6418094081|-73.8855380411|PS 314|new_york
+77|42.9883081234|-78.9184766324|Grand Island Blvd|new_york
+19|42.8769629342|-78.8097499794|Buffalo|new_york
+35|43.0118600689|-73.6491744474|Stillwater|new_york
+30|44.0875118803|-75.9732264482|Perch River|new_york
+33|41.4559298723|-73.7097469794|Mt. Ninham|new_york
+15|43.0988825189|-75.2249920629|Utica|new_york
+36|40.8280013888|-73.0575396877|Suffolk County|new_york
+38|41.4991921972|-74.0088929794|Newburgh|new_york
+34|41.0519012633|-73.7636410206|White Plains|new_york
+57|40.867940554|-73.8781261237|NYBG|new_york
+18|42.4996416111|-79.3187812505|Dunkirk|new_york
+1|36.7971322152|-108.474045631|1H San Juan Substation|new_mexico
+4|36.7420161292|-107.977495333|1ZB Bloomfield|new_mexico
+81|36.8097540925|-107.651590999|1NL Navajo Lake|new_mexico
+26|36.38333|-105.58333|3ZD Taos Fire Station|new_mexico
+103|36.1877374158|-106.698391678|3CRD Coyote Ranger District|new_mexico
+97|35.6198112353|-106.079555543|3SFA Santa Fe Airport|new_mexico
+108|35.3289041201|-106.47674494|Placitas PM|new_mexico
+8|35.2994644198|-106.548402508|2ZJ Bernalillo|new_mexico
+93|34.8147852529|-106.739661423|2LL Los Lunas|new_mexico
+38|32.7267517534|-103.122876046|5ZS Hobbs Jefferson|new_mexico
+35|32.3799330018|-104.261681081|5ZR Carlsbad|new_mexico
+90|32.2557811636|-107.72264293|7E Deming Airport|new_mexico
+63|32.424602234|-106.673962092|6ZL Holman Rd|new_mexico
+72|32.3177579796|-106.768096594|6ZQ Solano Drive|new_mexico
+50|32.2780826504|-106.86495731|6WM West Mesa|new_mexico
+60|32.0411285512|-106.409610436|6ZK Chaparral|new_mexico
+42|32.0032805801|-106.599290368|6CM Anthony|new_mexico
+46|31.9304164044|-106.630588425|6O La Union|new_mexico
+69|31.7880521323|-106.682558414|6ZN Santa Teresa|new_mexico
+66|31.7961774276|-106.583851701|6ZM Desert View|new_mexico
+56|31.7958462757|-106.557601218|6ZG Sunland Park|new_mexico
+10102|44.4180031874|-118.951342394|10102|oregon
+10118|42.1903009595|-121.731389081|10118|oregon
+10123|42.1892249192|-120.353984619|10123|oregon
+10139|45.496666024|-122.602921625|10139|oregon
+10146|45.6522387984|-118.823057544|10146|oregon
+10162|45.426351|-117.296066|10162|oregon
+14152|45.768531|-122.772151319|14152|oregon
+18432|42.2900659404|-123.232102231|18432|oregon
+20448|42.314086076|-122.87924785|20448|oregon
+20478|44.5884301915|-123.267529819|20478|oregon
+20481|45.4702035179|-122.816437775|20481|oregon
+21252|45.6024236832|-121.203429394|21252|oregon
+21886|44.61569|-123.091472619|21886|oregon
+24172|44.0639063802|-121.312609781|24172|oregon
+25161|42.6234794794|-122.809327974|25161|oregon
+28859|42.4341768257|-123.3485017|28859|oregon
+31001|44.3958159428|-122.730522313|31001|oregon
+31008|44.2998652479|-120.844837706|31008|oregon
+31016|43.5892839381|-119.04872|31016|oregon
+31035|44.2920920145|-121.555504463|31035|oregon
+31036|42.1617099235|-123.648521806|31036|oregon
+31063|42.1939760538|-122.708294156|31063|oregon
+31070|45.3239952348|-118.078959963|31070|oregon
+31929|44.9431171586|-123.005956313|31929|oregon
+31967|45.5285119418|-122.972435931|31967|oregon
+32529|43.2266487741|-123.364830163|32529|oregon
+32758|44.7882785915|-117.84436795|32758|oregon
+102|48.7056479854|-116.369364644|Bonners Ferry KTOI|idaho
+114|48.2921256136|-116.556707669|Sandpoint PM|idaho
+170|47.7889069737|-116.804560207|Lancaster BAM 1020|idaho
+135|47.5367329504|-116.23692274|Pine PM Map|idaho
+96|47.3385805306|-116.885963206|Plummer (PM2.5)|idaho
+181|47.3168885315|-116.570773583|St Maries BAM 1020|idaho
+208|46.408338856|-116.992589822|Lewiston PM25 BAM|idaho
+210|46.721932|-116.95918|Moscow PM25 BAM|idaho
+18|44.9069249965|-116.106687201|McCall USFS (PM2.5)|idaho
+207|45.9312058418|-116.115498625|Grangeville PM25 BAM|idaho
+11|44.1043814842|-115.973282541|Garden Valley (PM2.5)|idaho
+39|45.1819053251|-113.890282511|Salmon (PM2.5-BAM)|idaho
+14|43.8228844087|-115.839768397|Idaho City (PM2.5)|idaho
+30|43.6189540804|-116.213711243|Boise Fire Station #5 (PM10)|idaho
+108|43.6007557904|-116.347936881|St Lukes|idaho
+163|43.5803019805|-116.56262983|Nampa Particulate|idaho
+195|42.5651768333|-114.494950438|Rock Creek BAM|idaho
+134|42.8769200585|-112.460003813|Pocatello PM|idaho
+180|43.4647037872|-112.046515116|Idaho Falls BAM|idaho
+36|42.0135036058|-111.809996316|Franklin (PM2.5-BAM)|idaho
+03614|38.3426193267|-120.764433066|Jackson-Clinton Road|california
+04625|39.7616931158|-121.840496685|Chico - East Avenue|california
+04633|39.7792102495|-121.59128393|Paradise - Theater|california
+04636|39.3275600248|-121.668832896|Gridley|california
+04638|39.7084760739|-121.617323047|Paradise - Airport|california
+05633|38.2019025973|-120.680288304|San Andreas-Gold Strike Road|california
+06646|39.1891932931|-121.998890755|Colusa-Sunrise Blvd|california
+07432|37.9262031535|-122.385490429|Richmond-Point Richmond|california
+07434|38.0128648608|-122.13447638|Martinez-Jones Street|california
+07436|37.8647832824|-122.3027392|Berkeley - Aquatic Park|california
+07437|38.0548853234|-122.233208005|Crockett-Kendall Avenue|california
+07441|37.9480053188|-122.364765909|Richmond-7th Street|california
+07442|38.0063218002|-121.641961653|Bethel Island Road|california
+07446|38.0342899064|-122.270356679|Rodeo-Third St|california
+07447|37.9603940001|-122.356823817|San Pablo-Rumrill|california
+07448|37.936015587|-122.026251061|Concord|california
+09690|38.7253136111|-120.821966744|Placerville-Gold Nugget Way|california
+09691|38.9450062328|-119.970475907|South Lake Tahoe-Sandy Way|california
+09693|38.8909565615|-121.003389043|Cool (seasonal)|california
+09695|38.8116524004|-120.033093871|Echo Summit (seasonal)|california
+10025|36.7262189968|-119.732433674|Fresno - Pacific|california
+10230|36.5974962754|-119.503691252|Parlier|california
+10240|34.841579792|-118.860615048|Lebec|california
+10241|36.9532626859|-120.034220012|Madera City|california
+10242|36.6342585282|-120.382333942|Tranquility|california
+10243|36.0318061958|-119.055046245|Porterville|california
+10244|36.7055349123|-119.741387497|Fresno - Drummond|california
+10245|36.8415670294|-119.874475048|Fresno - Skypark|california
+10247|36.1986601009|-120.101183769|Huron - 4th Street|california
+10248|36.8193320514|-119.716398013|Clovis-N Villa Avenue|california
+10251|36.7853789975|-119.77313615|Fresno - Garland|california
+10252|36.7108860206|-119.777446272|Fresno - Foundry Park|california
+11676|39.5338678147|-122.190855102|Willows-Colusa|california
+12505|40.7767596954|-124.179484601|Eureka - Jacobs Ave.|california
+12507|40.7152572908|-124.201486182|Eureka - Humboldt Hill|california
+13601|33.3526494092|-115.734269815|Bombay Beach|california
+13602|33.1763797634|-115.623015395|Sonny Bono|california
+13603|33.1691332486|-115.855801804|Naval Test Base|california
+13604|33.2724759522|-115.900630841|Salton City|california
+13694|32.7921367092|-115.562946229|El Centro-9th Street|california
+13697|33.0324042482|-115.62364777|Westmorland|california
+13698|32.6761820787|-115.483081796|Calexico-Ethel Street|california
+13701|32.9782495138|-115.539000047|Brawley-Main Street #2|california
+13997|33.2134352412|-115.545221724|Niland-English Road|california
+14022|36.3261400844|-117.955100014|Dirty Socks|california
+14024|36.4199660433|-117.836721252|Flat Rock|california
+14025|36.3663099208|-117.897573742|Shell Cut|california
+14151|36.5088338554|-116.847688712|Death Valley Natl Monument|california
+14696|36.049349811|-117.943779715|Coso Junction - Hwy. 395|california
+14699|36.6089770334|-118.057792449|Lone Pine-E Locust Street|california
+14700|36.6081931006|-118.047674376|Lone Pine Sewer Ponds|california
+14724|36.0571928988|-117.861355532|Coso Junction - Gate|california
+14727|36.5422479324|-117.990083742|North Beach Owens Lake|california
+14728|36.4878640888|-117.871042503|Keeler-Cerro Gordo Road|california
+14729|36.2675620184|-117.99298|Olancha-Walker Creek|california
+14730|36.3619319362|-118.010812531|Owens Lake-Ash Point-Stanley|california
+14732|37.3607015383|-118.330810313|White Mountain Research Station|california
+14733|36.5431220113|-117.941816272|Lizard Tail|california
+14734|36.458048926|-117.851846245|Mill|california
+15242|35.3456345035|-118.851794952|Edison|california
+15243|35.4380379604|-119.01680502|Oildale|california
+15246|35.0515497532|-119.402640014|Maricopa|california
+15248|35.5035042658|-119.272637497|Shafter|california
+15249|35.2391922679|-118.788631252|Arvin - Di Giorgio|california
+15252|35.0504807409|-118.147788762|Mojave|california
+15255|35.3566077499|-119.062584966|Bakersfield-California Avenue|california
+15256|35.3856108157|-119.015003755|Bakersfield-Golden|california
+15257|35.3315610212|-118.999923782|Bakersfield - Municipal Airport|california
+15258|35.3246532762|-118.997647524|Bakersfield - Airport|california
+15300|35.621087965|-117.672992544|Ridgecrest - California Av|california
+15310|35.7276951009|-118.137716744|Canebrake|california
+16716|36.3157573173|-119.643322626|Hanford-S Irwin Street|california
+16719|36.1021919094|-119.565700081|Corcoran-Patterson Avenue|california
+17713|39.0327122557|-122.922356739|Lakeport-Lakeport Blvd|california
+17720|38.7745159782|-122.699499114|Anderson Springs|california
+17725|38.8502557859|-122.736159488|Hobergs-Pine Summit|california
+17728|38.8484846784|-122.757919673|Glenbrook|california
+20211|36.8671646484|-120.010126769|Madera - Pump Yard|california
+21451|37.9723386112|-122.520116065|San Rafael|california
+21454|37.8336271882|-122.533214428|Fort Cronkhite|california
+22742|37.7487527655|-119.587106572|Yosemite Village - Visitor Center|california
+22744|37.5437254954|-119.839614405|Jerseydale|california
+22746|37.7132357091|-119.706164143|Yosemite Natl Park-Turtleback|california
+23754|39.4117800559|-123.352652455|Willits - Justice Center|california
+23758|39.4373417809|-123.787622584|Fort Bragg - 300 Dana Street|california
+23764|39.150484841|-123.206557874|Ukiah - Library|california
+23769|39.1456703457|-123.202985107|Ukiah - Gobbi Street|california
+24510|37.3085912723|-120.480452787|Merced M Street|california
+24528|37.2817842559|-120.43369341|Merced - Coffee Road|california
+24531|37.7934368995|-121.247820439|Manteca AMS|california
+26011|38.0697241579|-118.947744516|Mono Lake - North Shore|california
+26779|37.9596988541|-119.120281118|Lee Vining-SMS|california
+26785|37.6457188924|-118.966556711|Mammoth Lakes-Gateway HC|california
+27550|36.4819444465|-121.733338635|Carmel Valley-Ford Road|california
+27554|36.6942383675|-121.623315196|Salinas #3|california
+27555|36.2090308425|-121.125991592|King City - Pearl|california
+28783|38.3109763829|-122.296174431|Napa-Jefferson Avenue|california
+29794|39.327800023|-120.184573567|Truckee - Fire Station|california
+29800|39.2334830498|-121.055601921|Grass Valley-Litton Building|california
+29802|39.3178367101|-120.845327023|White Cloud (seasonal)|california
+30002|33.6299707926|-117.675852463|Mission Viejo|california
+30031|33.8193266385|-117.918777524|Anaheim - Near Road|california
+30177|33.9250924073|-117.952594011|La Habra|california
+30178|33.8306110398|-117.938520027|Anaheim-Loara School|california
+30195|33.6746120609|-117.925371715|Costa Mesa-Mesa Verde Drive|california
+31815|38.9356546592|-121.099660262|Auburn - Atwood Rd|california
+31817|38.8856120749|-121.302069058|Lincoln - 1445 1st St.|california
+31818|39.0998096057|-120.953939682|Colfax-City Hall|california
+31819|39.1659588089|-120.148927504|Tahoe City - 221 Fairway Drive|california
+31822|38.746405799|-121.265000723|Roseville-N Sunrise Ave|california
+32821|39.9395720449|-120.944378126|Quincy-N Church Street|california
+32823|40.30965864|-121.227846975|Chester|california
+32826|39.8133378855|-120.470710063|Portola - Gulling Street|california
+33031|33.5836834973|-117.082790518|Temecula - Lake Skinner|california
+33033|33.5720019423|-116.063826526|Mecca - Saul Martinez|california
+33137|33.8526477536|-116.541015069|Palm Springs-Fire Station|california
+33144|33.9995044343|-117.415931225|Rubidoux - Mission Blvd|california
+33149|33.7893476846|-117.227667537|Perris|california
+33155|33.9214654901|-117.572415382|Norco|california
+33157|33.7085371181|-116.215405704|Indio-Jackson Street|california
+33158|33.6765487495|-117.33104|Lake Elsinore-W Flint Street|california
+33164|33.9207918121|-116.858435034|Banning-Airport|california
+33165|33.9963693397|-117.492412517|Mira Loma-Van Buren|california
+33199|34.0854992037|-117.312864803|San Bernardino - KVCR Tower|california
+33201|33.6124002264|-114.602020238|Blythe-Murphy Street|california
+33601|33.5183285362|-116.075363008|Torres - Martinez|california
+33602|33.5089674147|-115.91959992|Salton Sea Park|california
+34277|38.5563320681|-121.458698292|Sacramento-Health Dept|california
+34279|38.5933258281|-121.503740351|Sacramento - Bercut Drive|california
+34284|38.5512335068|-121.336596724|Sacramento-Branch Center #2|california
+34294|38.7120920034|-121.381075919|North Highlands-Blackfoot Way|california
+34295|38.6137297553|-121.36802756|Sacramento-Del Paso Manor|california
+34305|38.5684478286|-121.493145347|Sacramento - 1309 T Street|california
+34310|38.3025700293|-121.420826742|Elk Grove - Bruceville Road|california
+34311|38.6832969931|-121.164453147|Folsom-Natoma Street|california
+34312|38.4944662441|-121.211171216|Sloughhouse|california
+34315|38.6506899222|-121.506630571|Sacramento-Goldenland|california
+35823|36.8434428121|-121.362116704|Hollister-Fairview Road|california
+35824|36.4832960384|-121.156805971|Pinnacles National Monument|california
+36001|34.2646565514|-116.861483769|Big Bear|california
+36035|34.0681295033|-117.525770118|Ontario - Near Road (Etiwanda)|california
+36036|34.0309012777|-117.617435119|Ontario - Route 60 Near Road|california
+36150|33.7412754225|-115.820407666|Joshua Tree NP - Cottonwood|california
+36151|33.9398178664|-115.41085455|Joshua Tree NP - Pinto Wells|california
+36152|34.0695661524|-116.388955034|Joshua Tree National Monument|california
+36153|35.1028204538|-115.776500063|Mojave National Preserve - Kelso|california
+36155|34.894020227|-117.024730027|Barstow|california
+36175|34.1036731093|-117.629101306|Upland|california
+36181|34.243160007|-117.272286231|Lake Gregory (Crestline)|california
+36197|34.1001510365|-117.492008789|Fontana-Arrow Highway|california
+36201|34.4165092933|-117.285617537|Hesperia-Olive Street|california
+36203|34.1066879272|-117.27407249|San Bernardino|california
+36204|34.059648963|-117.147366286|Redlands|california
+36207|34.4250644548|-117.589843782|Phelan-Beekley Road & Phelan R|california
+36208|34.4101089147|-116.906888775|Lucerne Valley - Middle School|california
+36220|35.7744559379|-117.372137551|Trona - Athol/Telescope #2|california
+36306|34.5109249317|-117.32554249|Victorville - Park Avenue|california
+39252|37.9507465711|-121.268984595|Stockton-Hazelton|california
+39271|37.6826734298|-121.442428821|Tracy - Airport|california
+40833|35.3664033259|-120.842672157|Morro Bay|california
+40836|35.2565772538|-120.669481682|San Luis Obispo-Higuera Street|california
+40844|35.1239358321|-120.632205034|Grover Beach-Lesage Drive|california
+40848|35.4944179618|-120.666214993|Atascadero Lift Station #5|california
+40849|35.0207776992|-120.563866218|Nipomo-Guadalupe Road|california
+40850|35.6146832284|-120.656935034|Paso Robles|california
+40852|35.0315030748|-120.501008748|Nipomo - Regional Park|california
+40853|35.0467395051|-120.587778762|CDF - Arroyo Grande|california
+40990|35.3547551823|-120.040110527|Carrizo Plains|california
+40999|35.6437027224|-120.231388816|Red Hills|california
+41539|37.5081096378|-122.24629864|San Carlos Airport II|california
+41541|37.4829671927|-122.203524999|Redwood City|california
+42037|34.464552776|-120.044936218|Las Flores Canyon-Odor site|california
+42098|34.7190189712|-120.432777469|Lompoc-Odor|california
+42101|34.4897558733|-120.046905007|Las Flores Canyon #1|california
+42369|34.6058230907|-120.07506249|Santa Ynez|california
+42370|34.4624500714|-120.025518816|El Capitan Beach|california
+42381|34.6378220597|-120.457478721|Lompoc-South H Street|california
+42390|34.5959403037|-120.631288748|Vandenberg Air Force Base-STS|california
+42394|34.7253451438|-120.428693714|Lompoc-HS&P|california
+42395|34.5416680377|-119.791533769|Los Padres National Forest|california
+42399|34.5274922799|-120.196502286|Gaviota - Nojoqui|california
+42401|34.4149613587|-119.87964249|Santa Barbara - UCSB Campus|california
+42402|34.4030706551|-119.457943796|Carpinteria-Gobernador Road|california
+42404|34.4455130967|-119.828451252|Goleta-Fairview|california
+42408|34.9428340884|-120.435650054|Santa Maria - South Broadway|california
+42409|34.4277685841|-119.690874952|Santa Barbara-National Guard Armory|california
+43380|37.2268831662|-121.979646589|Los Gatos|california
+43381|37.3297802151|-121.815444378|Reid Hillview Airport|california
+43383|37.3485130156|-121.894897082|San Jose - Jackson St|california
+43385|37.3381985854|-121.849891947|San Jose - Knox Ave|california
+43389|36.9995476716|-121.574763463|Gilroy-9th Street|california
+43393|37.0793389945|-121.599863019|San Martin|california
+44200|36.9833293686|-121.988191359|Santa Cruz AMS|california
+44858|37.0631559134|-122.083126531|San Lorenzo Valley Middle School|california
+45555|40.5500667024|-122.380965031|Redding - Health Department|california
+45566|40.5399684346|-121.576518866|Lassen Volcanic National Park|california
+45567|40.4531142794|-122.29887747|Anderson-North Street|california
+47861|41.7267909096|-122.633604234|Yreka|california
+47873|40.6770317292|-122.374228045|Shasta Lake-La Mesa|california
+47875|40.6890839961|-122.402301243|Shasta Lake - Lake Blvd|california
+48879|38.1025189424|-122.237950331|Vallejo|california
+48880|38.2270639159|-122.075651967|Fairfield-Chadbourne|california
+48881|38.3513898993|-121.994362563|Vacaville-Merchant Street|california
+48884|38.3565696809|-121.949877132|Vacaville-Ulatis Drive|california
+49886|38.8042791303|-123.01814539|Cloverdale|california
+49891|38.4037697922|-122.818234336|Sebastopol|california
+49895|38.501119081|-122.998179594|Guerneville-Church and 1st|california
+49898|38.610882291|-122.868784877|Healdsburg - Matheson|california
+49899|38.6540813172|-122.901867664|Healdsburg-Municipal Airport|california
+50568|37.6421566974|-120.994282404|Modesto-14th Street|california
+50573|37.4882465021|-120.835914403|Turlock-S Minaret Street|california
+51898|39.1386238947|-121.618859141|Yuba City|california
+51899|39.2055933081|-121.820345342|Sutter Buttes (seasonal)|california
+52903|40.1709114358|-122.255618208|Red Bluff - Walnut St|california
+52910|40.2620563765|-122.092590712|Tuscan Butte (seasonal)|california
+53915|40.7347670473|-122.941175602|Weaverville|california
+54000|36.3140081317|-119.39285479|Visalia - Airport|california
+54009|36.489426981|-118.829136245|Sequoia National Park-Ash Mountain|california
+54036|36.56613|-118.777696245|Sequoia National Park-Lower Kaweah|california
+54568|36.3325321003|-119.29093498|Visalia|california
+55930|37.9817844653|-120.378550893|Sonora - Barretta Street|california
+56172|34.4480492898|-119.231308748|Ojai - East Ojai Av|california
+56434|34.2763710392|-118.683802571|Simi Valley - Cochran Street|california
+56435|34.2101803701|-118.870496245|Thousand Oaks-Moorpark Road|california
+56436|34.2523551693|-119.143157469|El Rio-Rio Mesa School #2|california
+56437|34.2912441365|-118.797647551|Simi Valley - Upper Air|california
+56450|34.4042734256|-118.809937537|Piru - Pacific|california
+57570|38.5714227347|-121.525788553|West Sacramento-15th Street|california
+57577|38.5345642741|-121.773421842|Davis-UCD Campus|california
+57582|38.6612264872|-121.732716619|Woodland-Gibson Road|california
+60337|37.6545608179|-122.031598687|Hayward|california
+60341|37.7436603357|-121.934191221|San Ramon - Alcosta Blvd|california
+60342|37.6895998598|-121.631936023|Patterson Pass|california
+60344|37.6875207232|-121.784213869|Livermore - Rincon|california
+60347|37.7430574464|-122.169940267|Oakland - East|california
+60349|37.8147832411|-122.282365142|Oakland - West|california
+60351|37.7936342371|-122.263380399|Laney College|california
+70032|33.8597060907|-118.200706829|Long Beach - Route 710 Near Road|california
+70042|34.0082770823|-118.190691428|AT&SF (Exide)|california
+70043|34.0263336916|-117.98196215|Closet World (Quemetco)|california
+70044|34.0064065109|-118.192922503|Rehrig (Exide)|california
+70045|33.9548368669|-118.055298998|Uddeholm (Trojan Battery)|california
+70046|34.0938193339|-117.527273782|SA Recycling|california
+70060|34.1364861804|-117.923981779|Azusa|california
+70072|33.8237818369|-118.189126204|North Long Beach (Long Beach)|california
+70073|33.8024209515|-118.219937415|Long Beach - Hudson|california
+70074|34.1991109672|-118.532767524|Reseda|california
+70075|34.0669820738|-117.751353714|Pomona|california
+70087|34.0664273477|-118.226653606|Los Angeles-North Main Street|california
+70088|34.1326437835|-118.127163782|Pasadena|california
+70090|34.383382396|-118.528383742|Santa Clarita-Placerita|california
+70091|34.0511148899|-118.456391238|Los Angeles - VA Hospital|california
+70110|33.7923760746|-118.175262517|South Long Beach|california
+70111|33.9551021858|-118.430456204|Los Angeles - LAX|california
+70112|33.9014687003|-118.205010027|Compton|california
+70185|34.0102962255|-118.068521279|Pico Rivera #2|california
+70301|34.6696104537|-118.130701881|Lancaster-Division Street|california
+70591|34.1443741437|-117.850407537|Glendora-Laurel|california
+80114|32.6312434527|-117.059084556|Chula Vista|california
+80117|33.1310656231|-117.271838226|Palomar Airport|california
+80128|32.842338652|-116.76797184|Alpine-Victoria Drive|california
+80132|32.8179386154|-116.968273651|El Cajon - Floyd Smith Drive|california
+80133|32.9520971636|-117.264111243|Del Mar - Winston School|california
+80135|32.7895753396|-116.944299779|El Cajon - Lexington Elementary School|california
+80136|32.8457102346|-117.123971431|San Diego - Kearny Villa Road|california
+80140|32.5781669657|-116.921392924|Otay Mesa - Donovan Correctional Facility|california
+80142|32.7015013699|-117.149655644|San Diego - Beardsley|california
+80143|32.5435771002|-117.029125494|San Ysidro|california
+80198|33.2170386038|-117.396244971|Camp Pendleton|california
+80201|32.9854257979|-117.082199635|San Diego - Rancho Carmel Drive|california
+90306|37.7659529157|-122.399043587|San Francisco-Arkansas Street|california
+2|36.3362314836|-120.112906076|FivePoints|california
+5|35.5326943851|-119.281831859|Shafter|california
+6|38.5357830193|-121.77639401|Davis|california
+7|36.8512345607|-120.59098148|Firebaugh/Telles|california
+12|39.6086430311|-121.824439157|Durham|california
+13|38.7531717039|-120.733692874|Camino|california
+15|36.1581188033|-119.851418227|Stratford|california
+19|36.7682351109|-121.773779965|Castroville|california
+21|35.8677372796|-119.894884303|Kettleman|california
+35|37.3585815829|-118.405477677|Bishop|california
+39|36.5974618532|-119.504131566|Parlier|california
+41|33.0431099065|-115.415825146|Calipatria/Mulberry|california
+43|41.0637956018|-121.456033081|McArthur|california
+44|33.9649626131|-117.336990465|U.C. Riverside|california
+47|37.9281630749|-121.659740413|Brentwood|california
+52|35.3054580126|-120.661817934|San Luis Obispo|california
+54|35.6499003289|-119.959360172|Blackwells Corner|california
+56|37.0973993041|-120.754229638|Los Banos|california
+57|40.2897501084|-120.433950616|Buntingville|california
+62|33.4866172711|-117.22820198|Temecula|california
+64|34.5832603107|-120.079232151|Santa Ynez|california
+68|32.7595683998|-115.732059535|Seeley|california
+70|37.8348054703|-121.223146833|Manteca|california
+71|37.6451805699|-121.187731222|Modesto|california
+75|33.6884532652|-117.721174768|Irvine|california
+77|38.4284831979|-122.410229621|Oakville|california
+78|34.0566063397|-117.813047763|Pomona|california
+80|36.8207701715|-119.742249828|Fresno State|california
+83|38.4036002293|-122.799931308|Santa Rosa|california
+84|39.2526248149|-121.315769415|Browns Valley|california
+86|36.3606264085|-119.059342151|Lindcove|california
+87|32.8061851989|-115.446291394|Meloland|california
+88|34.9422354856|-119.675096313|Cuyama|california
+90|41.4382179225|-120.480330929|Alturas|california
+91|41.9588719182|-121.472390929|Tulelake FS|california
+92|37.2318401702|-120.880967814|Kesterson|california
+99|34.044320755|-118.476908313|Santa Monica|california
+103|38.5264096808|-122.829239828|Windsor|california
+104|36.9977772647|-121.996852874|De Laveaga|california
+105|36.633918832|-120.381723666|Westlands|california
+106|38.9826745478|-123.088673048|Sanel Valley|california
+107|34.4373087676|-119.737325818|Santa Barbara|california
+109|38.2195194431|-122.35496|Carneros|california
+111|36.9439744545|-121.76393346|Green Valley Road|california
+113|36.1212319856|-121.084467969|King City-Oasis Rd.|california
+114|36.3473892331|-121.291262358|Arroyo Seco|california
+116|36.7168437482|-121.691865146|Salinas North|california
+117|34.4759495852|-117.263519157|Victorville|california
+121|38.4155455515|-121.786929621|Dixon|california
+124|36.8900486767|-120.731671617|Panoche|california
+125|35.2057721814|-118.778436162|Arvin-Edison|california
+126|36.8548612602|-121.362691136|San Benito|california
+129|36.9028104266|-121.741965318|Pajaro|california
+131|38.6499854533|-121.218889621|Fair Oaks|california
+135|33.6628798874|-114.558049828|Blythe NE|california
+136|33.5236950905|-116.155770929|Oasis|california
+139|38.5012723318|-121.978528692|Winters|california
+140|38.1217317965|-121.674458924|Twitchell Island|california
+142|36.7210693694|-119.388950207|Orange Cove|california
+143|36.822944769|-121.467927556|San Juan Valley|california
+144|38.2664351892|-122.616490086|Petaluma East|california
+146|35.5057648492|-119.691141308|Belridge|california
+147|32.6281639339|-116.939285232|Otay Lake|california
+148|37.3141192333|-120.386642444|Merced|california
+150|32.8858415076|-117.143147849|Miramar|california
+151|33.532222|-114.63389|Ripley|california
+152|34.2195579812|-118.992361515|Camarillo|california
+153|33.0810795932|-116.975710465|Escondido SPV|california
+155|38.5992142269|-121.540391687|Bryte (experimental)|california
+157|37.9954944936|-122.467658616|Point San Pedro|california
+158|38.4194400249|-122.658748778|Bennett Valley|california
+159|34.146392569|-117.98579346|Monrovia|california
+160|35.3352588658|-120.735652393|San Luis Obispo West|california
+161|37.4389388069|-121.138424974|Patterson|california
+163|35.4725719795|-120.64817401|Atascadero|california
+165|34.8418994718|-120.212677212|Sisquoc|california
+167|37.7259565277|-121.47545852|Tracy|california
+169|36.0822727179|-119.09318062|Porterville|california
+170|38.0153812751|-122.020287849|Concord|california
+171|37.5987714732|-122.053249621|Union City|california
+173|32.9018626069|-117.250480929|Torrey Pines|california
+174|33.7987317845|-118.094936506|Long Beach|california
+175|33.383697|-114.71921|Palo Verde II|california
+178|37.8376222645|-122.140768778|Moraga|california
+179|33.6633620169|-117.093377384|Winchester|california
+181|33.0787227996|-115.66034809|Westmorland North|california
+182|35.8330710535|-119.255842272|Delano|california
+183|36.488611|-117.91944|Owens Lake North|california
+184|32.7294778632|-117.139483889|San Diego II|california
+187|38.0909299115|-122.526711773|Black Point|california
+188|37.0198788484|-120.149139279|Madera II|california
+189|36.3586732975|-117.943872616|Owens Lake South|california
+190|36.382083815|-120.229813374|Five Points South West|california
+191|37.6639855679|-121.885056162|Pleasanton|california
+192|34.255948487|-117.218308743|Lake Arrowhead|california
+193|36.6332377455|-121.934863924|Pacific Grove|california
+194|37.7274091983|-120.850865232|Oakdale|california
+195|38.8876142001|-121.102890379|Auburn|california
+196|38.6917655802|-122.013786454|Esparto|california
+197|34.6149874592|-118.032487384|Palmdale|california
+198|34.3246444015|-119.104937556|Santa Paula|california
+199|34.2376450149|-116.86586697|Big Bear Lake|california
+200|33.748607753|-116.252964096|Indio 2|california
+202|35.0282938538|-120.560073167|Nipomo|california
+203|35.8625734591|-119.503696884|Alpaugh|california
+204|34.4264095541|-118.517555146|Santa Clarita|california
+205|36.1757728137|-120.36027|Coalinga|california
+206|37.5459177454|-120.754473752|Denair II|california
+207|33.268457937|-116.36499506|Borrego Springs|california
+208|33.6781566093|-116.272931136|La Quinta II|california
+209|36.9131698078|-121.823500878|Watsonville West II|california
+210|36.5409478537|-121.882107814|Carmel|california
+211|37.0150322669|-121.537063546|Gilroy|california
+212|38.277971797|-121.740983116|Hastings Tract East|california
+213|37.9314884444|-122.302638131|El Cerrito|california
+214|36.6256305479|-121.537885076|Salinas South II|california
+215|34.2913428879|-118.570064854|Chatsworth|california
+216|34.2561628962|-118.382935662|Arleta|california
+217|34.2689899218|-118.849298071|Moorpark|california
+218|33.5957419418|-116.158778432|Thermal South|california
+219|34.2141742841|-118.644843253|West Hills|california
+220|34.5923049162|-118.127455525|Palmdale Central|california
+221|34.513712318|-115.510588778|Cadiz Valley|california
+222|40.028758969|-122.155761773|Gerber South|california
+224|40.6301628102|-122.309986919|Shasta College|california
+225|41.577778|-122.838125|Scott Valley|california
+226|38.6727066811|-121.811714768|Woodland|california
+227|38.508312528|-120.800060102|Plymouth|california
+228|38.6361620891|-120.792991136|Diamond Springs|california
+229|36.5701078483|-121.786535318|Laguna Seca|california
+230|34.4055085131|-119.714996076|Santa Barbara II|california
+231|34.6722564255|-120.513252289|Lompoc|california
+232|34.9134955984|-120.464797005|Santa Maria II|california
+233|34.1381459173|-116.213556264|Joshua Tree|california
+234|34.8834033251|-116.809854574|Newberry Springs II|california
+235|38.797944|-121.61136|Verona|california
+236|41.8025774113|-121.996067434|Macdoel II|california
+237|33.5500098115|-117.039990843|Temecula East III|california
+238|33.8998783984|-117.171425814|Moreno Valley|california
+239|33.6648101454|-116.955092222|Hemet|california
+240|33.7605568018|-117.198864581|Perris - Menifee|california
+241|33.4623526789|-117.586222187|San Clemente|california
+242|38.1923743823|-121.510331637|Staten Island|california
+243|38.2496107001|-121.555483525|Ryde|california
+244|39.386632|-121.835278|Biggs|california
+245|33.6218347457|-117.585113181|Coto de Caza|california
+246|38.7733835045|-119.791914303|Markleeville|california
+247|38.033386|-121.701247|Jersey Island|california
+248|37.9321793009|-121.397538726|Holt|california
+249|37.7555587341|-121.265954171|Ripon|california
+250|39.210667|-122.168889|Williams|california
+251|34.1120831548|-117.185626747|Highland|california
+252|36.456728|-121.344388|Soledad II|california
+d18426ff-2205-e311-90b0-0017a477041a|34.2440045409|-113.558414749|Alamo Lake|arizona
+862b215c-acad-e611-90f0-0017a477041a|34.6118501471|-112.463484122|Prescott Pioneer Park|arizona
+efa0f37e-720b-e311-b2ee-0017a477041e|32.3821670745|-112.858204019|Ajo|arizona
+1a575e3b-730b-e311-b2ee-0017a477041e|35.1536996944|-114.566894563|Bullhead City|arizona
+74d93762-730b-e311-b2ee-0017a477041e|31.3492106897|-109.539748088|Douglas Red Cross|arizona
+b225b57f-740b-e311-b2ee-0017a477041e|35.2064853225|-111.653152509|Flagstaff Middle School|arizona
+316a1fc5-740b-e311-b2ee-0017a477041e|33.419017|-110.82967|Miami Golf Course|arizona
+150576e0-740b-e311-b2ee-0017a477041e|33.3854007106|-110.867410945|Miami Jones Ranch|arizona
+f6347351-750b-e311-b2ee-0017a477041e|33.3993481772|-110.859484298|Miami Ridgeline|arizona
+a4fe2286-750b-e311-b2ee-0017a477041e|33.3974162799|-110.874541374|Miami Town Site|arizona
+066985ae-750b-e311-b2ee-0017a477041e|31.3373547432|-110.93718238|Nogales Post Office|arizona
+d138ace3-750b-e311-b2ee-0017a477041e|31.3657465612|-109.730784776|Paul Spur Chemical Lime Plant|arizona
+b1a19184-760b-e311-b2ee-0017a477041e|34.2297663754|-111.329447157|Payson Well Site|arizona
+f163a50b-780b-e311-b2ee-0017a477041e|33.2938878852|-111.285730041|Queen Valley|arizona
+8b72b931-780b-e311-b2ee-0017a477041e|32.4143059597|-111.154634122|Rillito|arizona
+79ff8672-780b-e311-b2ee-0017a477041e|33.6547239638|-111.107457578|Tonto National Monument|arizona
+7850910b-b4d1-e111-a071-00215a224a95|33.5037202775|-112.095817068|Phoenix JLG Supersite|arizona
+2121d39e-710d-4165-bc0c-681c5555ced4|33.0063112606|-110.786480427|Hayden|arizona
+a8dffc5e-6846-4608-afad-a8d476cfac92|32.6903348853|-114.614533877|Yuma Supersite|arizona
+1|29.7680138844|-95.220607234|Houston East C1/G316|texas
+2|30.0364437721|-94.0710580966|Beaumont-Downtown C2/A112/C2002|texas
+3|30.3544053569|-97.760230366|Austin Northwest C3/A322|texas
+4|27.7653365773|-97.4342381177|Corpus Christi West C4|texas
+8|29.9010505061|-95.326162334|Houston Aldine C8/AF108/X150|texas
+9|30.0852834783|-93.7613210728|West Orange C9/A141|texas
+11|29.0108190071|-95.3976964355|Clute C11/A111|texas
+12|31.7682626673|-106.501298303|El Paso UTEP C12/A125/X151|texas
+13|32.8058193521|-97.356526194|Ft. Worth Northwest C13/AH302|texas
+15|29.8026888354|-95.1255248407|Channelview C15/AH115|texas
+17|32.9225313876|-97.2820817415|Keller C17|texas
+19|32.3787108415|-94.7118344823|Longview C19/A127/C644|texas
+21|27.8324077931|-97.5554386298|Corpus Christi Tuloso C21|texas
+23|29.51509|-98.620166|San Antonio Northwest C23|texas
+26|30.0395532564|-95.6739808407|Northwest Harris Co. C26/A110/X154|texas
+28|29.8974880869|-93.991096717|Port Arthur West C28/A128/A228|texas
+31|33.1323982036|-96.7864388272|Frisco  C31/C680|texas
+35|29.6699988979|-95.1285264755|Hou.DeerPrk2 C35/235/1001/AFH139FP239|texas
+36|31.7038312428|-106.355993311|El Paso Lower Valley Sounder C36|texas
+37|31.7467231434|-106.402780866|Ascarate Park SE C37/A332/A172/X159|texas
+38|30.4831648639|-97.8723405543|Audubon C38|texas
+41|31.7656619875|-106.455252234|Chamizal C41/AH126|texas
+43|26.2261827518|-98.2910589864|Mission C43/AP143|texas
+44|27.5174440596|-99.5152698196|Laredo Vidaurri C44/AFGP144/P244|texas
+45|29.5830233524|-95.0155462034|Seabrook Friendship Park C45|texas
+47|31.8365853339|-102.341989235|Odessa Hays C47/A160|texas
+49|31.6675307877|-106.287993763|Socorro Hueco C49/F312|texas
+52|32.48206495|-97.0269349992|Midlothian OFW C52/A137|texas
+53|29.6957620193|-95.4991964694|Houston Bayland Park C53/A146|texas
+56|33.2190878487|-97.1962385389|Denton Airport South C56/A163/X157|texas
+58|29.632026648|-98.5649376517|Camp Bullis C58|texas
+59|29.2753331595|-98.3117144306|Calaveras Lake C59|texas
+60|32.820030295|-96.8601327721|Dallas Hinton St. C401/C60/AH161|texas
+61|32.6563995533|-97.0885936619|Arlington Municipal Airport C61|texas
+63|32.9192034986|-96.8084649559|Dallas North No.2 C63/C679|texas
+64|29.863959571|-94.3178354958|Hamshire C64/C654|texas
+66|27.5018288308|-99.5030281094|Laredo Bridge C66/AF173|texas
+69|32.936520899|-96.4591632355|Rockwall Heath C69|texas
+70|32.9842606499|-97.063667277|Grapevine Fairway C70/A301/X182|texas
+71|32.5649420273|-96.3176510008|Kaufman C71/A304/X071|texas
+72|31.8939037355|-106.425795708|Skyline Park C72|texas
+73|32.4423360904|-97.8035065694|Granbury C73/C681|texas
+75|32.9879296465|-97.4771703932|Eagle Mountain Lake C75|texas
+76|32.8687401091|-97.9059320517|Parker County C76|texas
+77|32.3535648932|-97.4367368932|Cleburne Airport C77/C682|texas
+78|30.3503092611|-95.4251021402|Conroe Relocated C78/A321|texas
+79|35.3827734923|-101.560828131|Pantex 7 C79|texas
+80|25.8925007093|-97.4938695543|Brownsville C80/AGP180|texas
+82|32.3439878075|-95.4157752823|Tyler Airport Relocated C82|texas
+83|27.8028500552|-97.4198895653|Corpus Christi Palm C83|texas
+84|29.5204355756|-95.3925426958|Manvel Croix Park C84|texas
+85|32.6690136421|-94.1674656619|Karnack C85/AFHP303|texas
+87|28.8362047877|-97.005542317|Victoria C87|texas
+88|33.2217105288|-97.5843461159|Decatur Thompson C88|texas
+96|29.5462328108|-94.7869861238|Smith Point Hawkins Camp C96/C638|texas
+98|27.8044987569|-97.4315866068|Corpus Christi Huisache C98/A155|texas
+104|35.3359563835|-101.587042946|Pantex 4 A104|texas
+105|35.3529498942|-101.580633565|Pantex 5 A105/A205|texas
+114|29.7647877|-95.1785379|HRM-3 Haden Road C603/A114|texas
+119|29.9611458885|-93.8959117279|Groves A119|texas
+123|31.7759485845|-106.413178152|El Paso Womble A123|texas
+131|29.8938545258|-93.9792467796|City Service Center/PA A131/C2000|texas
+136|29.9825018268|-93.9528794687|Port Neches Avenue L A136|texas
+140|29.4451160608|-98.4066336799|San Antonio Seale A140|texas
+145|29.61501277|-95.0181123728|Shore Acres A145|texas
+148|29.770671424|-95.0312403619|Baytown A148|texas
+167|29.7342462165|-95.2384452177|Galena Park A167|texas
+168|27.8075355428|-97.4192567483|Corpus Hillcrest A170/A168|texas
+169|29.7062818159|-95.2611488755|Houston Milby Park A169|texas
+171|30.2632046567|-97.7129231543|Austin Webberville Road AF171|texas
+199|27.811821582|-97.4656323791|Dona Park C635/AF199/F299|texas
+243|29.6720315394|-95.0646637008|La Porte Airport C243|texas
+301|29.5877408|-98.3125118|Selma C301|texas
+303|29.9228877909|-93.9089858559|Port Arthur Memorial School C303/C689|texas
+304|29.733768689|-95.2575943517|Clinton C403/C304/AH113|texas
+310|32.7591474105|-97.3423161762|Haws Athletic Center C310|texas
+311|30.1945283895|-93.8672339966|SETRPC Mauriceville 42 C642/C311/C665|texas
+312|32.7742537805|-96.7976808932|Convention Center C312|texas
+313|27.5995804394|-99.5334268773|World Trade Bridge C313|texas
+314|27.4269613019|-97.2986871932|National Seashore C314|texas
+316|29.3025518|-103.1779076|BRAVO Big Bend C67/C316/C656/C691|texas
+319|28.704624566|-100.451188044|Eagle Pass C319/C655|texas
+320|35.2016014052|-101.909280858|Amarillo Texas A&M C320|texas
+323|26.0696074295|-97.162212117|Isla Blanca Park C323/C667|texas
+326|30.2582778415|-97.7202105778|Zavala C326|texas
+402|32.6765391019|-96.8720408245|Dallas Executive Airport C402|texas
+404|29.8074765076|-95.2936047762|Houston Kirkpatrick C404|texas
+405|29.8280859|-95.2840958|Houston North Wayside C405|texas
+406|29.6256212841|-95.2670592793|Houston Monroe C406|texas
+408|29.8341941452|-95.4891632449|Lang C408|texas
+409|29.6239172903|-95.4743021833|Houston Croquet C409|texas
+410|29.7233623493|-95.6359894622|Houston Westhollow C410|texas
+414|31.7857516764|-106.323623161|Ivanhoe C414|texas
+416|29.6863400665|-95.2947307619|Park Place C416|texas
+501|29.2763743928|-98.724323837|Elm Creek Elementary C501|texas
+502|29.7301532583|-98.6257750471|Fair Oaks Ranch C502|texas
+503|29.7610419279|-98.4623947806|Bulverde Elementary C503|texas
+504|29.7040601525|-98.0286097714|New Braunfels Airport C504|texas
+505|29.6388316195|-98.2986586645|City of Garden Ridge C505|texas
+506|29.5886654234|-97.932234517|Seguin Outdoor Learning Center C506|texas
+551|29.858599159|-95.1601263446|Sheldon C551|texas
+552|29.7330664691|-94.9850025802|Baytown Wetlands Center C552|texas
+553|29.9210025389|-95.0679953417|Crosby Library C553|texas
+554|29.8333943755|-95.6572748482|West Houston C554|texas
+556|29.6551951311|-95.0095031529|La Porte Sylvan Beach C556|texas
+557|30.0376145795|-95.380734339|Mercer Arboretum C557|texas
+558|29.5898471289|-95.3532919171|Tom Bass C558|texas
+559|29.8107608661|-95.8058457401|Katy Park C559|texas
+560|29.9620275001|-95.2350400543|Atascocita C560|texas
+561|30.0116453225|-95.5227077818|Meyer Park C561|texas
+562|29.7784449007|-95.538163646|Bunker Hill Village C562|texas
+563|30.0579553365|-95.0624187867|Huffman Wolf Road C563|texas
+570|29.5488333663|-95.1855769557|Clear Brook High School C570|texas
+571|29.5257705617|-95.070556|Clear Creek High School C571|texas
+572|29.5836312553|-95.1060238886|Clear Lake High School C572|texas
+601|29.9624745|-96.7458748|Fayette County C601|texas
+609|28.8997032823|-96.7850599049|Inez C609|texas
+614|30.2146335064|-98.0832997355|Dripping Springs School C614|texas
+615|29.38145|-94.9409147759|Texas City BP 31st St. C615/C1615|texas
+616|29.3687618253|-94.9154425034|Texas City BP Onsite C616/C1616|texas
+617|29.8205028628|-94.9905457401|Wallisville Road C617|texas
+618|29.1443237968|-95.7566185238|Danciger C618|texas
+620|29.4057763304|-94.9469748031|Texas City 34th St. C620|texas
+621|29.3810006326|-94.9302675645|Texas City BP Logan St. C621/C1621|texas
+622|29.352905791|-98.3328532441|Heritage Middle School C622|texas
+623|29.3320207857|-98.3257181438|Gardner Rd. Gas Sub-Station C623|texas
+624|28.7208919712|-97.2209871426|Coleto C624|texas
+625|29.2923237234|-98.3378466434|Gate 9A CPS C625|texas
+626|29.3157783791|-98.3229648987|Gate 58 CPS C626|texas
+633|27.828989591|-97.5436023381|Solar Estates C633|texas
+640|29.7279487914|-93.8940717381|SETRPC 40 Sabine Pass C640/C1654|texas
+643|29.9427508577|-94.0006747123|SETRPC 43 Jefferson Co Airport C643|texas
+660|27.7030548918|-97.3877503395|Holly Road C660|texas
+664|27.7580449452|-97.61951034|Violet C664|texas
+669|29.6947426591|-95.25284434|Texas Petrochemicals FTIR South C669|texas
+670|29.702020107|-95.2572520407|Texas Petrochemicals FTIR North C670|texas
+671|29.706121872|-95.2550888705|Goodyear Houston Site C671|texas
+673|29.7023347916|-95.2567082653|Goodyear Houston Site 2 C673|texas
+676|29.3327941649|-98.5513857034|Palo Alto C676|texas
+677|29.4239144635|-98.5804878347|Old Highway 90 C677/A319|texas
+678|29.4073184892|-98.431238483|CPS Pecan Valley C678|texas
+684|30.1409365353|-97.4589346509|CAPCOG McKinney Roughs C684|texas
+685|27.9016172214|-97.2493484961|Ingleside C685|texas
+690|30.6664657863|-97.734591517|CAPCOG Lake Georgetown C690|texas
+693|31.8133561725|-106.464560054|Van Buren Dam C693|texas
+695|29.7176521795|-95.341697904|UH Moody Tower C695|texas
+696|29.5744570681|-95.6502732775|U of H-Sugarland C696|texas
+697|29.3882631778|-95.042467698|UH Coastal Center C697|texas
+698|30.2361383595|-95.4831324083|UH WG Jones Forest C698|texas
+699|30.0575719764|-94.9784129244|UH West Liberty C699|texas
+1006|33.1530965835|-96.1155354008|Greenville C1006/A198|texas
+1007|33.0459405912|-97.1299746627|Flower Mound Shiloh C1007|texas
+1008|32.4696809355|-97.1692772585|Johnson County Luisa C1008/Z402|texas
+1009|32.6211075353|-97.2902916668|Everman Johnson Park C1009|texas
+1010|33.1446618|-96.8288087|Frisco Eubanks C1010|texas
+1012|28.9643708626|-95.3549351426|Freeport South Avenue I C1012|texas
+1013|33.1309184698|-97.2976399864|Dish Airfield C1013|texas
+1014|31.870267219|-102.334777579|Odessa Gonzales C1014|texas
+1015|29.7616223753|-95.081411134|Lynchburg Ferry C1015/A165|texas
+1016|29.0437252768|-95.4729411932|Lake Jackson C1016|texas
+1017|29.8233461482|-94.9838410747|Baytown Garth C1017|texas
+1018|32.7260815158|-97.1085532988|Arlington UT Campus C1018|texas
+1019|29.942817081|-94.0007937823|Jefferson Co Airpt C1019/A317|texas
+1020|29.6843940104|-95.2536282407|Cesar Chavez C1020/175|texas
+1021|31.86247|-106.5473|Ojo De Agua C1021|texas
+1022|29.3852512505|-94.9315046796|Texas City Ball Park A147/C1022|texas
+1023|26.200298761|-97.7126987204|Harlingen Teege C1023|texas
+1024|27.8038177791|-97.4137901373|Williams Park C1024/E308|texas
+1025|35.2367441788|-101.787357435|Amarillo 24th Avenue C1025|texas
+1028|33.5855185299|-101.786997524|Lubbock 12th Street C1028|texas
+1029|29.7187935647|-95.2599118034|Manchester C1029/A307/E307|texas
+1031|33.436111|-94.07778|Texarkana New Boston C1031|texas
+1032|33.4106172994|-96.9445903|Pilot Point C1032|texas
+1034|29.2544987172|-94.8612848449|Galveston 99th St. C1034/A320/X183|texas
+1035|29.9789461004|-94.0108817136|Nederland High School C1035|texas
+1036|29.776109778|-95.1051275373|Jacinto Port C1036/A318|texas
+1037|31.6530487281|-97.0706706627|Waco Mazanec C1037|texas
+1038|29.1306706265|-98.1480762721|Floresville Hospital Blvd C1038|texas
+1044|32.1753901134|-96.8701503974|Italy C1044/A323|texas
+1045|31.1224615614|-97.4310523|Temple Georgia C1045|texas
+1046|26.2884850866|-98.1520484762|Edinburg East Freddy Gonzalez Dr C1046|texas
+1047|31.0880214946|-97.6797493204|Killeen Skylark Field C1047|texas
+1049|29.7166327417|-95.2224180838|Pasadena North C1049/A330|texas
+1051|32.0319313777|-96.3991182694|Corsicana Airport C1051|texas
+1052|29.8143823009|-95.387785129|Houston North Loop C1052|texas
+1053|32.6647630956|-97.3379220684|Ft Worth California Parkway North C1053|texas
+1054|29.8852811176|-95.3523779932|Houston Hartwick C1054|texas
+1062|32.6588025882|-97.2000476877|Kennedale Treepoint Dr C1062|texas
+1063|32.5418432624|-97.1174937415|Mansfield Flying L Lane C1063|texas
+1064|33.044028|-97.486618|Rhome Seven Hills Road C1064|texas
+1065|32.6725193933|-97.2911402491|Fort Worth Joe B Rushing Road C1065|texas
+1066|29.7216391331|-95.4926825441|Houston Southwest Freeway C1066|texas
+1067|32.9211705437|-96.7535149525|Dallas LBJ Freeway C1067|texas
+1068|30.3538351573|-97.6915423404|Austin North Interstate 35 C1068|texas
+1069|29.5294457424|-98.3914363128|San Antonio IH 35 C1069|texas
+1070|28.8855040154|-97.9018271154|Karnes County Courthouse C1070|texas
+1071|29.8489039221|-93.9622290475|Port Arthur 7th Street C1071|texas
+1072|32.2803912319|-101.407282081|Big Spring Midway C1072|texas
+1073|35.6755126496|-101.440004871|Borger FM 1559 C1073|texas
+1075|30.5694547773|-97.0762399248|Rockdale John D. Harper Rd. C1075|texas
+1076|31.168889|-96.481944|Franklin Oak Grove C1076|texas
+1077|35.3163937796|-101.741850068|Amarillo Xcel El Rancho C1077|texas
+1078|33.0751139929|-94.8473223948|Cookville FM 4855 C1078|texas
+1079|32.470151423|-94.4811933341|Hallsville Red Oak Road C1079|texas
+1080|29.352886998|-98.3327827076|San Antonio Gardner Road C1080|texas
+1081|31.9041|-96.352|Richland Southeast 1220 Road C1081|texas
+1083|30.1537334452|-93.7260146596|Orange 1st Street C1083|texas
+1500|32.6299656719|-96.8005339117|Lancaster Cedardale C1500|texas
+1501|32.4818262794|-97.5267790272|Godley FM2331 C1501|texas
+1502|32.8186594289|-98.0916898162|Mineral Wells 23rd St. C1502|texas
+1503|32.6466846514|-97.4426442313|Fort Worth Benbrook Lake C1503|texas
+1504|33.6331845903|-97.1538650815|Gainsville Doss Street C1504|texas
+1505|32.879128024|-96.913469388|Dallas Elm Fork C1505|texas
+1506|32.7586034214|-97.7302236668|Weatherford Highway 180 C1506|texas
+1507|33.5591237605|-97.8297230883|Bowie Patterson Street C1507|texas
+1508|33.8491792549|-98.5059282725|Wichita Falls MWSU C1508|texas
+1509|32.4509803689|-99.7297902381|Abilene North 3rd Street C1509|texas
+1602|29.1344160142|-97.2761794636|Cuero C1602|texas
+1603|30.2163104695|-97.8938090883|Gorzycki Middle School C1603|texas
+1604|29.8649311112|-97.6649172245|Lockhart C1604|texas
+1605|30.2287955589|-97.7544575849|St. Edwards University C1605|texas
+1606|29.5457214864|-94.7812933744|UH Smith Point C1606|texas
+1607|29.0098225836|-95.3135783327|Oyster Creek C1607|texas
+1628|29.8677234367|-93.9511730136|SETRPC Port Arthur C628|texas
+1675|29.8622625464|-97.9288622585|CAPCOG San Marcos Staples Road C1675|texas
+5002|30.3138617896|-97.7619321367|Camp Mabry KATT C5001/C5002|texas
+5003|30.1954267346|-97.6692614985|Austin Bergstrom KAUS C5003|texas
+5004|29.7088828923|-98.0458435673|New Braunfels Airport KBAZ C5004|texas
+5005|29.2704057504|-94.8643535029|Galveston Airport KGLS C5005|texas
+5006|30.3566335174|-95.4143308492|Conroe Airport KCXO C5006|texas
+5007|32.6640597062|-97.0960320199|Arlington Airport KGKY C5007|texas
+5008|33.2061256622|-97.1991656252|Denton Airport KDTO C5008|texas
+5009|30.73919659|-98.239612458|Burnet County Airport KBMQ C5009|texas
+5010|31.612275886|-97.2374077923|Waco KACT C5010|texas
+5011|30.5799786393|-96.3502849796|College Station KCLL C5011|texas
+5012|30.7537871266|-95.5866387089|Huntsville KUTS C5012|texas
+5013|31.2337552157|-94.7518199682|Lufkin KLFK C5013|texas
+5014|32.028056|-96.400556|Corsicana KCRS C5014|texas
+5015|32.410634506|-99.6820917003|Abilene KABI C5015|texas
+5016|31.3509861707|-100.496731965|San Angelo KSJT C5016|texas
+5017|29.3757885307|-100.927552832|Del Rio KDRT C5017|texas
+5018|31.8337908559|-104.809747631|Guadalupe Pass KGDP C5018|texas
+6602|30.5457911613|-97.5420005301|CAPCOG Hutto College Street C6602|texas
+DSR AR|34.6811776518|-92.3285014491|DSR AR|arkansas
+El Dorado AR|33.2201638854|-92.6693528642|El Dorado AR|arkansas
+Marion AR|35.1971544744|-90.1931784282|Marion AR|arkansas
+PARRB AR|34.7560606878|-92.2811089593|PARRB AR|arkansas
+Springdale AR|36.1797048989|-94.1166297755|Springdale AR|arkansas
+Deer AR|35.832652281|-93.2080144219|Deer AR|arkansas
+Eagle Mountain AR|34.4544383212|-94.1433670679|Eagle Mountain AR|arkansas
+Fayetteville AR|36.0116736377|-94.1674985849|Fayetteville AR|arkansas
+N Little Rock Airport|34.8356070274|-92.2604412721|N Little Rock Airport|arkansas
+Dodge City|37.7753172021|-100.035439497|Dodge City|kansas
+Cedar Bluff|38.7701011446|-99.7634330068|Cedar Bluff|kansas
+Peck-Sumner County|37.476897|-97.366424|Peck-Sumner County|kansas
+Glen & Pawnee|37.651164|-97.362065|Glen & Pawnee|kansas
+Health Dept. Wichita|37.7020548938|-97.314878517|Health Dept. Wichita|kansas
+K96 & Hydraulic|37.7470869897|-97.3169540543|K96 & Hydraulic|kansas
+Sedgwick|37.897521|-97.492092|Sedgwick|kansas
+Chanute|37.6769878509|-95.475914483|Chanute|kansas
+KNI Topeka|39.0242786966|-95.7112930136|KNI Topeka|kansas
+Heritage Park|38.8385688748|-94.7464730204|Heritage Park|kansas
+Leavenworth|39.327388|-94.951054|Leavenworth|kansas
+KC Ncore|39.11732|-94.635508|KC Ncore|kansas
+alam|37.3640791238|-115.163586143|Alamo Nevada|nevada
+amar|36.5690621202|-116.459001553|Amargosa Valley Nevada|nevada
+beat|36.912328305|-116.754849873|Beatty Nevada|nevada
+boul|35.9848855493|-114.841433961|Boulder City Nevada|nevada
+cali|37.6128848659|-114.514025335|Caliente Nevada|nevada
+cedu|37.6736925156|-113.067650847|Cedar City Utah|nevada
+comp|38.0341745571|-115.437700195|Garden Valley Nevada|nevada
+delu|39.3529839369|-112.578409654|Delta Utah|nevada
+duck|38.9217280211|-115.701073549|Duckwater Nevada|nevada
+ely1|39.2932858634|-114.837006985|Ely Nevada|nevada
+gold|37.7105416968|-117.240347895|Goldfield Nevada|nevada
+hend|36.007627581|-114.965640715|Henderson Nevada|nevada
+indi|36.5742715424|-115.675693287|Indian Springs Nevada|nevada
+lasv|36.1141626253|-115.149021503|Las Vegas Nevada|nevada
+medl|37.402216254|-115.538055423|Medlin's Ranch Nevada|nevada
+milu|38.39420493|-113.012733991|Milford Utah|nevada
+mesq|36.8144895338|-114.050404221|Mesquite Nevada|nevada
+nyal|38.2483450852|-115.728711774|Nyala Nevada|nevada
+over|36.5460779257|-114.445571872|Overton Nevada|nevada
+pahr|36.2212141093|-115.995197691|Pahrump Nevada|nevada
+pioc|37.9369325936|-114.451252465|Pioche Nevada|nevada
+rach|37.6433848687|-115.739162945|Rachel Nevada|nevada
+sarc|37.2795778991|-117.032267107|Sarcobatus Flats Nevada|nevada
+stgu|37.1032604548|-113.568342062|St. George Utah|nevada
+ston|38.2069729633|-116.632675161|Stone Cabin Nevada|nevada
+teco|35.8483059361|-116.227419968|TecopaShoshone California|nevada
+tono|38.0603930881|-117.22047424|Tonopah Nevada|nevada
+twih|38.2037659396|-116.173957743|Twin Springs Nevada|nevada
+warm|38.1918388301|-116.417978319|Warm Springs Summit Nevada|nevada

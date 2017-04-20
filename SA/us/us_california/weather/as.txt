@@ -1,0 +1,154 @@
+number;lat;lng;region;name
+2;36.336222;-120.112910;San Joaquin Valley;FivePoints
+5;35.532556;-119.281790;San Joaquin Valley;Shafter
+6;38.535694;-121.776360;Sacramento Valley;Davis
+7;36.851222;-120.590920;San Joaquin Valley;Firebaugh/Telles
+12;39.608639;-121.824430;Sacramento Valley;Durham
+13;38.753136;-120.7336;Sierra Foothill;Camino
+15;36.157972;-119.851430;San Joaquin Valley;Stratford
+19;36.768167;-121.773640;Monterey Bay;Castroville
+21;35.867750;-119.8949;San Joaquin Valley;Kettleman
+35;37.358514;-118.405530;Bishop;Bishop
+39;36.597444;-119.504040;San Joaquin Valley;Parlier
+41;33.042986;-115.415850;Imperial/Coachella Valley;Calipatria/Mulberry
+43;41.063767;-121.456020;Northeast Plateau;McArthur
+44;33.964942;-117.336980;Los Angeles Basin;U.C. Riverside
+47;37.928258;-121.6599;San Francisco Bay;Brentwood
+52;35.305442;-120.661780;Central Coast Valleys;San Luis Obispo
+54;35.649861;-119.9593;San Joaquin Valley;Blackwells Corner
+56;37.096694;-120.7539;San Joaquin Valley;Los Banos
+57;40.289799;-120.433948;Northeast Plateau;Buntingville
+62;33.486650;-117.228270;South Coast Valleys;Temecula
+64;34.583144;-120.079240;Central Coast Valleys;Santa Ynez
+68;32.759575;-115.732070;Imperial/Coachella Valley;Seeley
+70;37.834822;-121.223190;San Joaquin Valley;Manteca
+71;37.645222;-121.187760;San Joaquin Valley;Modesto
+75;33.688450;-117.721180;South Coast Valleys;Irvine
+77;38.428475;-122.410210;North Coast Valleys;Oakville
+78;34.056589;-117.813070;Los Angeles Basin;Pomona
+80;36.820833;-119.742310;San Joaquin Valley;Fresno State
+83;38.403550;-122.799930;North Coast Valleys;Santa Rosa
+84;39.252561;-121.315670;Sierra Foothill;Browns Valley
+86;36.3605;-119.059350;San Joaquin Valley;Lindcove
+87;32.806183;-115.446260;Imperial/Coachella Valley;Meloland
+88;34.942525;-119.6738;Central Coast Valleys;Cuyama
+90;41.438214;-120.480310;Northeast Plateau;Alturas
+91;41.958869;-121.472370;Northeast Plateau;Tulelake FS
+92;37.231861;-120.880820;San Joaquin Valley;Kesterson
+99;34.044311;-118.476890;Los Angeles Basin;Santa Monica
+103;38.526336;-122.8293;North Coast Valleys;Windsor
+104;36.997444;-121.996760;Monterey Bay;De Laveaga
+105;36.634028;-120.381810;San Joaquin Valley;Westlands
+106;38.982581;-123.089280;North Coast Valleys;Sanel Valley
+107;34.437353;-119.737420;Central Coast Valleys;Santa Barbara
+109;38.219503;-122.354960;San Francisco Bay;Carneros
+111;36.943964;-121.763940;Monterey Bay;Green Valley Road
+113;36.121083;-121.084570;Monterey Bay;King City-Oasis Rd.
+114;36.347306;-121.291350;Monterey Bay;Arroyo Seco
+116;36.716806;-121.691890;Monterey Bay;Salinas North
+117;34.475914;-117.263510;San Bernardino;Victorville
+121;38.415564;-121.786910;Sacramento Valley;Dixon
+124;36.890056;-120.731410;San Joaquin Valley;Panoche
+125;35.205583;-118.778410;San Joaquin Valley;Arvin-Edison
+126;36.854833;-121.362750;Monterey Bay;San Benito
+129;36.902778;-121.741930;Monterey Bay;Pajaro
+131;38.649964;-121.218870;Sacramento Valley;Fair Oaks
+135;33.662869;-114.558110;Imperial/Coachella Valley;Blythe NE
+136;33.523694;-116.155750;Imperial/Coachella Valley;Oasis
+139;38.501258;-121.978530;Sacramento Valley;Winters
+140;38.121739;-121.674455;San Francisco Bay;Twitchell Island
+142;36.721083;-119.389030;San Joaquin Valley;Orange Cove
+143;36.822861;-121.467870;Monterey Bay;San Juan Valley
+144;38.266428;-122.616460;North Coast Valleys;Petaluma East
+146;35.505833;-119.691140;San Joaquin Valley;Belridge
+147;32.628208;-116.939280;South Coast Valleys;Otay Lake
+148;37.314139;-120.3867;San Joaquin Valley;Merced
+150;32.885847;-117.143140;South Coast Valleys;Miramar
+151;33.532222;-114.633890;Imperial/Coachella Valley;Ripley
+152;34.219386;-118.992440;Central Coast Valleys;Camarillo
+153;33.081050;-116.9757;South Coast Valleys;Escondido SPV
+155;38.599158;-121.540410;Sacramento Valley;Bryte (experimental)
+157;37.995478;-122.467656;San Francisco Bay;Point San Pedro
+158;38.419439;-122.658720;North Coast Valleys;Bennett Valley
+159;34.146372;-117.9858;Los Angeles Basin;Monrovia
+160;35.335261;-120.735880;Central Coast Valleys;San Luis Obispo West
+161;37.438944;-121.138510;San Joaquin Valley;Patterson
+163;35.472556;-120.648140;Central Coast Valleys;Atascadero
+165;34.841878;-120.212740;Central Coast Valleys;Sisquoc
+167;37.725881;-121.475520;San Joaquin Valley;Tracy
+169;36.082056;-119.093420;San Joaquin Valley;Porterville
+170;38.015372;-122.020280;San Francisco Bay;Concord
+171;37.598758;-122.053230;San Francisco Bay;Union City
+173;32.901867;-117.250460;South Coast Valleys;Torrey Pines
+174;33.798697;-118.094790;Los Angeles Basin;Long Beach
+175;33.383697;-114.719210;Imperial/Coachella Valley;Palo Verde II
+178;37.837614;-122.140740;San Francisco Bay;Moraga
+179;33.663325;-117.093380;South Coast Valleys;Winchester
+181;33.078611;-115.660560;Imperial/Coachella Valley;Westmorland North
+182;35.8330;-119.255960;San Joaquin Valley;Delano
+183;36.488611;-117.919440;Bishop;Owens Lake North
+184;32.729578;-117.139340;South Coast Valleys;San Diego II
+187;38.090933;-122.5267;North Coast Valleys;Black Point
+188;37.02;-120.15;San Joaquin Valley;Madera II
+189;36.358628;-117.943870;Bishop;Owens Lake South
+190;36.382028;-120.229850;San Joaquin Valley;Five Points South West
+191;37.663969;-121.885030;San Francisco Bay;Pleasanton
+192;34.255942;-117.218140;San Bernardino;Lake Arrowhead
+193;36.633222;-121.934860;Monterey Bay;Pacific Grove 
+194;37.727194;-120.850860;San Joaquin Valley;Oakdale
+195;38.887603;-121.102910;Sierra Foothill;Auburn
+196;38.691786;-122.013810;Sacramento Valley;Esparto
+197;34.614981;-118.032490;Los Angeles Basin;Palmdale
+198;34.324639;-119.104880;Central Coast Valleys;Santa Paula
+199;34.237419;-116.865710;San Bernardino;Big Bear Lake
+200;33.748586;-116.2529;Imperial/Coachella Valley;Indio 2
+202;35.028281;-120.560030;Central Coast Valleys;Nipomo
+203;35.862583;-119.503570;San Joaquin Valley;Alpaugh
+204;34.426361;-118.517580;Los Angeles Basin;Santa Clarita
+205;36.175833;-120.360270;San Joaquin Valley;Coalinga
+206;37.545869;-120.754530;San Joaquin Valley;Denair II
+207;33.268447;-116.365050;Imperial/Coachella Valley;Borrego Springs
+208;33.678186;-116.272990;Imperial/Coachella Valley;La Quinta II
+209;36.913083;-121.823650;Monterey Bay;Watsonville West II
+210;36.540889;-121.881960;Monterey Bay;Carmel
+211;37.015026;-121.537040;San Francisco Bay;Gilroy
+212;38.278056;-121.741110;Sacramento Valley;Hastings Tract East
+213;37.931539;-122.302714;San Francisco Bay;El Cerrito
+214;36.625619;-121.537889;Monterey Bay;Salinas South II
+215;34.291331;-118.570040;Los Angeles Basin;Chatsworth
+216;34.256111;-118.382780;Los Angeles Basin;Arleta
+217;34.269031;-118.849319;Central Coast Valleys;Moorpark
+218;33.595694;-116.158110;Imperial/Coachella Valley;Thermal South
+219;34.214197;-118.644770;Los Angeles Basin;West Hills
+220;34.592222;-118.1275;Los Angeles Basin;Palmdale Central
+221;34.513611;-115.510560;San Bernardino;Cadiz Valley
+222;40.028778;-122.155750;Sacramento Valley;Gerber South
+224;40.63;-122.31;Sacramento Valley;Shasta College
+225;41.577778;-122.838125;Northeast Plateau;Scott Valley
+226;38.672722;-121.811720;Sacramento Valley;Woodland
+227;38.508333;-120.799720;Sierra Foothill;Plymouth
+228;38.636111;-120.793050;Sierra Foothill;Diamond Springs
+229;36.570111;-121.7865;Monterey Bay;Laguna Seca
+230;34.405556;-119.7150;Central Coast Valleys;Santa Barbara II
+231;34.672222;-120.513060;Central Coast Valleys;Lompoc
+232;34.913472;-120.464780;Central Coast Valleys;Santa Maria II
+233;34.138147;-116.213190;San Bernardino;Joshua Tree
+234;34.883472;-116.810247;San Bernardino;Newberry Springs II
+235;38.797944;-121.611360;Sacramento Valley;Verona
+236;41.802476;-121.996159;Northeast Plateau;Macdoel II
+237;33.55;-117.04;South Coast Valleys;Temecula East III
+238;33.90;-117.17;South Coast Valleys;Moreno Valley
+239;33.664747;-116.955121;South Coast Valleys;Hemet
+240;33.76;-117.20;South Coast Valleys;Perris - Menifee
+241;33.4625;-117.586111;South Coast Valleys;San Clemente
+242;38.192397;-121.510261;San Joaquin Valley;Staten Island
+243;38.249622;-121.555528;Sacramento Valley;Ryde
+244;39.386632;-121.835278;Sacramento Valley;Biggs
+245;33.621667;-117.585278;South Coast Valleys;Coto de Caza
+246;38.773409;-119.791930;Eastern Sierra Basin & Range;Markleeville
+247;38.033386;-121.701247;San Francisco Bay;Jersey Island
+248;37.932072;-121.396661;San Joaquin Valley;Holt
+249;37.755597;-121.266153;San Joaquin Valley;Ripon
+250;39.210667;-122.168889;Sacramento Valley;Williams
+251;34.112042;-117.1857;Los Angeles Basin;Highland
+252;36.456728;-121.344388;Monterey Bay;Soledad II

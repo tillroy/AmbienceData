@@ -1,0 +1,31 @@
+#Format1
+{
+  "param1": {
+    "00:00": value,
+    "01:00": value,
+    "02:00": value,
+    "03:00": value,
+  },
+  "param2": {
+    "00:00": value,
+    "01:00": value,
+    "02:00": value,
+    "03:00": value,
+  }
+}
+
+#Format2
+{
+  "00:00": {
+    "param1": value,
+    "param2": value,
+    "param3": value,
+    "param4": value,
+  },
+  "01:00": {
+    "param1": value,
+    "param2": value,
+    "param3": value,
+    "param4": value,
+  },
+}

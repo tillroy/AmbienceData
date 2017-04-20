@@ -1,0 +1,205 @@
+address|lat|lon|station_id|station_name
+Aylesbury Walton Street 2|51.812443|-0.808084|AY1|Aylesbury Walton Street 2
+Barnsley A628 Pogmoor Roadside|53.551177|-1.508160|BAR6|Barnsley A628 Pogmoor Roadside
+Barnsley A635 Kendray Roadside|53.546344|-1.452162|BAR9|Barnsley A635 Kendray Roadside
+Bedford Lurke Street|52.138153|-0.466630|HB010|Bedford Lurke Street
+Bedford Prebend Street|52.135049|-0.474658|HB011|Bedford Prebend Street
+Birmingham Airport 2|52.455719|-1.743912|BAI2|Birmingham Airport 2
+Bradford-on-Avon, Masons Lane|51.348788|-2.252262|WIL1|Bradford-on-Avon, Masons Lane
+Bury Prestwich|53.524915|-2.277565|BUR2|Bury Prestwich
+Bury Radcliffe|53.563481|-2.330732|BUR1|Bury Radcliffe
+Calne London Road|51.435340|-2.002550|WIL8|Calne London Road
+Calne, New Road 2|51.436345|-2.004275|WIL5|Calne, New Road 2
+Cam Road|51.537598|-0.002138|NEW2|Cam Road
+Cambridge Gonville Place|52.199575|0.127740|CAM3|Cambridge Gonville Place
+Cambridge Montague Road|52.213930|0.138083|CAM5|Cambridge Montague Road
+Cambridge Newmarket Road|52.208430|0.141521|CAM4|Cambridge Newmarket Road
+Cambridge Parker Street|52.204133|0.127483|CAM1|Cambridge Parker Street
+Carlisle Stanwix Bank|54.904550|-2.937022|CRL2|Carlisle Stanwix Bank
+Dacorum Northchurch High Street|51.770339|-0.591364|HB013|Dacorum Northchurch High Street
+Devizes, Sidmouth Street|51.352198|-1.990416|WIL3|Devizes, Sidmouth Street
+East Herts Hertford Gascoyne Way|51.795569|-0.076225|HB012|East Herts Hertford Gascoyne Way
+Ewell High Street|51.349927|-0.249748|EWE2|Ewell High Street
+Fareham Portland Street|50.850875|-1.178060|FAR2|Fareham Portland Street
+Gateshead A1 Dunston|54.951529|-1.649945|GA1|Gateshead A1 Dunston
+Gateshead Bottle Bank|54.965944|-1.604438|GA2|Gateshead Bottle Bank
+Gateshead Lychgate Court|54.962008|-1.597121|GA3|Gateshead Lychgate Court
+Girton Road|52.225556|0.087222|GIRT|Girton Road
+Gosport Road|50.844177|-1.183323|FAR1|Gosport Road
+Heathrow Green Gates|51.481478|-0.486675|T55|Heathrow Green Gates
+Heathrow LHR2|51.479167|-0.440556|LHR2|Heathrow LHR2
+Heathrow Oaks Road|51.459444|-0.479444|T54|Heathrow Oaks Road
+Henley|51.536552|-0.903958|HEN|Henley
+Hertsmere Borehamwood Background|51.662193|-0.264313|HB008|Hertsmere Borehamwood Background
+Hertsmere Borehamwood Roadside|51.659803|-0.261916|HB009|Hertsmere Borehamwood Roadside
+Hillingdon 1 - South Ruislip|51.552260|-0.402780|HI1|Hillingdon 1 - South Ruislip
+Hillingdon Sipson|51.484384|-0.455695|SIPS|Hillingdon Sipson
+Hitchin Stevenage Road|51.940974|-0.274038|HB002|Hitchin Stevenage Road
+Hitchin Stevenage Road Particulates|51.940988|-0.274431|HB003|Hitchin Stevenage Road Particulates
+Hounslow Brentford|51.489398|-0.310081|HS5|Hounslow Brentford
+Hounslow Chiswick|51.492507|-0.257252|HS4|Hounslow Chiswick
+Hounslow Cranford|51.482982|-0.411895|HS2|Hounslow Cranford
+Hounslow Feltham|51.447388|-0.408733|HS9|Hounslow Feltham
+Hounslow Gunnersbury|51.500676|-0.284383|HS8|Hounslow Gunnersbury
+Hounslow Hatton Cross|51.463402|-0.427525|HS7|Hounslow Hatton Cross
+Hounslow Heston|51.479129|-0.364760|HS6|Hounslow Heston
+London Barnet Chalgrove School|51.591901|-0.205992|BN2|London Barnet Chalgrove School
+London Hillingdon Harmondsworth|51.487989|-0.480984|HIL1|London Hillingdon Harmondsworth
+London Hillingdon Harmondsworth Os|51.487534|-0.479451|HIL4|London Hillingdon Harmondsworth Os
+London Hillingdon Hayes|51.498167|-0.412333|HIL5|London Hillingdon Hayes
+London Hillingdon Oxford Avenue|51.481130|-0.423760|HI3|London Hillingdon Oxford Avenue
+London Luton Airport|51.877650|-0.376297|HB006|London Luton Airport
+Luton Dunstable Road East|51.880154|-0.422144|HB007|Luton Dunstable Road East
+Manchester Oxford Road|53.472077|-2.239001|MAN1|Manchester Oxford Road
+Manchester Piccadilly LA|53.481570|-2.237930|MAN7|Manchester Piccadilly LA
+Manchester Sharston|53.371200|-2.239000|MAHG|Manchester Sharston
+Marlborough London Road|51.420963|-1.726842|WIL7|Marlborough London Road
+Newcastle-under-Lyme Queens Gardens|53.012375|-2.224184|NUL1|Newcastle-under-Lyme Queens Gardens
+Oxford High St|51.752527|-1.250939|OX6|Oxford High St
+Oxford St Ebbes (Cal Club)|51.744856|-1.260338|OX3|Oxford St Ebbes (Cal Club)
+Reading Caversham Road|51.464355|-0.977094|REA2|Reading Caversham Road
+Reading Oxford Road|51.461957|-1.012459|REA4|Reading Oxford Road
+Redcar Dormanstown|54.603170|-1.097840|RED3|Redcar Dormanstown
+S Cambs Impington|52.233640|0.105080|IMP|S Cambs Impington
+S Cambs Orchard Park School|52.233500|0.115229|ORCH|S Cambs Orchard Park School
+Salford M60|53.503784|-2.381239|M60|Salford M60
+Salisbury, Exeter Street|51.065247|-1.793793|WIL4|Salisbury, Exeter Street
+Shaw Crompton Way|53.579400|-2.093850|CW|Shaw Crompton Way
+Slough Chalvey|51.502202|-0.608653|SLH7|Slough Chalvey
+Slough Colnbrook|51.480372|-0.508729|SLH3|Slough Colnbrook
+Slough Colnbrook Osiris|51.480372|-0.508729|SLH6|Slough Colnbrook Osiris
+Slough Lakeside 1 Osiris|51.484326|-0.508500|SLH5|Slough Lakeside 1 Osiris
+Slough Lakeside 2|51.487764|-0.502656|SLH8|Slough Lakeside 2
+Slough Lakeside 2 Osiris|51.487764|-0.502656|SLH9|Slough Lakeside 2 Osiris
+Slough Town Centre A4|51.511599|-0.607794|SLH4|Slough Town Centre A4
+South Bucks Gerrards Cross|51.574108|-0.533309|GX|South Bucks Gerrards Cross
+South Holland Westmere School|52.772975|0.181633|SHOL|South Holland Westmere School
+Spalding Monkhouse School|52.785625|-0.175053|MONK|Spalding Monkhouse School
+Stevenage Lytton Way|51.900528|-0.205111|HB005|Stevenage Lytton Way
+Stockport Cheadle A34|53.391717|-2.226280|STK7|Stockport Cheadle A34
+Stockport Hazel Grove|53.385470|-2.129559|STK5|Stockport Hazel Grove
+Sunderland Silksworth (CC)|54.883642|-1.406726|SUN2|Sunderland Silksworth (CC)
+Sunderland Trimdon Street|54.907415|-1.394195|SUN4|Sunderland Trimdon Street
+Tally Ho|51.614675|-0.176607|BN1|Tally Ho
+Tameside Mottram Moor|53.458994|-2.005694|TAM1|Tameside Mottram Moor
+Tameside Two Trees School|53.445847|-2.098802|TAME|Tameside Two Trees School
+Tichborne Way|50.821611|-1.163939|GOS1|Tichborne Way
+Trafford|53.448876|-2.320941|TRAF|Trafford
+Trafford A56|53.442476|-2.311421|TRF2|Trafford A56
+Wallingford|51.601041|-1.123550|WD1|Wallingford
+Waltham Crooked Billet|51.601728|-0.016442|WL4|Waltham Crooked Billet
+Waltham Forest Dawlish Rd|51.562376|-0.004898|WL1|Waltham Forest Dawlish Rd
+Waltham Forest Leyton|51.556239|-0.013628|WL5|Waltham Forest Leyton
+Watford Town Hall|51.659200|-0.402863|HB004|Watford Town Hall
+Watlington|51.645112|-1.004394|WAT|Watlington
+Welwyn Hatfield|51.767563|-0.214824|HB001|Welwyn Hatfield
+Widnes Marzahn Way|53.371193|-2.722289|WID2|Widnes Marzahn Way
+Widnes Milton Road|53.365391|-2.731680|WID1|Widnes Milton Road
+Wigan Centre PM10|53.549444|-2.638056|WIG7|Wigan Centre PM10
+Wren Close|51.514727|0.014554|NEW3|Wren Close
+Wycombe Abbey 4|51.624072|-0.754360|WYA4|Wycombe Abbey 4
+Wycombe Stokenchurch|51.652503|-0.894158|WSTO|Wycombe Stokenchurch
+York Bootham|53.967646|-1.086538|YK10|York Bootham
+York Fishergate|53.951889|-1.075861|YK11|York Fishergate
+York Fulford Road|53.937787|-1.073861|YK16|York Fulford Road
+York Gillygate|53.963805|-1.085679|YK7|York Gillygate
+York Heworth Green|53.965951|-1.070219|YK13|York Heworth Green
+York Holgate|53.954167|-1.094639|YK8|York Holgate
+York Lawrence Street|53.954663|-1.068241|YK9|York Lawrence Street
+York Nunnery Lane|53.953411|-1.086275|YK15|York Nunnery Lane
+York Plantation Drive|53.966432|-1.126061|YK018|York Plantation Drive
+Barnsley Gawber|53.562920|-1.510436|BAR3|Barnsley Gawber
+Barnstaple A39|51.074793|-4.041924|BPLE|Barnstaple A39
+Bath Roadside|51.391127|-2.354155|BATH|Bath Roadside
+Billingham|54.605370|-1.275039|BIL|Billingham
+Birkenhead Borough Road|53.388511|-3.025014|BBRD|Birkenhead Borough Road
+Birmingham A4540 Roadside|52.476090|-1.875024|BIRR|Birmingham A4540 Roadside
+Birmingham Acocks Green|52.437165|-1.829999|AGRN|Birmingham Acocks Green
+Birmingham Tyburn|52.511722|-1.830583|BIR1|Birmingham Tyburn
+Blackburn Accrington Road|53.747751|-2.452724|BLAR|Blackburn Accrington Road
+Blackpool Marton|53.804890|-3.007175|BLC2|Blackpool Marton
+Bournemouth|50.739570|-1.826744|BORN|Bournemouth
+Bradford Mayo Avenue|53.771245|-1.759774|BDMA|Bradford Mayo Avenue
+Brighton Preston Park|50.840836|-0.147572|BRT3|Brighton Preston Park
+Bristol St Paul's|51.462839|-2.584482|BRS8|Bristol St Paul's
+Bury Whitefield Roadside|53.559029|-2.293772|BURW|Bury Whitefield Roadside
+Cambridge Roadside|52.202370|0.124456|CAM|Cambridge Roadside
+Cannock A5190 Roadside|52.687298|-1.980821|CANK|Cannock A5190 Roadside
+Canterbury|51.273990|1.098061|CANT|Canterbury
+Carlisle Roadside|54.894834|-2.945307|CARL|Carlisle Roadside
+Charlton Mackrell|51.056250|-2.683450|MACK|Charlton Mackrell
+Chatham Roadside|51.374264|0.547970|CHAT|Chatham Roadside
+Chesterfield Loundsley Green|53.244131|-1.454946|CHLG|Chesterfield Loundsley Green
+Chesterfield Roadside|53.231722|-1.456944|CHS7|Chesterfield Roadside
+Chilbolton Observatory|51.149617|-1.438228|CHBO|Chilbolton Observatory
+Christchurch Barrack Road|50.735454|-1.780888|CHBR|Christchurch Barrack Road
+Coventry Allesley|52.411563|-1.560228|COAL|Coventry Allesley
+Doncaster A630 Cleveland Street|53.518868|-1.138073|DCST|Doncaster A630 Cleveland Street
+Eastbourne|50.805778|0.271611|EB|Eastbourne
+Exeter Roadside|50.725083|-3.532465|EX|Exeter Roadside
+Glazebury|53.460080|-2.472056|GLAZ|Glazebury
+High Muffles|54.334944|-0.808550|HM|High Muffles
+Honiton|50.792287|-3.196702|HONI|Honiton
+Hull Freetown|53.748780|-0.341222|HUL2|Hull Freetown
+Hull Holderness Road|53.758971|-0.305749|HULR|Hull Holderness Road
+Ladybower|53.403370|-1.752006|LB|Ladybower
+Leamington Spa|52.288810|-1.533119|LEAM|Leamington Spa
+Leamington Spa Rugby Road|52.294884|-1.542911|LEAR|Leamington Spa Rugby Road
+Leeds Centre|53.803780|-1.546472|LEED|Leeds Centre
+Leeds Headingley Kerbside|53.819972|-1.576361|LED6|Leeds Headingley Kerbside
+Leicester A594 Roadside|52.638677|-1.124228|LEIR|Leicester A594 Roadside
+Leicester University|52.619823|-1.127311|LECU|Leicester University
+Leominster|52.221740|-2.736665|LEOM|Leominster
+Lincoln Canwick Rd.|53.221373|-0.534189|LIN3|Lincoln Canwick Rd.
+Liverpool Speke|53.346330|-2.844333|LVP|Liverpool Speke
+Lullington Heath|50.793700|0.181250|LH|Lullington Heath
+Luton A505 Roadside|51.892293|-0.462110|LUTR|Luton A505 Roadside
+Manchester Piccadilly|53.481520|-2.237881|MAN3|Manchester Piccadilly
+Manchester Sharston|53.371306|-2.239218|MAHG|Manchester Sharston
+Market Harborough|52.554444|-0.772222|MKTH|Market Harborough
+Middlesbrough|54.569297|-1.220874|MID|Middlesbrough
+Newcastle Centre|54.978250|-1.610528|NEWC|Newcastle Centre
+Newcastle Cradlewell Roadside|54.986405|-1.595362|NCA3|Newcastle Cradlewell Roadside
+Northampton Kingsthorpe|52.271886|-0.879898|NTN3|Northampton Kingsthorpe
+Norwich Lakenfields|52.614193|1.301976|NO12|Norwich Lakenfields
+Nottingham Centre|52.954730|-1.146447|NOTT|Nottingham Centre
+Nottingham Western Boulevard|52.969377|-1.188851|NWBV|Nottingham Western Boulevard
+Oldbury Birmingham Road|52.502436|-2.003497|BOLD|Oldbury Birmingham Road
+Oxford Centre Roadside|51.751745|-1.257463|OX|Oxford Centre Roadside
+Oxford St Ebbes|51.744806|-1.260278|OX8|Oxford St Ebbes
+Plymouth Centre|50.371670|-4.142361|PLYM|Plymouth Centre
+Portsmouth|50.828810|-1.068583|PMTH|Portsmouth
+Preston|53.765590|-2.680353|PRES|Preston
+Reading London Rd.|51.454896|-0.940382|REA5|Reading London Rd.
+Rochester Stoke|51.456170|0.634889|ROCH|Rochester Stoke
+Salford Eccles|53.484810|-2.334139|ECCL|Salford Eccles
+Saltash Callington Road|50.411463|-4.227678|SASH|Saltash Callington Road
+Sandy Roadside|52.132417|-0.300306|SDY|Sandy Roadside
+Scunthorpe Town|53.586340|-0.636811|SCN2|Scunthorpe Town
+Shaw Crompton Way|53.579283|-2.093786|CW|Shaw Crompton Way
+Sheffield Barnsley Road|53.404950|-1.455815|SHBR|Sheffield Barnsley Road
+Sheffield Devonshire Green|53.378622|-1.478096|SHDG|Sheffield Devonshire Green
+Sheffield Tinsley|53.410580|-1.396139|SHE|Sheffield Tinsley
+Sibton|52.294400|1.463497|SIB|Sibton
+Southampton A33|50.920265|-1.463484|SA33|Southampton A33
+Southampton Centre|50.908140|-1.395778|SOUT|Southampton Centre
+Southend-on-Sea|51.544206|0.678408|SEND|Southend-on-Sea
+St Helens Linkway|53.451826|-2.742134|SHLW|St Helens Linkway
+St Osyth|51.777980|1.049031|OSY|St Osyth
+Stockton-on-Tees A1305 Roadside|54.565819|-1.315900|SOTR|Stockton-on-Tees A1305 Roadside
+Stockton-on-Tees Eaglescliffe|54.516667|-1.358547|EAGL|Stockton-on-Tees Eaglescliffe
+Stoke-on-Trent A50 Roadside|52.980436|-2.111898|STKR|Stoke-on-Trent A50 Roadside
+Stoke-on-Trent Centre|53.028210|-2.175133|STOK|Stoke-on-Trent Centre
+Storrington Roadside|50.916932|-0.449548|STOR|Storrington Roadside
+Sunderland Silksworth|54.883610|-1.406878|SUN2|Sunderland Silksworth
+Sunderland Wessington Way|54.918390|-1.408391|SUNR|Sunderland Wessington Way
+Walsall Woodlands|52.605621|-2.030523|WAL4|Walsall Woodlands
+Warrington|53.389280|-2.615358|WAR|Warrington
+Weybourne|52.950490|1.122017|WEYB|Weybourne
+Wicken Fen|52.298500|0.290917|WFEN|Wicken Fen
+Widnes Milton Road|53.365391|-2.731680|WSMR|Widnes Milton Road
+Wigan Centre|53.549140|-2.638139|WIG5|Wigan Centre
+Wirral Tranmere|53.372870|-3.022722|TRAN|Wirral Tranmere
+Worthing A27 Roadside|50.832947|-0.379916|WTHG|Worthing A27 Roadside
+Yarner Wood|50.597600|-3.716510|YW|Yarner Wood
+York Bootham|53.967513|-1.086514|YK10|York Bootham

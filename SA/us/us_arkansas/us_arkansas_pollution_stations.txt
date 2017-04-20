@@ -1,0 +1,10 @@
+lon;lat;station_id;station_name;address;elev
+-92.3285014490738;34.6811776517683;DSR AR;DSR AR;Doyle Springs Rd;
+-92.6693528641968;33.2201638853907;El Dorado AR;El Dorado AR;Union Memorial Hospital;
+-90.1931784282417;35.1971544743591;Marion AR;Marion AR;Polk & Colonial Dr.;
+-92.281108959259;34.7560606878432;PARRB AR;PARRB AR;Pike Ave at River Road;
+-94.1166297754631;36.1797048989362;Springdale AR;Springdale AR;600 S. Old Missouri Rd;
+-93.2080144219132;35.8326522809965;Deer AR;Deer AR;Hwy 16;
+-94.1433670679016;34.4544383212024;Eagle Mountain AR;Eagle Mountain AR;463 Polk 631;
+-94.167498584877;36.0116736376607;Fayetteville AR;Fayetteville AR;429 Ernest Lancaster Dr.;
+-92.260441272068;34.8356070273863;N Little Rock Airport;N Little Rock Airport;Remount Rd;

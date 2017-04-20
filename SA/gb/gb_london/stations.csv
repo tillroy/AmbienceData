@@ -1,0 +1,126 @@
+address|lat|lon|station_id|station_name
+-|51.66864334727|-0.02200720557|EN7|Enfield - Prince of Wales School
+-|51.6450367266602|-6.61800662229116E-02|EN1|Enfield - Bush Hill Park
+-|51.618686|0.307746|BW1|Brentwood - Brentwood Town Hall
+-|51.617327|-0.298775|HR1|Harrow - Stanmore
+-|51.614864007|-0.0507658363689|EN4|Enfield - Derby Road
+-|51.613865|-0.125338|EN5|Enfield - Bowes Primary School
+-|51.599302|-0.068218|HG1|Haringey - Haringey Town Hall
+-|51.588417|-0.362989|HR2|Harrow - Pinner Road
+-|51.5839769007709|-0.125400278484885|HG4|Haringey - Priory Park South
+-|51.57661|0.030858|RB4|Redbridge - Gardner Close
+-|51.572976|0.179079|HV3|Havering - Romford
+-|51.5694843315237|8.29074748964946E-02|RB7|Redbridge - Ley Street
+-|51.563752|0.177891|BG1|Barking and Dagenham - Rush Green
+-|51.557895|-0.106989|IS6|Islington - Arsenal
+-|51.555378|-0.116146|IS2|Islington - Holloway Road
+-|51.554064|0.60606|CP2|Castle Point - Hadleigh
+-|51.552656|-0.248774|BT5|Brent - Neasden Lane
+-|51.552476|-0.258089|BT4|Brent - Ikea
+-|51.544219|-0.175284|CD1|Camden - Swiss Cottage
+-|51.5405194915241|-0.033307388878|TH5|Tower Hamlets - Victoria Park
+-|51.537799|-0.247793|BT6|Brent - John Keble Primary School
+-|51.5363854087616|-0.725480414494953|MW4|Windsor and Maidenhead - Aldebury Road
+-|51.53085|-0.292488|EA6|Ealing - Hanger Lane Gyratory
+-|51.529389|0.132857|BG2|Barking and Dagenham - Scrattons Farm
+-|51.5277066194645|-0.129053205282516|CD9|Camden - Euston Road
+-|51.526454|-0.08491|HK6|Hackney - Old Street
+-|51.5236078191481|-0.265502631799754|EI1|Ealing - Western Avenue
+-|51.52254|-0.15459|MY1|Westminster - Marylebone Road
+-|51.52254|-0.15459|MY7|Westminster - Marylebone Road FDMS
+-|51.5225294860844|-4.21550991900347E-02|TH2|Tower Hamlets - Mile End Road
+-|51.522287|-0.125848|BL0|Camden - Bloomsbury
+-|51.52106551|-0.21344617|KC7|Kensington and Chelsea - North Ken FDMS
+-|51.5210467476039|-0.213492139585065|KC1|Kensington and Chelsea - North Ken
+-|51.520894546995|-0.724024666515|MW1|Windsor and Maidenhead - Frascati Way
+-|51.520787459334|0.205460705694044|HV1|Havering - Rainham
+-|51.520225273171|-9.61060474176381E-02|CT4|City of London - Beech Street
+-|51.518948|-0.265617|EA8|Ealing - Horn Lane
+-|51.5189160348806|-0.265652052386222|EI8|Ealing - Horn Lane TEOM
+-|51.518162|0.439548|TK3|Thurrock - Stanford-le-Hope
+-|51.5173675146177|-0.1201947113171|IM1|Camden - Holborn (inmidtown)
+-|51.515532|-0.127027|CD3|Camden - Shaftesbury Avenue
+-|51.5150461674013|-8.41849265642741E-03|TH4|Tower Hamlets - Blackwall
+-|51.5145253362314|-0.104515626337876|CT2|City of London - Farringdon Street
+-|51.5139287404213|-0.152792701881935|WM6|Westminster - Oxford Street
+-|51.513847178423|-0.077765681752|CT3|City of London - Sir John Cass School
+-|51.511998|-0.116715|NB1|Westminster - Strand (Northbank BID)
+-|51.510808|0.121617|BX3|Bexley - Thamesmead
+-|51.510499|-0.091634|CT6|City of London - Walbrook Wharf
+-|51.5095436853913|-8.73571979556188E-02|CT8|City of London - Upper Thames Street
+-|51.508549|-0.392179|EA7|Ealing - Southall
+-|51.5085164816243|-0.392208459173292|EI7|Ealing - Southall FDMS
+-|51.5045625671557|-0.224670007031603|HF4|Hammersmith and Fulham - Shepherds Bush
+-|51.49913951|-0.164337605|KC3|Kensington and Chelsea - Knightsbridge
+-|51.4977331829735|-0.14424140916201|WM9|Westminster - Victoria (Victoria BID)
+-|51.497066177578|-0.142438820740121|WM8|Westminster - Victoria
+-|51.496309|-0.460826|HI0|Hillingdon - Keats Way
+-|51.49550391|-0.178809464|KC2|Kensington and Chelsea - Cromwell Road
+-|51.494681|-0.131938|WM0|Westminster - Horseferry Road
+-|51.4946486813055|0.137279111232178|BQ7|Bexley - Belvedere West
+-|51.4946486813055|0.137279111232178|BQ8|Bexley - Belvedere West FDMS
+-|51.4931557048667|-0.101527038274853|SK6|Southwark - Elephant and Castle
+-|51.492571|0.017697|GN2|Greenwich - Millennium Village
+-|51.4906102082147|0.158914493927518|BX2|Bexley - Belvedere
+-|51.4906102082147|0.158914493927518|BX0|Bexley - Belvedere FDMS
+-|51.490532|0.074003|GN0|Greenwich - A206 Burrage Grove
+-|51.49019756|-0.190863311|KC5|Kensington and Chelsea - Earls Court Rd
+-|51.4891342634|-0.0129769309432|TH6|Tower Hamlets - Millwall Park
+-|51.48878|-0.441627|LH0|Hillingdon - Harlington
+-|51.48743685|-0.168397129|KC4|Kensington and Chelsea - Kings Road
+-|51.486957|0.095111|GN3|Greenwich - Plumstead High Street
+-|51.486884|0.017901|GR8|Greenwich - Woolwich Flyover
+-|51.4854867739729|-0.124545234819213|LB5|Lambeth - Bondway Interchange
+-|51.4811412184719|-4.56708566668043E-02|LW3|Lewisham - Mercury Way
+-|51.4804994936467|-5.95528932573422E-02|SK5|Southwark - A2 Old Kent Road
+-|51.480189|-0.237335|RI1|Richmond Upon Thames - Castelnau
+-|51.480178972651|-0.62380842514|MW2|Windsor and Maidenhead - Clarence Road
+-|51.4794395281222|-0.141786953606306|WAA|Wandsworth - Battersea
+-|51.478697|0.255133|TK8|Thurrock - London Road (Purfleet)
+-|51.477076|0.317938|TK1|Thurrock - London Road (Grays)
+-|51.476168|-0.230427|RI2|Richmond Upon Thames - Barnes Wetlands
+-|51.474954|-0.039641|LW2|Lewisham - New Cross
+-|51.472504|-0.012381|GR7|Greenwich - Blackheath
+-|51.4659832746662|0.184877126994369|BX1|Bexley - Slade Green
+-|51.4659832746662|0.184877126994369|BX9|Bexley - Slade Green FDMS
+-|51.4650325059122|-0.215824580947572|WA9|Wandsworth - Putney
+-|51.4646910611736|-0.016068243204|LW4|Lewisham - Loampit Vale
+-|51.464113541162|-0.11458102695123|LB4|Lambeth - Brixton Road
+-|51.4637206047191|-0.215890144123119|WA8|Wandsworth - Putney High Street Facade
+-|51.4636903568111|-0.166713485994806|WAC|Wandsworth - Lavender Hill (Clapham Jct)
+-|51.463429|-0.215871|WA7|Wandsworth - Putney High Street
+-|51.4617571252861|0.357953197319231|TK4|Thurrock - Calcutta Road Tilbury
+-|51.456962|-0.191074|WA2|Wandsworth - Wandsworth Town Hall
+-|51.456357|0.040725|GR9|Greenwich - Westhorne Avenue
+-|51.4563|0.085606|GB0|Greenwich and Bexley - Falconwood FDMS
+-|51.4563|0.085606|GB6|Greenwich and Bexley - Falconwood
+-|51.4531422511004|-0.341218138106469|RHG|Richmond Upon Thames - Chertsey Road
+-|51.4529847075166|-0.944461432664066|RD0|Reading - New Town
+-|51.45258|0.070766|GR4|Greenwich - Eltham
+-|51.445468|-0.020266|LW1|Lewisham - Catford
+-|51.4346627060562|6.42224671704697E-02|GN4|Greenwich - Fiveways Sidcup Rd A20
+-|51.429331|-0.166524|WAB|Wandsworth - Tooting High Street
+-|51.4282131429499|-0.13186863879576|LB6|Lambeth - Streatham Green
+-|51.4252560360937|-0.345608290872898|TD5|Richmond Upon Thames - Bushy Park
+-|51.4243043441456|-0.345714576446947|TD0|Richmond Upon Thames - Ntl Physical Lab
+-|51.4161384794862|-0.192230805042824|ME2|Merton - Merton Road
+-|51.413691|-0.302269|KT3|Kingston Upon Thames - Sopwith Way
+-|51.411349|-0.12311|CR5|Croydon - Norbury
+-|51.410039|-0.127523|CR8|Croydon - Norbury Manor
+-|51.40105|-0.195929|ME1|Merton - Morden Civic Centre
+-|51.3943415638|-0.165161044588|ME7|Merton - Willow Lane Industrial Estate
+-|51.389286904505|-0.141661524779893|ST5|Sutton - Beddington Lane north
+-|51.3835652277943|-0.1364178614733|ST8|Sutton - Beddington Lane 
+-|51.379312|-0.281259|KT4|Kingston Upon Thames - Tolworth Broadway
+-|51.377923|-0.240414|ST6|Sutton - Worcester Park
+-|51.3739530635378|-9.67638468323854E-02|CR9|Croydon - Park Lane
+-|51.365318|-0.165936|ST3|Sutton - Carshalton
+-|51.3622305655403|-0.117604507351392|CR7|Croydon - Purley Way A23
+-|51.3586596124998|-0.149723946604927|ST4|Sutton - Wallington
+-|51.293759175|0.195766572888|ZV3|Sevenoaks - Sevenoaks Quarry
+-|51.289391|0.201437|ZV1|Sevenoaks - Greatness Park
+-|51.28879|0.193401|ZV2|Sevenoaks - Bat and Ball
+-|51.165858475858|-0.167734107139|RG1|Reigate and Banstead - Horley
+-|51.161508|-0.162928|RG2|Reigate and Banstead - Horley South
+-|51.1612605001364|-0.162410036780488|RG6|Reigate and Banstead - Horley South East
+-|51.142082|-0.194181|RG3|Reigate and Banstead - Poles Lane

@@ -1,0 +1,69 @@
+station_name;state;abr;station_id;lat;lon;elev
+Big Bend K-Bar Ranch Road;TX;BIBE-KB;48-043-0101;29.3022;-103.1772;1052
+Canyonlands Island in the Sky;UT;CANY-IS;49-037-0101;38.4586;-109.8211;1809
+Carlsbad Caverns Maintenance Area;NM;CAVE-MA;35-015-3001;32.1792;-104.4417;1310
+Chiricahua Entrance Station;AZ;CHIR-ES;04-003-8001;32.0092;-109.3892;1570
+City of Rocks Juniper Campground;ID;CIRO-JC;16-031-0001;42.0289;-113.7292;1914
+Colorado Maintenance Yard;CO;COLM-MY;08-077-1001;39.1067;-108.7411;1740
+Craters of the Moon Visitor Center;ID;CRMO-VC;16-023-0101;43.4606;-113.5622;1815
+Cumberland Gap Hensley Settlement;TN;CUGA-HS;21-013-1002;36.6719;-83.5264;1013
+Death Valley Park Village;CA;DEVA-PV;06-027-0101;36.5092;-116.8481;125
+Denali Headquarters;AK;DENA-HQ;02-068-0003;63.7258;-148.9633;661
+Devil’s Tower Joyner Ridge Trail;WY;DETO-JR;56-011-1013;44.5969;-104.7047;1200
+Dinosaur West Entrance Housing;UT;DINO-WE;49-047-1002;40.2917;-108.9417;2072
+Everglades Beard Center;FL;EVER-BC;12-086-0030;25.3911;-80.6806;2
+Glacier West Glacier Horse Stables;MT;GLAC-WG;30-029-8001;48.5103;-113.9956;976
+Grand Canyon The Abyss;AZ;GRCA-AS;04-005-8001;36.0597;-112.1822;2073
+Grand Teton Science School;WY;GRTE-SS;56-039-0008;43.6708;-110.5994;2105
+Great Basin Maintenance Yard;NV;GRBA-MY;32-033-0101;39.0053;-114.2158;2060
+Great Smoky Mountains Clingmans Dome;TN;GRSM-CD;47-155-0102;35.5619;-83.4981;2021
+Great Smoky Mountains Cove Mountain;TN;GRSM-CM;47-155-0101;35.6967;-83.6086;1243
+Great Smoky Mountains Look Rock;TN;GRSM-LR;47-009-0101;35.6331;-83.9422;793
+Hawaii Volcanoes Observatory /Jaggar Museum;HI;HAVO-OB;15-001-0007;19.4203;-155.2881;1123
+Hawaii Volcanoes Visitor Center;HI;HAVO-VC;15-001-0005;19.4308;-155.2578;1215
+Joshua Tree Black Rock;CA;JOTR-BR;06-071-9002;34.0714;-116.3906;1244
+Joshua Tree Cottonwood Canyon;CA;JOTR-CC;06-065-0008;33.7411;-115.8206;984
+Joshua Tree Pinto Wells;CA;JOTR-PW;06-065-1004;33.9397;-115.4108;326
+Kings Mountain Brown’s Mountain;SC;KIMO-BM;45-021-0003;35.1314;-81.405;340
+Lassen Volcanic Manzanita Lake Fire Station;CA;LAVO-ML;06-089-3003;40.5403;-121.5764;1756
+Little River Canyon Canyon High;AL;LIRI-CH;-;34.3669;-85.6642;372
+Lyndon B. Johnson Hay Barn;TX;LYJO-HB;48-171-0001;30.2625;-98.6292;470
+Mammoth Cave Houchin Meadow;KY;MACA-HM;21-061-0501;37.1864;-86.0411;258
+Mesa Verde Resource Management Area;CO;MEVE-RM;08-083-0101;37.1983;-108.4903;2165
+Mojave Kelso Mountains;CA;MOJA-KM;06-071-1001;35.1019;-115.7767;1212
+Mount Rainier Tahoma Woods;WA;MORA-TW;53-053-1010;46.7583;-122.1244;415
+Olympic Deer Park;WA;OLYM-DP;53-009-0016;47.9492;-123.2653;1607
+Petrified Forest South Entrance;AZ;PEFO-SE;04-017-0119;34.8225;-109.8919;1723
+Pinnacles SW of East Entrance Station;CA;PINN-ES;06-069-0003;36.485;-121.1556;335
+Rocky Mountain Long’s Peak;CO;ROMO-LP;08-069-0007;40.2778;-105.5453;2743
+Russell Cave Visitor Center;AL;RUCA-VC;-;34.9811;-85.81;215
+Scotts Bluff Visitor Center;NE;SCBL-VC;31-157-0005;41.8294;-103.708;1255
+Sequoia and Kings Canyon Ash Mountain;CA;SEKI-AS;06-107-0009;36.4894;-118.8292;457
+Sequoia and Kings Canyon Lower Kaweah;CA;SEKI-LK;06-107-0006;36.5658;-118.7772;1890
+Shenandoah Big Meadows;VA;SHEN-BM;51-113-0003;38.5231;-78.4347;1073
+Voyageurs Sullivan Bay;MN;VOYA-SB;27-137-0034;48.4128;-92.8292;429
+Yellowstone Old Faithful;WY;YELL-OF;56-039-1012;44.4569;-110.8314;2246
+Yellowstone Water Tank;WY;YELL-WT;56-039-1011;44.5597;-110.4006;2400
+Yosemite School Yard;CA;YOSE-SY;06-043-1004;37.7478;-119.5917;1234
+Yosemite Turtleback Dome;CA;YOSE-TD;06-043-0003;37.7133;-119.7061;1605
+Zion Dalton’s Wash;UT;ZION-DW;49-053-0130;37.1983;-113.1506;1213
+Meeker Plant Science Center;CO;MEEK-PS;08-103-0005;40.0039;-107.8475;1994
+Rangely Golf Course;CO;RANG-GC;08-103-0006;40.0869;-108.7614;1655
+Walden Chandler Ranch;CO;WALD-CR;08-057-0003;40.8822;-106.3061;2417
+Acadia Cadillac Mountain;ME;ACAD-CM;23-009-0102;44.4083;-68.2461;37
+Acadia McFarland Hill;ME;ACAD-MH;23-009-0103;44.3769;-68.2608;158
+Badlands Visitor Center;SD;BADL-VC;46-071-0001;43.7436;-101.9414;739
+Cape Cod Cape Cod;MA;CACO-XX;25-001-0002;41.9758;-70.0247;41
+Chamizal Chamizal;TX;CHAM-XX;48-141-0044;31.7656;-106.455;1128
+Congaree Congaree Bluff;SC;COSW-BL;45-079-0021;33.8147;-80.7811;34
+Cowpens State Monitor;SC;COWP-SM;45-021-0002;35.1303;-87.8164;297
+Everglades Cutler Road;FL;EVER-CR;12-086-0029;25.5861;-80.3269;4
+Great Smoky Mountains Cades Cove;TN;GRSM-CC;47-009-0102;35.6042;-83.7831;564
+Great Smoky Mountains Purchase Knob;NC;GRSM-PK;37-087-0036;35.59;-83.0775;1500
+Indiana Dunes Ammunition Bunker;IN;INDU-AB;18-089-0022;41.7169;-86.9075;187
+Mount Rainier Jackson Visitor’s Center;WA;MORA-JV;53-053-0012;46.7853;-121.7378;1615
+Saguaro East;AZ;SAGU-EA;04-019-0021;32.1744;-110.7364;938
+Theodore Roosevelt Painted Canyon Visitor Cntr;ND;THRO-VC;38-007-0002;46.8947;-103.3778;850
+Wind Cave Visitor Center;SD;WICA-VC;46-033-0132;43.5578;-103.4839;1292
+Yellowstone West Yellowstone;MT;YELL-WS;30-031-0017;44.6569;-111.0894;2030
+Yosemite Village;CA;YOSE-VI;06-043-1001;37.7458;-119.6028;1216

@@ -1,0 +1,57 @@
+station_id|station_name|adress|lon|lat|elev|type
+2|Yasinia|Yasinia|24.3586|48.2727|646.5|0
+8|Rakhiv|Rakhiv|24.2051|48.0528|531.17|0
+13|Terentyn|Terentyn|24.23|48.15|1388|0
+5|Luhy|Luhy|24.4156|48.0588|602.05|0
+26|V. Bychkiv|V. Bychkiv|24.0056|47.968|294.78|0
+27|Kosivska Poliana|Kosivska Poliana|24.1103|48.004|-|0
+42|Drahobrat|Drahobrat|24.2506|48.3087|-|0
+48|Dilove|Dilove|24.1738|47.9357|-|0
+49|Solotvyno|Solotvyno|23.8718|47.9372|-|0
+18|Tisabech|Tisabech|22.82|48.12|-|0
+19|Tivadar|Tivadar|22.5|48|-|0
+20|Zakhon|Zakhon|22.2|48.41|92.35|0
+21|Vasharoshnamen|Vasharoshnamen|22.31|48.11|-|0
+22|Chenher|Chenher|22.71|47.79|-|0
+23|Aherdemaior|Aherdemaior|22.45|47.72|-|0
+36|Khust|Khust|23.26|48.165|-|0
+12|Rokosovo|Rokosovo|23.25|48.25|819|0
+9|Tiachiv|Tiachiv|23.5719|48.0121|208.97|0
+4|Kryva|Kryva|23.25|48.18|154.73|0
+10|Ust-Chorna|Ust-Chorna|23.9286|48.3301|523.86|0
+17|Krasna|Krasna|24.05|48.24|1312|0
+37|Nerestnytsia|Nerestnytsia|23.7691|48.1144|-|0
+39|N. Studenyi|N. Studenyi|23.38|48.715|-|0
+40|Zalomysko|Zalomysko|23.3307|48.6194|-|0
+41|Torun|Torun|23.563|48.6723|-|0
+34|Pylypets|Pylypets|23.3381|48.6704|-|0
+35|Repynne|Repynne|23.4446|48.5872|-|0
+6|Mizhhiria|Mizhhiria|23.5038|48.5269|434.22|0
+14|Kolochava retr.|Kolochava retr.|23.75|48.5|1548|0
+3|Kolochava|Kolochava|23.6756|48.4066|531.17|0
+1|Dovhe|Dovhe|23.28|48.39|168.35|0
+28|Nyzhni Remety|Nyzhni Remety|22.85|48.26|-|0
+31|Poliana|Poliana|22.9632|48.6126|-|0
+38|N. Vorota|N. Vorota|23.099|48.794|-|0
+15|Pidpolozzia|Pidpolozzia|23|48.75|356.54|0
+16|Svaliava|Svaliava|22.94|48.54|190|0
+7|Plai|Plai|23.18|48.67|1343|0
+33|Mukachevo|Mukachevo|22.7161|48.4431|-|0
+46|Chop|Chop|22.25|48.45|-|0
+43|Simer|Simer|22.5148|48.7341|-|0
+44|Zarichevo|Zarichevo|22.5|48.77|-|0
+45|Yavornyk|Yavornyk|22.5536|48.9053|-|0
+11|Uzhhorod|Uzhhorod|22.3|48.6214|112.38|0
+32|T. Poliana|T. Poliana|22.7997|48.6988|-|0
+29|V. Bereznyi|V. Bereznyi|22.4651|48.8973|-|0
+30|Zhornava|Zhornava|22.6293|48.9894|-|0
+25|Chornoholova|Chornoholova|22.6054|48.8586|255.09|0
+33631|Uzhhorod|Uzhhorod|22.3|48.6214|112.38|1
+33514|V. Bereznyi|V. Bereznyi|22.4651|48.8973|-|1
+33634|Berehovo|Berehovo|22.633|48.217|-|1
+33515|Plai|Plai|23.18|48.67|1343|1
+33638|Khust|Khust|23.26|48.165|-|1
+33633|Mizhhiria|Mizhhiria|23.5038|48.5269|434.22|1
+33647|Rakhiv|Rakhiv|24.2051|48.0528|531.17|1
+33517|N. Vorota|N. Vorota|23.099|48.794|-|1
+33518|N. Studenyi|N. Studenyi|23.38|48.715|-|1

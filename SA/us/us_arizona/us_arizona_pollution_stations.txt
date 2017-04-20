@@ -1,0 +1,20 @@
+lon;lat;station_id;station_name;address;elev
+-113.558414748764;34.2440045409078;d18426ff-2205-e311-90b0-0017a477041a;Alamo Lake;Alamo Lake State Park Cholla Rd., Wenden, Arizona 85357;
+-112.463484121761;34.6118501471194;862b215c-acad-e611-90f0-0017a477041a;Prescott Pioneer Park;1200 Commence Dr., Prescott, AZ 86305;
+-112.858204018524;32.38216707453;efa0f37e-720b-e311-b2ee-0017a477041e;Ajo;1211 Well Rd AZ Highway Department Yard, Ajo, Arizona 85321;
+-114.56689456266;35.153699694448;1a575e3b-730b-e311-b2ee-0017a477041e;Bullhead City;990 Highway 95, Bullhead City, Arizona 86429;
+-109.539748088272;31.3492106896535;74d93762-730b-e311-b2ee-0017a477041e;Douglas Red Cross;1445 E. 15th St., Douglas, Arizona 85607;
+-111.653152509262;35.2064853224527;b225b57f-740b-e311-b2ee-0017a477041e;Flagstaff Middle School;755 N. Bonito St., Flagstaff, Arizona 86001;
+-110.82967;33.419017;316a1fc5-740b-e311-b2ee-0017a477041e;Miami Golf Course;SR 188 and US 60, Miami, Arizona 85539;
+-110.867410945217;33.3854007105639;150576e0-740b-e311-b2ee-0017a477041e;Miami Jones Ranch;TBD, Miami, Arizona 85539;
+-110.859484297844;33.3993481771726;f6347351-750b-e311-b2ee-0017a477041e;Miami Ridgeline;4030 Linden St., Miami, Arizona 85539;
+-110.87454137392;33.3974162798721;a4fe2286-750b-e311-b2ee-0017a477041e;Miami Town Site;TBD, Miami, Arizona 85539;
+-110.937182379787;31.337354743199;066985ae-750b-e311-b2ee-0017a477041e;Nogales Post Office;300 N. Morley Ave., Nogales, Arizona 85621;
+-109.730784775925;31.3657465611586;d138ace3-750b-e311-b2ee-0017a477041e;Paul Spur Chemical Lime Plant;SR 80 Paul Spur Rd. Housing Area, Paul Spur, Arizona 85603;
+-111.329447157097;34.2297663754009;b1a19184-760b-e311-b2ee-0017a477041e;Payson Well Site;204 W. Aero Dr., Payson, Arizona 85541;
+-111.285730040741;33.2938878851552;f163a50b-780b-e311-b2ee-0017a477041e;Queen Valley;10 S. Queen Anna Dr., Queen Valley, Arizona 85219;
+-111.154634122223;32.4143059596829;8b72b931-780b-e311-b2ee-0017a477041e;Rillito;8840 W. Robinson St., Rillito, Arizona 85653;
+-111.107457578087;33.6547239637817;79ff8672-780b-e311-b2ee-0017a477041e;Tonto National Monument;South of SR 188, Roosevelt, Arizona 85545;
+-112.095817067902;33.5037202774533;7850910b-b4d1-e111-a071-00215a224a95;Phoenix JLG Supersite;4530 N. 17th Ave., Phoenix, Arizona 85015;
+-110.786480426857;33.0063112606312;2121d39e-710d-4165-bc0c-681c5555ced4;Hayden;Canyon Dr. Kennecott Ave., Hayden, Arizona 85235;
+-114.614533877316;32.6903348852942;a8dffc5e-6846-4608-afad-a8d476cfac92;Yuma Supersite;2323 S. Arizona Ave., Yuma, Arizona 85364;

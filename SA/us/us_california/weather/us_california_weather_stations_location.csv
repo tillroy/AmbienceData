@@ -1,0 +1,154 @@
+station_id;name;address;lon;lat;elev
+2;FivePoints;Fresno, Five Points;-120.112910;36.336222;285
+5;Shafter;Kern, Shafter;-119.281790;35.532556;360
+6;Davis;Yolo, Davis;-121.776360;38.535694;60
+7;Firebaugh/Telles;Fresno, Firebaugh;-120.590920;36.851222;185
+12;Durham;Butte, Chico;-121.824430;39.608639;130
+13;Camino;El Dorado, Placerville;-120.7336;38.753136;2780
+15;Stratford;Kings, Stratford;-119.851430;36.157972;193
+19;Castroville;Monterey, Castroville;-121.773640;36.768167;9
+21;Kettleman;Kings, Kettleman City;-119.8949;35.867750;340
+35;Bishop;Inyo, Bishop;-118.405530;37.358514;4170
+39;Parlier;Fresno, Parlier;-119.504040;36.597444;337
+41;Calipatria/Mulberry;Imperial, Calipatria;-115.415850;33.042986;-110
+43;McArthur;Shasta, Glenburn;-121.456020;41.063767;3310
+44;U.C. Riverside;Riverside, Riverside;-117.336980;33.964942;1020
+47;Brentwood;Contra Costa, Brentwood;-121.6599;37.928258;45
+52;San Luis Obispo;San Luis Obispo, San Luis Obispo;-120.661780;35.305442;330
+54;Blackwells Corner;Kern, Blackwells Corner;-119.9593;35.649861;705
+56;Los Banos;Merced, Los Banos;-120.7539;37.096694;95
+57;Buntingville;Lassen, Susanville;-120.433948;40.289799;4005
+62;Temecula;Riverside, Rancho California;-117.228270;33.486650;1420
+64;Santa Ynez;Santa Barbara, Santa Ynez;-120.079240;34.583144;490
+68;Seeley;Imperial, Seeley;-115.732070;32.759575;40
+70;Manteca;San Joaquin, Manteca;-121.223190;37.834822;33
+71;Modesto;Stanislaus, Modesto;-121.187760;37.645222;35
+75;Irvine;Orange, Irvine;-117.721180;33.688450;410
+77;Oakville;Napa, Napa;-122.410210;38.428475;190
+78;Pomona;Los Angeles, Pomona;-117.813070;34.056589;730
+80;Fresno State;Fresno, Fresno;-119.742310;36.820833;339
+83;Santa Rosa;Sonoma, Santa Rosa;-122.799930;38.403550;80
+84;Browns Valley;Yuba, Marysville;-121.315670;39.252561;940
+86;Lindcove;Tulare, Lindcove;-119.059350;36.3605;480
+87;Meloland;Imperial, El Centro;-115.446260;32.806183;-50
+88;Cuyama;Santa Barbara, Cuyama;-119.6738;34.942525;2290
+90;Alturas;Modoc, Alturas;-120.480310;41.438214;4405
+91;Tulelake FS;Siskiyou, Tulelake;-121.472370;41.958869;4035
+92;Kesterson;Merced, Gustine;-120.880820;37.231861;75
+99;Santa Monica;Los Angeles, Santa Monica;-118.476890;34.044311;340
+103;Windsor;Sonoma, Windsor;-122.8293;38.526336;85
+104;De Laveaga;Santa Cruz, Santa Cruz;-121.996760;36.997444;300
+105;Westlands;Fresno, Tranquility;-120.381810;36.634028;191
+106;Sanel Valley;Mendocino, Hopland;-123.089280;38.982581;525
+107;Santa Barbara;Santa Barbara, Santa Barbara;-119.737420;34.437353;250
+109;Carneros;Napa, Napa;-122.354960;38.219503;5
+111;Green Valley Road;Santa Cruz, Watsonville;-121.763940;36.943964;110
+113;King City-Oasis Rd.;Monterey, King City;-121.084570;36.121083;540
+114;Arroyo Seco;Monterey, Soledad;-121.291350;36.347306;235
+116;Salinas North;Monterey, Salinas;-121.691890;36.716806;61
+117;Victorville;San Bernardino, Victorville;-117.263510;34.475914;2890
+121;Dixon;Solano, Dixon;-121.786910;38.415564;37
+124;Panoche;Fresno, Firebaugh;-120.731410;36.890056;183
+125;Arvin-Edison;Kern, Arvin;-118.778410;35.205583;500
+126;San Benito;San Benito, Hollister;-121.362750;36.854833;340
+129;Pajaro;Monterey, Pajaro;-121.741930;36.902778;65
+131;Fair Oaks;Sacramento, Fair Oaks;-121.218870;38.649964;265
+135;Blythe NE;Riverside, Blythe;-114.558110;33.662869;275
+136;Oasis;Riverside, Oasis/Indio;-116.155750;33.523694;12
+139;Winters;Solano, Winters;-121.978530;38.501258;136
+140;Twitchell Island;Sacramento, Rio Vista;-121.674455;38.121739;0
+142;Orange Cove;Fresno, Orange Cove;-119.389030;36.721083;450
+143;San Juan Valley;San Benito, Hollister;-121.467870;36.822861;245
+144;Petaluma East;Sonoma, Petaluma;-122.616460;38.266428;97
+146;Belridge;Kern, Lost Hills;-119.691140;35.505833;410
+147;Otay Lake;San Diego, Chula Vista;-116.939280;32.628208;580
+148;Merced;Merced, Merced;-120.3867;37.314139;200
+150;Miramar;San Diego, La Jolla;-117.143140;32.885847;445
+151;Ripley;Riverside, Blythe;-114.633890;33.532222;251
+152;Camarillo;Ventura, Camarillo;-118.992440;34.219386;130
+153;Escondido SPV;San Diego, Escondido;-116.9757;33.081050;390
+155;Bryte (experimental);Yolo, West Sacramento;-121.540410;38.599158;40
+157;Point San Pedro;Marin, San Rafael;-122.467656;37.995478;5
+158;Bennett Valley;Sonoma, Santa Rosa;-122.658720;38.419439;270
+159;Monrovia;Los Angeles, Monrovia;-117.9858;34.146372;595
+160;San Luis Obispo West;San Luis Obispo, San Luis Obispo;-120.735880;35.335261;285
+161;Patterson;Stanislaus, Patterson;-121.138510;37.438944;183
+163;Atascadero;San Luis Obispo, Atascadero;-120.648140;35.472556;885
+165;Sisquoc;Santa Barbara, Santa Maria;-120.212740;34.841878;536
+167;Tracy;San Joaquin, Tracy;-121.475520;37.725881;82
+169;Porterville;Tulare, Porterville;-119.093420;36.082056;400
+170;Concord;Contra Costa, Concord;-122.020280;38.015372;35
+171;Union City;Alameda, Union City;-122.053230;37.598758;16
+173;Torrey Pines;San Diego, La Jolla;-117.250460;32.901867;335
+174;Long Beach;Los Angeles, Long Beach;-118.094790;33.798697;17
+175;Palo Verde II;Imperial, Palo Verde;-114.719210;33.383697;230
+178;Moraga;Contra Costa, Moraga;-122.140740;37.837614;510
+179;Winchester;Riverside, Winchester;-117.093380;33.663325;1626
+181;Westmorland North;Imperial, Imperial;-115.660560;33.078611;-200
+182;Delano;Tulare, Delano;-119.255960;35.8330;300
+183;Owens Lake North;Inyo, Keeler;-117.919440;36.488611;3684
+184;San Diego II;San Diego, San Diego;-117.139340;32.729578;377
+187;Black Point;Marin, Novato;-122.5267;38.090933;1
+188;Madera II;Madera, Madera;-120.15;37.02;242
+189;Owens Lake South;Inyo, Cartago;-117.943870;36.358628;3682
+190;Five Points South West;Fresno, Five Points;-120.229850;36.382028;270
+191;Pleasanton;Alameda, Pleasanton;-121.885030;37.663969;335
+192;Lake Arrowhead;San Bernardino, Lake Arrowhead;-117.218140;34.255942;5148
+193;Pacific Grove ;Monterey, Pacific Grove ;-121.934860;36.633222;50
+194;Oakdale;Stanislaus, Oakdale;-120.850860;37.727194;165
+195;Auburn;Placer, Auburn;-121.102910;38.887603;935
+196;Esparto;Yolo, Esparto;-122.013810;38.691786;174
+197;Palmdale;Los Angeles, Palmdale;-118.032490;34.614981;2550
+198;Santa Paula;Ventura, Santa Paula;-119.104880;34.324639;218
+199;Big Bear Lake;San Bernardino, Big Bear Lake;-116.865710;34.237419;6910
+200;Indio 2;Riverside, Indio;-116.2529;33.748586;40
+202;Nipomo;San Luis Obispo, Nipomo;-120.560030;35.028281;255
+203;Alpaugh;Tulare, Alpaugh;-119.503570;35.862583;210
+204;Santa Clarita;Los Angeles, Santa Clarita;-118.517580;34.426361;1410
+205;Coalinga;Fresno, Coalinga;-120.360270;36.175833;730
+206;Denair II;Stanislaus, Denair;-120.754530;37.545869;150
+207;Borrego Springs;San Diego, Borrego Springs;-116.365050;33.268447;578
+208;La Quinta II;Riverside, La Quinta;-116.272990;33.678186;36
+209;Watsonville West II;Santa Cruz, Watsonville;-121.823650;36.913083;240
+210;Carmel;Monterey, Carmel;-121.881960;36.540889;75
+211;Gilroy;Santa Clara, Gilroy;-121.537040;37.015026;185
+212;Hastings Tract East;Solano, Dixon;-121.741110;38.278056;7
+213;El Cerrito;Contra Costa, El Cerrito;-122.302714;37.931539;596
+214;Salinas South II;Monterey, Salinas;-121.537889;36.625619;153
+215;Chatsworth;Los Angeles, Chadsworth;-118.570040;34.291331;1536
+216;Arleta;Los Angeles, Arleta;-118.382780;34.256111;980
+217;Moorpark;Ventura, Moorpark;-118.849319;34.269031;718
+218;Thermal South;Riverside, Thermal;-116.158110;33.595694;-150
+219;West Hills;Los Angeles, West Hills;-118.644770;34.214197;926
+220;Palmdale Central;Los Angeles, Palmdale;-118.1275;34.592222;2630
+221;Cadiz Valley;San Bernardino, Chambless;-115.510560;34.513611;155
+222;Gerber South;Tehama, Gerber;-122.155750;40.028778;246
+224;Shasta College;Shasta, Redding;-122.31;40.63;592
+225;Scott Valley;Siskiyou, Fort Jones;-122.838125;41.577778;2733
+226;Woodland;Yolo, Woodland;-121.811720;38.672722;82
+227;Plymouth;Amador, Plymouth;-120.799720;38.508333;1520
+228;Diamond Springs;El Dorado, Diamond Springs;-120.793050;38.636111;2050
+229;Laguna Seca;Monterey, Monterey;-121.7865;36.570111;320
+230;Santa Barbara II;Santa Barbara, Santa Barbara;-119.7150;34.405556;440
+231;Lompoc;Santa Barbara, Lompoc;-120.513060;34.672222;55
+232;Santa Maria II;Santa Barbara, Santa Maria;-120.464780;34.913472;215
+233;Joshua Tree;San Bernardino, Joshua Tree;-116.213190;34.138147;2483
+234;Newberry Springs II;San Bernardino, Newberry Springs;-116.810247;34.883472;1930
+235;Verona;Sutter, Nicolaus;-121.611360;38.797944;24
+236;Macdoel II;Siskiyou, Macdoel;-121.996159;41.802476;4265
+237;Temecula East III;Riverside, Temecula;-117.04;33.55;1530
+238;Moreno Valley;Riverside, Moreno Valley;-117.17;33.90;1604
+239;Hemet;Riverside, Hemet;-116.955121;33.664747;1768
+240;Perris - Menifee;Riverside, Perris;-117.20;33.76;1421
+241;San Clemente;Orange, San Clemente;-117.586111;33.4625;224
+242;Staten Island;San Joaquin, Walnut Grove;-121.510261;38.192397;-10
+243;Ryde;Sacramento, Walnut Grove;-121.555528;38.249622;-10
+244;Biggs;Butte, Biggs;-121.835278;39.386632;72
+245;Coto de Caza;Orange, Coto de Caza;-117.585278;33.621667;846
+246;Markleeville;Alpine, Markleeville;-119.791930;38.773409;5517
+247;Jersey Island;Contra Costa, Oakley;-121.701247;38.033386;-12
+248;Holt;San Joaquin, Stockton;-121.396661;37.932072;-3
+249;Ripon;San Joaquin, Manteca;-121.266153;37.755597;20
+250;Williams;Colusa, Williams;-122.168889;39.210667;69
+251;Highland;San Bernardino, Highland;-117.1857;34.112042;1275
+252;Soledad II;Monterey, Soledad;-121.344388;36.456728;214

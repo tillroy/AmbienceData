@@ -1,0 +1,9 @@
+#pdfminer==20110515
+ujson
+selenium
+python-dateutil
+pytz
+sqlalchemy
+pandas
+w3lib
+numpy

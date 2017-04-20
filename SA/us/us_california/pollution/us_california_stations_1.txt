@@ -1,0 +1,272 @@
+lon;lat;name;station_id
+-120.76443;38.34261;Jackson-Clinton Road;03614
+-121.84047;39.76168;Chico - East Avenue;04625
+-121.59135;39.77919;Paradise - Theater;04633
+-121.66881;39.32756;Gridley;04636
+-121.61731;39.70845;Paradise - Airport;04638
+-120.68028;38.20185;San Andreas-Gold Strike Road;05633
+-121.99887;39.18919;Colusa-Sunrise Blvd;06646
+-122.38554;37.92617;Richmond-Point Richmond;07432
+-122.13446;38.01285;Martinez-Jones Street;07434
+-122.30270;37.86473;Berkeley - Aquatic Park;07436
+-122.23321;38.05492;Crockett-Kendall Avenue;07437
+-122.36485;37.94816;Richmond-7th Street;07441
+-121.64191;38.00630;Bethel Island Road;07442
+-122.27031;38.03435;Rodeo-Third St;07446
+-122.35685;37.96040;San Pablo-Rumrill;07447
+-122.02620;37.93600;Concord;07448
+-120.82192;38.72528;Placerville-Gold Nugget Way;09690
+-119.97061;38.94498;South Lake Tahoe-Sandy Way;09691
+-121.00337;38.89094;Cool (seasonal);09693
+-120.03308;38.81161;Echo Summit (seasonal);09695
+-119.73249;36.72622;Fresno - Pacific;10025
+-119.50369;36.59744;Parlier;10230
+-118.86058;34.84155;Lebec;10240
+-120.03419;36.95326;Madera City;10241
+-120.38234;36.63424;Tranquility;10242
+-119.05505;36.03179;Porterville;10243
+-119.74139;36.70556;Fresno - Drummond;10244
+-119.87444;36.84155;Fresno - Skypark;10245
+-120.10117;36.19865;Huron - 4th Street;10247
+-119.71639;36.81931;Clovis-N Villa Avenue;10248
+-119.77321;36.78538;Fresno - Garland;10251
+-119.77743;36.71088;Fresno - Foundry Park;10252
+-122.19083;39.53387;Willows-Colusa;11676
+-124.17949;40.77678;Eureka - Jacobs Ave.;12505
+-124.20149;40.71527;Eureka - Humboldt Hill;12507
+-115.73419;33.35264;Bombay Beach;13601
+-115.62310;33.17638;Sonny Bono;13602
+-115.85593;33.16923;Naval Test Base;13603
+-115.90062;33.27275;Salton City;13604
+-115.56299;32.79215;El Centro-9th Street;13694
+-115.62362;33.03239;Westmorland;13697
+-115.48307;32.67618;Calexico-Ethel Street;13698
+-115.53904;32.97831;Brawley-Main Street #2;13701
+-115.54514;33.21349;Niland-English Road;13997
+-117.95509;36.32613;Dirty Socks;14022
+-117.83672;36.41996;Flat Rock;14024
+-117.89758;36.36632;Shell Cut;14025
+-116.84767;36.50881;Death Valley Natl Monument;14151
+-117.94399;36.04945;Coso Junction - Hwy. 395;14696
+-118.05783;36.60897;Lone Pine-E Locust Street;14699
+-118.04765;36.60753;Lone Pine Sewer Ponds;14700
+-117.86148;36.05728;Coso Junction - Gate;14724
+-117.99009;36.54226;North Beach Owens Lake;14727
+-117.87104;36.48785;Keeler-Cerro Gordo Road;14728
+-117.99298;36.26756;Olancha-Walker Creek;14729
+-118.01079;36.36194;Owens Lake-Ash Point-Stanley;14730
+-118.33080;37.36075;White Mountain Research Station;14732
+-117.94180;36.54312;Lizard Tail;14733
+-117.85185;36.45806;Mill;14734
+-118.85183;35.34561;Edison;15242
+-119.01679;35.43804;Oildale;15243
+-119.40263;35.05156;Maricopa;15246
+-119.27264;35.50349;Shafter;15248
+-118.78863;35.23918;Arvin - Di Giorgio;15249
+-118.14778;35.05045;Mojave;15252
+-119.06261;35.35662;Bakersfield-California Avenue;15255
+-119.01500;35.38562;Bakersfield-Golden;15256
+-118.99990;35.33156;Bakersfield - Municipal Airport;15257
+-118.99763;35.32464;Bakersfield - Airport;15258
+-117.67296;35.62109;Ridgecrest - California Av;15300
+-118.13770;35.72775;Canebrake;15310
+-119.64323;36.31572;Hanford-S Irwin Street;16716
+-119.56564;36.10220;Corcoran-Patterson Avenue;16719
+-122.92229;39.03270;Lakeport-Lakeport Blvd;17713
+-122.69950;38.77453;Anderson Springs;17720
+-122.73620;38.85022;Hobergs-Pine Summit;17725
+-122.75797;38.84846;Glenbrook;17728
+-120.01011;36.86719;Madera - Pump Yard;20211
+-122.52011;37.97230;San Rafael;21451
+-122.53361;37.83361;Fort Cronkhite;21454
+-119.58709;37.74871;Yosemite Village - Visitor Center;22742
+-119.83957;37.54377;Jerseydale;22744
+-119.70624;37.71314;Yosemite Natl Park-Turtleback;22746
+-123.35264;39.41174;Willits - Justice Center;23754
+-123.78766;39.43734;Fort Bragg - 300 Dana Street;23758
+-123.20655;39.15047;Ukiah - Library;23764
+-123.20298;39.14566;Ukiah - Gobbi Street;23769
+-120.48047;37.30833;Merced M Street;24510
+-120.43368;37.28177;Merced - Coffee Road;24528
+-121.24779;37.79338;Manteca AMS;24531
+-118.94774;38.06971;Mono Lake - North Shore;26011
+-119.12026;37.95968;Lee Vining-SMS;26779
+-118.96651;37.64571;Mammoth Lakes-Gateway HC;26785
+-121.73333;36.48187;Carmel Valley-Ford Road;27550
+-121.62327;36.69426;Salinas #3;27554
+-121.12596;36.20902;King City - Pearl;27555
+-122.29616;38.31097;Napa-Jefferson Avenue;28783
+-120.18459;39.32782;Truckee - Fire Station;29794
+-121.05567;39.23352;Grass Valley-Litton Building;29800
+-120.84527;39.31779;White Cloud (seasonal);29802
+-117.67588;33.63005;Mission Viejo;30002
+-117.91876;33.81931;Anaheim - Near Road;30031
+-117.95259;33.92505;La Habra;30177
+-117.93850;33.83061;Anaheim-Loara School;30178
+-117.92560;33.67458;Costa Mesa-Mesa Verde Drive;30195
+-121.09959;38.93568;Auburn - Atwood Rd;31815
+-121.30199;38.88559;Lincoln - 1445 1st St.;31817
+-120.95391;39.09979;Colfax-City Hall;31818
+-120.14883;39.16602;Tahoe City - 221 Fairway Drive;31819
+-121.26498;38.74643;Roseville-N Sunrise Ave;31822
+-120.94438;39.93957;Quincy-N Church Street;32821
+-121.22785;40.30965;Chester;32823
+-120.47069;39.81336;Portola - Gulling Street;32826
+-117.08333;33.58333;Temecula - Lake Skinner;33031
+-116.06382;33.57202;Mecca - Saul Martinez;33033
+-116.54099;33.85262;Palm Springs-Fire Station;33137
+-117.41595;33.99952;Rubidoux - Mission Blvd;33144
+-117.22764;33.78933;Perris;33149
+-117.57244;33.92145;Norco;33155
+-116.21540;33.70857;Indio-Jackson Street;33157
+-117.33104;33.67653;Lake Elsinore-W Flint Street;33158
+-116.85841;33.92077;Banning-Airport;33164
+-117.49240;33.99636;Mira Loma-Van Buren;33165
+-117.31301;34.08555;San Bernardino - KVCR Tower;33199
+-114.60209;33.61235;Blythe-Murphy Street;33201
+-116.07538;33.51831;Torres - Martinez;33601
+-115.91954;33.50896;Salton Sea Park;33602
+-121.45848;38.55630;Sacramento-Health Dept;34277
+-121.50375;38.59333;Sacramento - Bercut Drive;34279
+-121.33659;38.55129;Sacramento-Branch Center #2;34284
+-121.38108;38.71209;North Highlands-Blackfoot Way;34294
+-121.36801;38.61374;Sacramento-Del Paso Manor;34295
+-121.49311;38.56844;Sacramento - 1309 T Street;34305
+-121.42083;38.30256;Elk Grove - Bruceville Road;34310
+-121.16444;38.68329;Folsom-Natoma Street;34311
+-121.21115;38.49444;Sloughhouse;34312
+-121.50660;38.65069;Sacramento-Goldenland;34315
+-121.36210;36.84343;Hollister-Fairview Road;35823
+-121.15682;36.48329;Pinnacles National Monument;35824
+-116.86147;34.26464;Big Bear;36001
+-117.52671;34.06780;Ontario - Near Road (Etiwanda);36035
+-117.61722;34.03083;Ontario - Route 60 Near Road;36036
+-115.82041;33.74127;Joshua Tree NP - Cottonwood;36150
+-115.41085;33.93983;Joshua Tree NP - Pinto Wells;36151
+-116.38893;34.06959;Joshua Tree National Monument;36152
+-115.77670;35.10190;Mojave National Preserve - Kelso;36153
+-117.02471;34.89405;Barstow;36155
+-117.62906;34.10367;Upland;36175
+-117.27230;34.24313;Lake Gregory (Crestline);36181
+-117.49198;34.10015;Fontana-Arrow Highway;36197
+-117.28559;34.41650;Hesperia-Olive Street;36201
+-117.27408;34.10669;San Bernardino;36203
+-117.14734;34.05965;Redlands;36204
+-117.58982;34.42505;Phelan-Beekley Road & Phelan R;36207
+-116.90687;34.41008;Lucerne Valley - Middle School;36208
+-117.37210;35.77446;Trona - Athol/Telescope #2;36220
+-117.32555;34.51096;Victorville - Park Avenue;36306
+-121.26897;37.95075;Stockton-Hazelton;39252
+-121.44238;37.68268;Tracy - Airport;39271
+-120.84260;35.36639;Morro Bay;40833
+-120.66930;35.25651;San Luis Obispo-Higuera Street;40836
+-120.63218;35.12390;Grover Beach-Lesage Drive;40844
+-120.66622;35.49442;Atascadero Lift Station #5;40848
+-120.56389;35.02079;Nipomo-Guadalupe Road;40849
+-120.65691;35.61467;Paso Robles;40850
+-120.50101;35.03150;Nipomo - Regional Park;40852
+-120.58777;35.04676;CDF - Arroyo Grande;40853
+-120.04013;35.35474;Carrizo Plains;40990
+-120.23134;35.64366;Red Hills;40999
+-122.24629;37.50811;San Carlos Airport II;41539
+-122.20348;37.48293;Redwood City;41541
+-120.04496;34.46456;Las Flores Canyon-Odor site;42037
+-120.43280;34.71902;Lompoc-Odor;42098
+-120.04690;34.48976;Las Flores Canyon #1;42101
+-120.07507;34.60582;Santa Ynez;42369
+-120.02547;34.46248;El Capitan Beach;42370
+-120.45750;34.63782;Lompoc-South H Street;42381
+-120.63129;34.59593;Vandenberg Air Force Base-STS;42390
+-120.42872;34.72534;Lompoc-HS&P;42394
+-119.79152;34.54170;Los Padres National Forest;42395
+-120.19666;34.52745;Gaviota - Nojoqui;42399
+-119.87965;34.41495;Santa Barbara - UCSB Campus;42401
+-119.45791;34.40305;Carpinteria-Gobernador Road;42402
+-119.82845;34.44551;Goleta-Fairview;42404
+-120.43561;34.94287;Santa Maria - South Broadway;42408
+-119.69091;34.42775;Santa Barbara-National Guard Armory;42409
+-121.97969;37.22687;Los Gatos;43380
+-121.81544;37.32984;Reid Hillview Airport;43381
+-121.89494;37.34849;San Jose - Jackson St;43383
+-121.84989;37.33820;San Jose - Knox Ave;43385
+-121.57466;36.99958;Gilroy-9th Street;43389
+-121.60004;37.07939;San Martin;43393
+-121.98822;36.98332;Santa Cruz AMS;44200
+-122.08309;37.06315;San Lorenzo Valley Middle School;44858
+-122.38092;40.55013;Redding - Health Department;45555
+-121.57646;40.53996;Lassen Volcanic National Park;45566
+-122.29883;40.45318;Anderson-North Street;45567
+-122.63359;41.72679;Yreka;47861
+-122.37429;40.67707;Shasta Lake-La Mesa;47873
+-122.40226;40.68908;Shasta Lake - Lake Blvd;47875
+-122.23800;38.10251;Vallejo;48879
+-122.07566;38.22709;Fairfield-Chadbourne;48880
+-121.99410;38.35140;Vacaville-Merchant Street;48881
+-121.94986;38.35655;Vacaville-Ulatis Drive;48884
+-123.01820;38.80423;Cloverdale;49886
+-122.81829;38.40377;Sebastopol;49891
+-122.99819;38.50107;Guerneville-Church and 1st;49895
+-122.86878;38.61090;Healdsburg - Matheson;49898
+-122.90187;38.65407;Healdsburg-Municipal Airport;49899
+-120.99421;37.64217;Modesto-14th Street;50568
+-120.83592;37.48822;Turlock-S Minaret Street;50573
+-121.61884;39.13868;Yuba City;51898
+-121.82046;39.20556;Sutter Buttes (seasonal);51899
+-122.25556;40.17088;Red Bluff - Walnut St;52903
+-122.09265;40.26207;Tuscan Butte (seasonal);52910
+-122.94117;40.73475;Weaverville;53915
+-119.39301;36.31411;Visalia - Airport;54000
+-118.82914;36.48943;Sequoia National Park-Ash Mountain;54009
+-118.77770;36.56613;Sequoia National Park-Lower Kaweah;54036
+-119.29095;36.33252;Visalia;54568
+-120.37855;37.98178;Sonora - Barretta Street;55930
+-119.23131;34.44804;Ojai - East Ojai Av;56172
+-118.68375;34.27640;Simi Valley - Cochran Street;56434
+-118.87050;34.21014;Thousand Oaks-Moorpark Road;56435
+-119.14318;34.25238;El Rio-Rio Mesa School #2;56436
+-118.79761;34.29124;Simi Valley - Upper Air;56437
+-118.80991;34.40426;Piru - Pacific;56450
+-121.52579;38.57146;West Sacramento-15th Street;57570
+-121.77340;38.53455;Davis-UCD Campus;57577
+-121.73269;38.66121;Woodland-Gibson Road;57582
+-122.03155;37.65446;Hayward;60337
+-121.93419;37.74367;San Ramon - Alcosta Blvd;60341
+-121.63196;37.68961;Patterson Pass;60342
+-121.78420;37.68750;Livermore - Rincon;60344
+-122.16994;37.74306;Oakland - East;60347
+-122.28236;37.81480;Oakland - West;60349
+-122.26338;37.79362;Laney College;60351
+-118.20028;33.85944;Long Beach - Route 710 Near Road;70032
+-118.19056;34.00833;AT&SF (Exide);70042
+-117.98222;34.02637;Closet World (Quemetco);70043
+-118.19292;34.00642;Rehrig (Exide);70044
+-118.05547;33.95476;Uddeholm (Trojan Battery);70045
+-117.52725;34.09398;SA Recycling;70046
+-117.92392;34.13648;Azusa;70060
+-118.18916;33.82376;North Long Beach (Long Beach);70072
+-118.22000;33.80250;Long Beach - Hudson;70073
+-118.53275;34.19920;Reseda;70074
+-117.75138;34.06698;Pomona;70075
+-118.22676;34.06653;Los Angeles-North Main Street;70087
+-118.12714;34.13265;Pasadena;70088
+-118.52839;34.38337;Santa Clarita-Placerita;70090
+-118.45640;34.05109;Los Angeles - VA Hospital;70091
+-118.17525;33.79240;South Long Beach;70110
+-118.43049;33.95507;Los Angeles - LAX;70111
+-118.20499;33.90145;Compton ;70112
+-118.06850;34.01029;Pico Rivera #2;70185
+-118.13068;34.66959;Lancaster-Division Street;70301
+-117.85038;34.14437;Glendora-Laurel;70591
+-117.05905;32.63123;Chula Vista;80114
+-117.27238;33.13089;Palomar Airport;80117
+-116.76784;32.84231;Alpine-Victoria Drive;80128
+-116.96813;32.81798;El Cajon - Floyd Smith Drive;80132
+-117.26407;32.95208;Del Mar - Winston School;80133
+-116.94432;32.78956;El Cajon - Lexington Elementary School;80135
+-117.12389;32.84547;San Diego - Kearny Villa Road;80136
+-116.92135;32.57816;Otay Mesa - Donovan Correctional Facility;80140
+-117.14962;32.70148;San Diego - Beardsley;80142
+-117.02903;32.54348;San Ysidro;80143
+-117.39616;33.21701;Camp Pendleton;80198
+-117.08218;32.98544;San Diego - Rancho Carmel Drive;80201
+-122.39902;37.76595;San Francisco-Arkansas Street;90306

@@ -1,0 +1,13 @@
+lon;lat;station_id;station_name;address;elev
+-100.035439496605;37.7753172020578;Dodge City;Dodge City;2501 N 14th Ave;
+-99.7634330067902;38.7701011445728;Cedar Bluff;Cedar Bluff;Pronghorn & Muley;
+-97.366424;37.476897;Peck-Sumner County;Peck-Sumner County;707 E 119th St South;
+-97.362065;37.651164;Glen & Pawnee;Glen & Pawnee;1903 West Pawnee Street;
+-97.3148785169754;37.7020548937968;Health Dept. Wichita;Health Dept. Wichita;1900 E. 9th Street;
+-97.3169540543213;37.7470869897432;K96 & Hydraulic;K96 & Hydraulic;3400-3600 N Hydraulic Ave;
+-97.492092;37.897521;Sedgwick;Sedgwick;12831 W. 117N;
+-95.4759144830246;37.67698785088;Chanute;Chanute;1500 West 7th;
+-95.7112930135803;39.0242786965971;KNI Topeka;KNI Topeka;25th & Randolph;
+-94.7464730203705;38.8385688748364;Heritage Park;Heritage Park;13899 W 159th;
+-94.951054;39.327388;Leavenworth;Leavenworth;2010 Metropolitan;
+-94.635508;39.11732;KC Ncore;KC Ncore;1210 N. 10th St.;

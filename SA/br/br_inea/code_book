@@ -1,0 +1,20 @@
+[
+'Auto - SG - UERJ'      #INFO name      0
+-22.8321622             #INFO lat       1
+-43.0733698             #INFO lon       2
+1                       #INFO           3
+'fixa-azul',            #INFO           4
+'regular',              #INFO           5
+'REGULAR',              #INFO           6
+'/MonitorXy_79.JPG',    #INFO           7
+'R. Francisco',         #INFO address   8
+'0',                    #INFO pm10      9
+'0',                    #INFO so2       10
+'0',                    #INFO no2       11
+'61',                   #INFO o3        12
+'0',                    #INFO co        13
+0                       #INFO pts       14
+]
+
+
+'48', '5', '31', '38', '0', 45

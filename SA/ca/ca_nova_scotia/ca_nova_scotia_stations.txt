@@ -1,0 +1,9 @@
+station_id;station_name;address;lon;lat;elev
+17;Kentville;-;-64.479792;45.071717;
+3;Aylesford;1009 Brow of Mountain Road;-64.84033000000;45.07267000000;
+10;Halifax Johnston;-;-63.573689;44.647175;
+2;Halifax Downtown;1645 Barrington Street;-63.573569;44.646347;
+9;Lake Major;-;-63.48162000000;44.71969000000;
+4;Pictou;91 Beeches Road;-62.69671;45.682647;
+5;Sydney;71 Welton Street;-60.172575;46.142317;
+8;Port Hawkesbury;18 Embree Street;-61.362122;45.614028;

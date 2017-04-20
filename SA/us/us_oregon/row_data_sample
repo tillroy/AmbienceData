@@ -1,0 +1,63 @@
+[[
+    '10102',
+    'John Day Dayton St.',
+    '',
+    '<tr>
+        <td>Air Quality Index:</td>
+        <td align=left>20</td>
+        <td align=left>54</td>
+        <td align=left> </td>
+    </tr>',
+    '<tr>
+        <td width=100>Air Quality Rating:</td>
+        <td align=left valign=center>
+            <table border=1 cellpadding=0 cellspacing=0>
+                <tr>
+                    <td align=left bgcolor=#70DB93>
+                        <font color=#000000> &nbsp;Good&nbsp;</font>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align=left valign=center>
+            <table border=1 cellpadding=0 cellspacing=0>
+                <tr>
+                    <td align=left bgcolor=#ffff00>
+                        <font color=#000000>&nbsp;Moderate&nbsp;</font>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align=left valign=center>
+            <table border=0 cellpadding=0 cellspacing=0>
+                <tr>
+                    <td align=left bgcolor= #FFFFFF  N>
+                        <font color= #FFFFFF>&nbsp;</font>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>',
+    '<tr>
+        <td width=130>Critical Pollutant:</td>
+        <td colspan=2>PM<sub>2.5</sub></td>
+    </tr>
+    <tr>
+        <td colspan=2>
+            <table width=480 border=1 cellpadding=2 cellspacing=3 RULES=ROWS FRAME=BOX>
+                <tr>
+                    <td width=100>&nbsp;</td>
+                    <td width=127 align=left><u>1-Hour PM</u><sub>2.5</sub></td>
+                    <td width=127 align=left><u>24-Hour PM</u><sub>2.5</sub></td>
+                    <td width=126 align=left>&nbsp;</td>
+                </tr>',
+                '<tr>
+                    <td>Concentration:</td>
+                    <td align=left>16.1 &micro;g/m<font size=1><sup>3</sup></font></td>
+                    <td align=left>13.4 &micro;g/m<font size=1><sup>3</sup></font>
+                    <td align=left>  </td>
+                </tr>
+            </table>',
+    '<tr><td>Latest Report:</td><td>Jan 17 2017 11:00PM PST</td></tr>',
+    ''
+]]

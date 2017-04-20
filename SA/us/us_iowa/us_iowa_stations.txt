@@ -1,0 +1,15 @@
+lon;lat;station_name;station_id;address;elev
+-92.3162044449381;42.5015281070297;Waterloo, Water Tower;46;Waterloo, Water Tower;
+-90.2115603427077;41.8234469009467;Clinton, Chancy Park;4;Clinton, Chancy Park;
+-90.1774342705604;41.8749559472883;Clinton, Rainbow Park;3;Clinton, Rainbow Park;
+-91.5034837382766;41.6581838967577;Iowa City, Hoover School;20;Iowa City, Hoover School;
+-95.0449845863924;40.9690448535315;Viking Lake State Park;27;Viking Lake State Park;
+-91.0684607139186;41.4014683117773;Muscatine, High School East Campus;55;Muscatine, High School East Campus;
+-94.6935096820008;43.1239241862672;Emmetsburg, ILCC;15;Emmetsburg, ILCC;
+-90.5878207480725;41.5301353527557;Davenport, 10th & Vine;6;Davenport, Jefferson School;
+-90.624016;41.512168390626;Davenport, Hayes School;50;Davenport, Hayes School;
+-92.0059125526588;40.6932073013017;Lake Sugema;8;Lake Sugema;
+-96.3680570932016;42.3275630227776;Sioux City, Neal North;53;Sioux City, Neal North;
+-91.0616243871507;41.4069259415157;Muscatine, Musser Park;13;Muscatine, Musser Park;
+-91.0710086903756;41.4194305608028;Muscatine, Greenwood Cemetery;12;Muscatine, Greenwood Cemetery;
+-90.6824487230801;41.4638033595696;Buffalo, Linwood Mining;2;Buffalo, Linwood Mining;

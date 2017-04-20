@@ -1,0 +1,10 @@
+station_id|station_name|address|lat|lon|source
+1|Arboretum|Waterberry Wood, Arboretum|-28.752435|32.062646|http://www.rbcaa.org.za
+2|Brackenham|North Central Arterial and Via Davallia|-28.731297|32.038988|http://www.rbcaa.org.za
+3|CBD|West of Municipal Offices|-28.756224|32.049242|http://www.rbcaa.org.za
+4|Harbour West|-|-28.787304|32.027084|http://www.rbcaa.org.za
+5|Scorpio|-|-28.769681|32.034236|http://www.rbcaa.org.za
+6|Airport|-|-28.738577|32.092951|http://www.rbcaa.org.za
+9|Mtunzini|-|-28.952850|31.765220|http://www.rbcaa.org.za
+11|Felixton|-|-28.829349|31.892722|http://www.rbcaa.org.za
+16|eSikhaleni|-|-28.865244|31.911698|http://www.rbcaa.org.za

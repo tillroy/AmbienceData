@@ -1,0 +1,9 @@
+station_id|station_name|address|lat|lon
+Copacabana|Copacabana|Praça Cardeal Arcoverde, s/n|-22,9649861111|-43,1804861111
+Centro|Centro|Largo da Carioca s/n|-22,9083388889|-43,1781555556
+São Cristóvão|São Cristóvão|Campo de São Cristóvão,s/n|-22,8977861111|-43,2217444444
+Tijuca|Tijuca|Praça Saens Pena,s/n|-22,9250194444|-43,2325916667
+Irajá|Irajá|Praça N. S. da Apresentação (em frente ao Cemitério de Irajá)|-22,8315861111|-43,3268638889
+Bangu|Bangu|Rua Mongólia, s/n (Espaço de Desenvolvimento Infantil Prof. Tânia Maria Larrubia Gomes)|-22,887925|-43,4710861111
+Campo Grande|Campo Grande|Praça Maina,№1 (Escola Municipal Che Guevara)|-22,8861805556|-43,5567
+Pedra de Guaratiba|Pedra de Guaratiba|Rua Sold. Antônio de Paula, s/n (Escola Municipal Myrthes Wenzel)|-23,0044166667|-43,6290694444

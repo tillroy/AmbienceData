@@ -1,0 +1,96 @@
+address|lat|lon|station_id|station_name
+Aberdeen Anderson Dr|57.128567|-2.125447|ABD1|Aberdeen Anderson Dr
+Aberdeen Errol Place|57.157360|-2.094278|ABD|Aberdeen Errol Place
+Aberdeen King Street|57.169738|-2.095348|AD1|Aberdeen King Street
+Aberdeen Market Street 2|57.141922|-2.091664|ABD0|Aberdeen Market Street 2
+Aberdeen Union Street Roadside|57.144555|-2.106472|ABD3|Aberdeen Union Street Roadside
+Aberdeen Wellington Road|57.134195|-2.093968|ABD8|Aberdeen Wellington Road
+Alloa A907|56.117343|-3.791818|ALO2|Alloa A907
+Angus Forfar Glamis Rd|56.642076|-2.894328|AFR1|Angus Forfar Glamis Rd
+Auchencorth Moss|55.792160|-3.242900|ACTH|Auchencorth Moss
+Bush Estate|55.862281|-3.205782|BUSH|Bush Estate
+Dumfries|55.070033|-3.614233|DUMF|Dumfries
+Dundee Broughty Ferry Road|56.467332|-2.943423|DUN4|Dundee Broughty Ferry Road
+Dundee Lochee Road|56.465126|-2.993867|DUN6|Dundee Lochee Road
+Dundee Mains Loan|56.475434|-2.959861|DUN1|Dundee Mains Loan
+Dundee Meadowside|56.464258|-2.971386|DUNM|Dundee Meadowside
+Dundee Seagate|56.462383|-2.967390|DUN5|Dundee Seagate
+Dundee Whitehall Street|56.459740|-2.970708|DUN7|Dundee Whitehall Street
+E Ayrshire Kilmarnock St Marnock St|55.607469|-4.497986|MARN|E Ayrshire Kilmarnock St Marnock St
+East Dunbartonshire Bearsden|55.919596|-4.333505|EDB2|East Dunbartonshire Bearsden
+East Dunbartonshire Bishopbriggs|55.904167|-4.225000|EDB1|East Dunbartonshire Bishopbriggs
+East Dunbartonshire Kirkintilloch|55.935921|-4.151759|EDB3|East Dunbartonshire Kirkintilloch
+East Dunbartonshire Milngavie |55.938253|-4.317753|EDB4|East Dunbartonshire Milngavie 
+East Lothian Musselburgh N High St|55.944008|-3.059223|MUSS|East Lothian Musselburgh N High St
+Edinburgh Currie|55.896909|-3.319660|ED11|Edinburgh Currie
+Edinburgh Glasgow Road|55.939026|-3.392727|ED10|Edinburgh Glasgow Road
+Edinburgh Gorgie Road|55.937708|-3.232267|ED5|Edinburgh Gorgie Road
+Edinburgh Queensferry Road|55.960497|-3.303250|ED9|Edinburgh Queensferry Road
+Edinburgh Salamander St|55.974594|-3.161455|ED8|Edinburgh Salamander St
+Edinburgh St John's Road|55.942500|-3.281111|ED1|Edinburgh St John's Road
+Edinburgh St Leonards|55.945589|-3.182186|ED3|Edinburgh St Leonards
+Eskdalemuir|55.315310|-3.206111|ESK|Eskdalemuir
+Falkirk Banknock|55.988456|-3.969288|FAL7|Falkirk Banknock
+Falkirk Bo'ness|56.015766|-3.608622|FAL09|Falkirk Bo'ness
+Falkirk Graham's Road|56.002188|-3.784352|FAL11|Falkirk Graham's Road
+Falkirk Grangemouth MC|56.018951|-3.721013|FALK|Falkirk Grangemouth MC
+Falkirk Grangemouth Zetland Park|56.010894|-3.718233|FAL8|Falkirk Grangemouth Zetland Park
+Falkirk Haggs|55.991087|-3.941685|FAL5|Falkirk Haggs
+Falkirk Hope St|56.001956|-3.786485|FAL3|Falkirk Hope St
+Falkirk Main St Bainsford|56.013572|-3.789022|FAL10|Falkirk Main St Bainsford
+Falkirk West Bridge Street|56.000507|-3.790128|FAL6|Falkirk West Bridge Street
+Fife Cupar|56.319444|-3.014167|CUPA|Fife Cupar
+Fife Dunfermline|56.073830|-3.448620|DUNF|Fife Dunfermline
+Fife Kirkcaldy|56.124331|-3.141347|KIR|Fife Kirkcaldy
+Fife Rosyth|56.036243|-3.417582|ROSY|Fife Rosyth
+Fort William|56.822660|-5.101102|FW|Fort William
+Glasgow Abercromby Street|55.850556|-4.231111|GL1|Glasgow Abercromby Street
+Glasgow Anderston|55.861667|-4.271389|GLA5|Glasgow Anderston
+Glasgow Broomhill|55.876030|-4.318754|GL3|Glasgow Broomhill
+Glasgow Burgher St.|55.851071|-4.197140|GL6|Glasgow Burgher St.
+Glasgow Byres Road|55.874167|-4.294722|GLA6|Glasgow Byres Road
+Glasgow Dumbarton Road|55.870766|-4.318448|GL9|Glasgow Dumbarton Road
+Glasgow Great Western Road|55.872038|-4.270936|GGWR|Glasgow Great Western Road
+Glasgow High Street|55.860936|-4.238214|GHSR|Glasgow High Street
+Glasgow Kerbside|55.859170|-4.258889|GLA4|Glasgow Kerbside
+Glasgow Nithsdale Road|55.836256|-4.270768|GL2|Glasgow Nithsdale Road
+Glasgow Townhead|55.865782|-4.243631|GLKP|Glasgow Townhead
+Glasgow Waulkmillglen Reservoir|55.794120|-4.354968|GLA7|Glasgow Waulkmillglen Reservoir
+Grangemouth|56.010319|-3.704399|GRAN|Grangemouth
+Grangemouth Moray|56.013142|-3.710833|GRA2|Grangemouth Moray
+Inverclyde Greenock A8|55.944079|-4.734421|INC2|Inverclyde Greenock A8
+Inverness|57.481308|-4.241451|INV2|Inverness
+Inverness Academy Street|57.479525|-4.225588|INV03|Inverness Academy Street
+Lerwick|60.139220|-1.185319|LERW|Lerwick
+N Lanarkshire Chapelhall|55.845810|-3.947346|NL3|N Lanarkshire Chapelhall
+N Lanarkshire Coatbridge Whifflet|55.851944|-4.019444|NL1|N Lanarkshire Coatbridge Whifflet
+N Lanarkshire Croy|55.957778|-4.039444|NL4|N Lanarkshire Croy
+N Lanarkshire Moodiesburn|55.908941|-4.082339|NL9|N Lanarkshire Moodiesburn
+N Lanarkshire Motherwell|55.788333|-3.986389|NL6|N Lanarkshire Motherwell
+N Lanarkshire Shawhead Coatbridge|55.843523|-4.023222|NL7|N Lanarkshire Shawhead Coatbridge
+North Ayrshire Irvine High St|55.614578|-4.666786|IRV|North Ayrshire Irvine High St
+North Lanarkshire Kirkshaw|55.843583|-4.037413|NL11|North Lanarkshire Kirkshaw
+Paisley Gordon Street|55.841836|-4.423958|PAI3|Paisley Gordon Street
+Paisley St James St|55.848115|-4.426619|PAI4|Paisley St James St
+Peebles|55.657472|-3.196527|PEEB|Peebles
+Perth Atholl Street|56.399327|-3.434182|PET2|Perth Atholl Street
+Perth Crieff|56.373126|-3.841475|PET1|Perth Crieff
+Perth High Street|56.396597|-3.432400|PETH|Perth High Street
+Perth Muirton|56.414670|-3.449640|PET3|Perth Muirton
+Renfrew Cockels Loan|55.863313|-4.390978|REN1|Renfrew Cockels Loan
+South Ayrshire Ayr Harbour|55.470162|-4.633681|HARB|South Ayrshire Ayr Harbour
+South Ayrshire Ayr High St|55.464531|-4.631673|AYR|South Ayrshire Ayr High St
+South Lanarkshire Cambuslang|55.818802|-4.167073|SL07|South Lanarkshire Cambuslang
+South Lanarkshire East Kilbride|55.775278|-4.163611|EK0|South Lanarkshire East Kilbride
+South Lanarkshire Hamilton|55.774018|-4.037360|SL05|South Lanarkshire Hamilton
+South Lanarkshire Lanark|55.673936|-3.775658|SL03|South Lanarkshire Lanark
+South Lanarkshire Raith Interchange 2|55.798813|-4.058363|SLC08|South Lanarkshire Raith Interchange 2
+South Lanarkshire Rutherglen|55.828408|-4.218786|SL04|South Lanarkshire Rutherglen
+South Lanarkshire Uddingston|55.818357|-4.081839|SL06|South Lanarkshire Uddingston
+Stirling Craig's Roundabout|56.114720|-3.932178|STRL|Stirling Craig's Roundabout
+Strath Vaich|57.734456|-4.776583|SV|Strath Vaich
+West Dunbartonshire Clydebank|55.917960|-4.406231|WDB3|West Dunbartonshire Clydebank
+West Dunbartonshire Glasgow Road|55.943197|-4.559730|WDB4|West Dunbartonshire Glasgow Road
+West Lothian Broxburn|55.934357|-3.469190|BRX|West Lothian Broxburn
+West Lothian Linlithgow High Street 2|55.976710|-3.597310|WLC1|West Lothian Linlithgow High Street 2
+West Lothian Newton|55.983925|-3.455939|WLN4|West Lothian Newton

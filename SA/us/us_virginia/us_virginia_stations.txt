@@ -1,0 +1,25 @@
+lon;lat;station_id;station_name;address;elev
+-81.25423;36.8911213882848;28;Rural Retreat;403 Four Seasons Road;762
+-78.5039362324686;38.0765035465411;10;Albemarle High School;2775 Hydraulic Road;152
+-78.0815548046109;39.2809629520159;17;Frederick Co. Public School Maint. Dept.;280 Woodbine Road;183
+-79.5125733767531;37.6266545931311;25;Natural Bridge Station;27 Ranger Lane;250
+-78.81952;38.47753;26;Harrisonburg VDOT;3526 North Valley Pike;396
+-79.8845149348703;37.28339850632;24;Herman L. Horn Elementary School;1002 Ruddell Road;335
+-77.2592297394812;37.3443612082754;13;Charles City County;Shirley Plantation Road;30
+-77.5935010370795;37.3574732898413;14;Beach Road VDOT;11001 Spring Run Road;61
+-77.2188016883766;37.6061420381563;18;Hanover;7345 McClellan Road;30
+-77.4002615581172;37.5564785075833;19;MSIC (MathScience Innovation Center);2401 Hartman Road;30
+-77.4693276653222;37.5908291617881;37;Bryan Park;4308 Hermitage Road;55
+-76.3870524559079;37.1037343465556;30;NASA Langley Research Center;Building 1196-B, Wythe Landing Loop;0
+-76.3013212975983;36.8555608076383;31;NOAA Storage Facility;538 Front Street;
+-76.4379094739666;36.9012002522167;34;Tidewater Community College;7000 College Drive;
+-76.7307529859749;36.6652472913781;35;VA Tech Agricultural Research Center;Hare Road;12
+-77.0591929859749;38.8577223507403;11;Aurora Hills Visitor Center;735 18th Street South;12
+-77.37742;38.2008925557069;12;Fredericksburg Geomagnetic Observatory;Observatory Road;61
+-77.1046648046109;38.7733276227618;15;Lee District Park - Fairfax County;6601 Telegraph Road;61
+-77.7677284418828;38.4736501726953;16;Sumerduck - C. Phelps Wildlife Mgmt Area;Sumerduck Road;91
+-77.4892179208452;39.024694585272;20;Ashburn - Broad Run High School;21670 Ashburn Road;91
+-78.4349037675314;38.5228356648014;21;Shenandoah National Park - Big Meadows;Mile Post 51.2 Skyline Drive;1073
+-77.6346115581172;38.8528200360937;23;Long Park - Haymarket;4603 James Madison Highway;110
+-77.3703527254561;38.481241895133;27;Widewater Elem. School - Widewater;101 Den Rich Road;43
+-77.1834615581172;38.7684895382849;39;Springfield Near Road Site;6831 Backlick Rd;73

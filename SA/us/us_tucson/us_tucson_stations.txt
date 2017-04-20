@@ -1,0 +1,14 @@
+lon;lat;station_id;station_name;address;elev
+-111.063519;32.42526;9;Tangerine;12101 North Camino de Oeste;
+-111.127179625967;32.3807979537477;12;Coachline;9597 North Coachline Blvd;
+-110.982301027993;32.2951239366557;2;Childrens Park NCore;400 West River Road;703
+-110.965306055985;32.2518502522267;10;Geronimo;2498 North Geronimo;
+-110.948667139964;32.2565896300125;4;Cherry & Glenn;2745 North Cherry Ave;
+-110.980137625967;32.173002319894;11;Rose Elementary;710 West Michigan Drive;
+-110.910634;32.20739;3;Alvernon & 22nd;3895 East 22nd Street;
+-110.878069513996;32.2044194274964;6;Craycroft & 22nd;1237 South Beverly Ave;789
+-110.840594083978;32.1912054463629;13;Golf Links;2601 S. KOLB;
+-110.737158737938;32.1745752386215;7;Saguaro Park East;South Old Spanish Trail;938
+-110.774377083978;32.0476704110376;8;Fairgrounds;11330 South Houghton Road;937
+-110.996490279927;31.87950719128;5;Green Valley;601 North La Canada Drive;
+-111.011128;31.827282;15;Green Valley Fire;Encanto Rd.;350
