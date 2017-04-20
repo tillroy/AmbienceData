@@ -3,6 +3,7 @@ ujson
 selenium
 python-dateutil
 pytz
+psycopg2
 sqlalchemy
 pandas
 w3lib
