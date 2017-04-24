@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+test.py
+twistd.pid
+layers_connector.md
+SA/SA_palette.graphml
+dbs/
+eggs/
+env/
+env3/
+pollution_app_root/build/
+pollution_app_root/project.egg-info/
+pollution_app_root/ghostdriver.log
+pollution_app_root/pollution_app/old_pollution.py
+pollution_app_root/pollution_app/pollution_str.py
+*.pyc
