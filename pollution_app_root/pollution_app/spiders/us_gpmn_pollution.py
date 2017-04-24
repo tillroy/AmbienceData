@@ -10,3 +10,4 @@ class GpmnSpider(Spider):
 
 
 
+# /opt/geoserver_data/raster/image_mosaic/elevation
