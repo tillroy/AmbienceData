@@ -328,14 +328,16 @@ class Feature(object):
             (u"mph", u"MPH", u"(MPH)", u"miles per hour"): u"mph",
             (u"Miles",): u"ml",
             (u"Km", u"invK"): u"km",
-            (u"mm", u"Millimeters (rainfall)"): u"mm",
-            (u"m/s", u"ms", u"M/SEC", u"Meters/second"): u"ms",
+            (u"mm", u"Millimeters (rainfall)", u"millimeters"): u"mm",
+            (u"m/s", u"ms", u"M/SEC", u"Meters/second", u"meters per second"): u"ms",
             (u"w/m2", u"(W/M2)"): u"wm2",
             (
                 u"DegF", u"Deg F", u"degF", u"degf", u"F o", u"DEG-F", u"Deg. F.", u"(F)", u"Degrees Fahrenheit",
                 u"DEGF", u"degrees Fahrenheit"
             ): u"degf",
-            (u"DegC", u"C", u"C°", u"degc", u"(DEGC)", u"Degrees Centigrade"): u"degc",
+            (
+                u"DegC", u"C", u"C°", u"degc", u"(DEGC)", u"Degrees Centigrade", u"degrees C",
+            ): u"degc",
             (
                 u"%", u"Percent", u"(PERCENT)", u"% RH", u"(%)", u"Percent relative humidity",
                 u"PERCENT", u"percent relative humidity"
