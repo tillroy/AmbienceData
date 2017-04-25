@@ -12,8 +12,8 @@ from pollution_app.items import AppItem
 from pollution_app.settings import SCRAPER_TIMEZONE
 
 
-class GpmnSpider(Spider):
-    name = u"us_gpmn_weather"
+class GpmnParksSpider(Spider):
+    name = u"us_gpmn_parks_pollution"
     source = u"https://www.nps.gov"
 
     @staticmethod

@@ -3,9 +3,9 @@ import pandas
 from numpy import isnan
 
 country = "us"
-spider = "cincinnati"
+spider = "gpmn_parks"
 _type = "pollution"
-source_name = "http://www.southwestohioair.org"
+source_name = "https://www.nps.gov"
 
 in_file_name = "{0}_{1}_{2}_stations.txt".format(country, spider, _type)
 

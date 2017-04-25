@@ -158,14 +158,14 @@ if __name__ == "__main__":
 
     # t = get_station_data(code, name)
 
-    # show_source()
-    # delete("spider", "california")
+    show_source()
+    # delete("spider", "gpmn_parks")
     # make_csv("*")
 
     # make_sql(u"texas", u"pollution", u"scrapper_station", u"scrapper_map")
 
     # make_sql(u"california", u"weather", u"scraper_current_weather_data")
-    make_csv("%")
+    # make_csv("%")
 
 
 
