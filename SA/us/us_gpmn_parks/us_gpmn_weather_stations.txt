@@ -1,0 +1,38 @@
+lon;lat;station_name;address;station_id;elev
+-103.177860896301;29.3026649964629;Big Bend K-Bar Ranch Road;Big Bend K-Bar Ranch Road, TX;BIBE-KB;1052
+-109.821054938889;38.4584882626474;Canyonlands Island in the Sky;Canyonlands Island in the Sky, UT;CANY-IS;1809
+-104.4417;32.1792;Carlsbad Caverns Maintenance Area;Carlsbad Caverns Maintenance Area, NM;CAVE-MA;1310
+-109.389074830246;32.0094228923118;Chiricahua Entrance Station;Chiricahua Entrance Station, AZ;CHIR-ES;1570
+-113.561754395676;43.4621263306649;Craters of the Moon Visitor Center;Craters of the Moon Visitor Center, ID;CRMO-VC;1815
+-116.847900980091;36.5089887258357;Death Valley Park Village;Death Valley Park Village, CA;DEVA-PV;125
+-148.957813078169;63.7246684332739;Denali Headquarters;Denali Headquarters, AK;DENA-HQ;661
+-108.938766020966;40.2907757982796;Dinosaur West Entrance Housing;Dinosaur West Entrance Housing, UT;DINO-WE;2072
+-113.996864214516;48.5102651722722;Glacier West Glacier Horse Stables;Glacier West Glacier Horse Stables, MT;GLAC-WG;976
+-112.183596894455;36.0586395453643;Grand Canyon The Abyss;Grand Canyon The Abyss, AZ;GRCA-AS;2073
+-110.599487618828;43.6708507010791;Grand Teton Science School;Grand Teton Science School, WY;GRTE-SS;2105
+-114.216000271606;39.0051540980217;Great Basin Maintenance Yard;Great Basin Maintenance Yard, NV;GRBA-MY;2060
+-83.4973032945156;35.562252310444;Great Smoky Mountains Clingmans Dome;Great Smoky Mountains Clingmans Dome, TN;GRSM-CD;2021
+-83.609686473465;35.696673570345;Great Smoky Mountains Cove Mountain;Great Smoky Mountains Cove Mountain, TN;GRSM-CM;1243
+-83.9415916749954;35.6334214772497;Great Smoky Mountains Look Rock;Great Smoky Mountains Look Rock, TN;GRSM-LR;793
+-116.39090040741;34.0716799439974;Joshua Tree Black Rock;Joshua Tree Black Rock, CA;JOTR-BR;1244
+-115.820404735184;33.7412852722593;Joshua Tree Cottonwood Canyon;Joshua Tree Cottonwood Canyon, CA;JOTR-CC;984
+-115.410850067902;33.9398183821182;Joshua Tree Pinto Wells;Joshua Tree Pinto Wells, CA;JOTR-PW;326
+-121.576855617905;40.540126876591;Lassen Volcanic Manzanita Lake Fire Station;Lassen Volcanic Manzanita Lake Fire Station, CA;LAVO-ML;1756
+-86.1479475029677;37.1318231667821;Mammoth Cave Houchin Meadow;Mammoth Cave Houchin Meadow, KY;MACA-HM;258
+-108.490412652779;37.198395715494;Mesa Verde Resource Management Area;Mesa Verde Resource Management Area, CO;MEVE-RM;2165
+-115.776497224998;35.1027970646962;Mojave Kelso Mountains;Mojave Kelso Mountains, CA;MOJA-KM;1212
+-109.892468270683;34.8225123305976;Petrified Forest South Entrance;Petrified Forest South Entrance, AZ;PEFO-SE;1723
+-121.1556;36.485;Pinnacles SW of East Entrance Station;Pinnacles SW of East Entrance Station, CA;PINN-ES;335
+-105.545650475311;40.2781418689885;Rocky Mountain Long’s Peak;Rocky Mountain Long’s Peak, CO;ROMO-LP;2743
+-118.829127401543;36.4894322023414;Sequoia and Kings Canyon Ash Mountain;Sequoia and Kings Canyon Ash Mountain, CA;SEKI-AS;457
+-78.4349106753263;38.5228326194202;Shenandoah Big Meadows;Shenandoah Big Meadows, VA;SHEN-BM;1073
+-92.8291812733043;48.4125529528426;Voyageurs Sullivan Bay;Voyageurs Sullivan Bay, MN;VOYA-SB;429
+-110.400277062035;44.565440616079;Yellowstone Water Tank;Yellowstone Water Tank, WY;YELL-WT;2400
+-119.706022394753;37.71327227454;Yosemite Turtleback Dome;Yosemite Turtleback Dome, CA;YOSE-TD;1605
+-113.150730176544;37.1983578281285;Zion Dalton’s Wash;Zion Dalton’s Wash, UT;ZION-DW;1213
+-107.847570095062;40.003853977528;Meeker Plant Science Center;Meeker Plant Science Center, CO;MEEK-PS;1994
+-108.76154269352;40.0869153221511;Rangely Golf Course;Rangely Golf Course, CO;RANG-GC;1655
+-68.2609334277066;44.3771124864024;Acadia McFarland Hill;Acadia McFarland Hill, ME;ACAD-MH;158
+-83.7829322725296;35.604036149683;Great Smoky Mountains Cades Cove;Great Smoky Mountains Cades Cove, TN;GRSM-CC;564
+-103.377734911728;46.8948146149923;Theodore Roosevelt Painted Canyon Visitor Cntr;Theodore Roosevelt Painted Canyon Visitor Cntr, ND;THRO-VC;850
+-103.483713497067;43.5575623446607;Wind Cave Visitor Center;Wind Cave Visitor Center, SD;WICA-VC;1292
