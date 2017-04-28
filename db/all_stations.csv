@@ -1,735 +1,4 @@
 code|lat|lon|name|spider
-52|-22.7242526995|-47.339549291|Americana|cetesb
-42|-22.9024888192|-47.0572004533|Campinas-Centro|cetesb
-41|-22.874618945|-47.0589727567|Campinas-Taquaral|cetesb
-43|-22.9467284161|-47.1192808619|Campinas-V.União|cetesb
-37|-23.6683561457|-46.7800433837|Capão Redondo|cetesb
-28|-23.5313950283|-46.8357797277|Carapicuiba|cetesb
-10|-23.5535425617|-46.6727047693|Cerqueira César|cetesb
-31|-23.5663417755|-46.737414282|Cid.Universitária-USP-Ipen|cetesb
-8|-23.6163200788|-46.6634655274|Congonhas|cetesb
-24|-23.8790267307|-46.4184833619|Cubatão-Centro|cetesb
-30|-23.8315890081|-46.3695687909|Cubatão-Vale do Mogi|cetesb
-25|-23.84941617|-46.3886762431|Cubatão-Vila Parisi|cetesb
-15|-23.6858764117|-46.6116219324|Diadema|cetesb
-35|-23.4555342581|-46.5185334031|Guarulhos-Paço Municipal|cetesb
-40|-23.4401170078|-46.409948771|Guarulhos-Pimentas|cetesb
-5|-23.5918419901|-46.6606875025|Ibirapuera|cetesb
-34|-23.6805076511|-46.6750431583|Interlagos|cetesb
-33|-23.501547361|-46.4207368395|Itaim Paulista|cetesb
-50|-23.5800148314|-46.4666514115|Itaquera|cetesb
-54|-23.2941992435|-45.9682338643|Jacareí|cetesb
-64|-22.5674900631|-47.4001792909|Limeira|cetesb
-36|-23.518705831|-46.7433200408|Marg.Tietê-Ponte dos Remédios|cetesb
-22|-23.5782513944|-46.4649955667|Mauá|cetesb
-3|-23.5497340451|-46.6004166453|Mooca|cetesb
-6|-23.480098706|-46.6920519221|Nossa Senhora do Ó|cetesb
-17|-23.526721419|-46.7920776612|Osasco|cetesb
-29|-23.7762659844|-46.6969610784|Parelheiros|cetesb
-1|-23.5448456587|-46.6276755924|Parque D.Pedro II|cetesb
-44|-22.7723213793|-47.1548428657|Paulínia|cetesb
-45|-22.7868064344|-47.1365588816|Paulínia - Sul|cetesb
-27|-23.5614598947|-46.7020165085|Pinheiros|cetesb
-77|-22.7012223403|-47.6496526899|Piracicaba|cetesb
-79|-21.153941892|-47.8284805266|Ribeirão Preto|cetesb
-2|-23.5059927222|-46.6289603|Santana|cetesb
-16|-23.6549772296|-46.7099983818|Santo Amaro|cetesb
-32|-23.6569941995|-46.5309187565|S.André-Paço Municipal|cetesb
-18|-23.6398036992|-46.4916367658|S.André-Capuava|cetesb
-82|-23.9630572042|-46.3211700937|Santos|cetesb
-83|-23.9812951574|-46.3005095935|Santos-Ponta da Praia|cetesb
-19|-23.6713539571|-46.5846678859|S.Bernardo-Paulicéia|cetesb
-38|-23.6986710865|-46.5462321867|S.Bernardo-Centro|cetesb
-7|-23.618442773|-46.5563539375|São Caetano do Sul|cetesb
-55|-23.1878873303|-45.8711976231|S.José Campos|cetesb
-57|-23.1836973451|-45.8308969846|S.José Campos-Vista Verde|cetesb
-51|-23.5024265843|-47.4790299116|Sorocaba|cetesb
-20|-23.6093238642|-46.7582943678|Taboão da Serra|cetesb
-94|-23.3607515379|-47.8707990665|Tatuí|cetesb
-58|-23.0323456229|-47.5757990316|Taubaté|cetesb
-71|-21.7825221457|-48.1858318132|Araraquara|cetesb
-73|-22.3266083966|-49.0927593054|Bauru|cetesb
-75|-22.2986196635|-48.5674574048|Jaú|cetesb
-81|-21.1419427576|-48.9830752706|Catanduva|cetesb
-72|-21.1868410999|-50.4393168499|Araçatuba|cetesb
-76|-22.1998094871|-49.9599697461|Marília|cetesb
-78|-22.1199367348|-51.408777068|Presidente Prudente|cetesb
-80|-20.7846892839|-49.3982777929|São José do Rio Preto|cetesb
-MALEMBA|-12.6776225249|-38.5394575728|MALEMBA|cetrel
-LAMARAO|-12.5958867676|-38.3988816349|LAMARAO|cetrel
-CAMARA|-12.7064353737|-38.3216979576|CAMARA|cetrel
-MACHADINHO|-12.7573629719|-38.2844009602|MACHADINHO|cetrel
-ESCOLA|-12.6357235922|-38.2734983997|ESCOLA|cetrel
-CONCORDIA|-12.6044569118|-38.325926123|CONCORDIA|cetrel
-GRAVATA|-12.6867810755|-38.3339251368|GRAVATA|cetrel
-COBRE|-12.6306616254|-38.3588484222|COBRE|cetrel
-AREIAS|-12.8015541006|-38.224286707|AREIAS|cetrel
-LEANDRINHO|-12.641994474|-38.3751920997|LEANDRINHO|cetrel
-FUTURAMA II|-12.6567981374|-38.368001019|FUTURAMA II|cetrel
-Copacabana|-22.9649861111|-43.1804861111|Copacabana|rio
-Centro|-22.9083388889|-43.1781555556|Centro|rio
-São Cristóvão|-22.8977861111|-43.2217444444|São Cristóvão|rio
-Tijuca|-22.9250194444|-43.2325916667|Tijuca|rio
-Irajá|-22.8315861111|-43.3268638889|Irajá|rio
-Bangu|-22.887925|-43.4710861111|Bangu|rio
-Campo Grande|-22.8861805556|-43.5567|Campo Grande|rio
-Pedra de Guaratiba|-23.0044166667|-43.6290694444|Pedra de Guaratiba|rio
-117|-20.2904668812|-70.1001924276|Alto Hospicio|sinca
-201|-22.093082|-70.20121|Gobernación|sinca
-204|-22.8887241426|-69.3181407148|Sierra Gorda |sinca
-222|-22.0855187103|-70.1886825158|Escuela E-10|sinca
-228|-22.342264|-68.650897|Chiu Chiu|sinca
-230|-22.111064|-70.210828|Bomberos|sinca
-231|-22.063792|-70.185945|Gendarmería|sinca
-233|-22.4602707229|-68.937706917|Complejo Deportivo 23 de Marzo|sinca
-235|-22.442839063|-68.9325463469|Colegio Pedro Vergara Keller|sinca
-236|-22.4621446446|-68.9280616934|Estación Centro|sinca
-237|-23.6135421582|-70.3833156824|Antofagasta|sinca
-332|-27.3703291549|-70.3239066784|Copiapo Sivica|sinca
-333|-28.4699980688|-71.2196525628|Huasco Sivica|sinca
-414|-30.2277187688|-71.0861905807|Hospital|sinca
-420|-30.2277677521|-71.0861268336|Andacollo|sinca
-424|-31.8892783125|-70.6293117697|Cuncumen |sinca
-425|-29.9330065187|-71.261966366|La Serena|sinca
-426|-29.9703902353|-71.3360382501|Coquimbo|sinca
-501|-32.736065|-71.450827|Campiche|sinca
-503|-32.748154|-71.474204|La Greda|sinca
-504|-32.764139|-71.454494|Los Maitenes|sinca
-505|-32.718589|-71.407282|Puchuncaví|sinca
-506|-32.800981|-71.483371|Sur|sinca
-507|-32.807512|-71.436274|Valle Alegre|sinca
-509|-32.924568|-71.515399|Concón|sinca
-511|-32.929552|-71.440571|Colmo|sinca
-512|-32.915458|-71.48148|Las Gaviotas|sinca
-521|-32.797715|-70.898037|Lo Campo|sinca
-522|-32.779208|-70.959114|Catemu|sinca
-523|-32.823956|-71.006441|Romeral|sinca
-524|-32.776573|-70.938144|Santa Margarita|sinca
-529|-33.0204198174|-71.5500928429|Viña del Mar|sinca
-535|-32.935167|-71.52577|Junta de Vecinos|sinca
-540|-32.78786|-71.527718|Quintero|sinca
-547|-32.795151048|-71.5330196802|Loncura|sinca
-548|-32.7789879022|-71.3730312769|Ventanas|sinca
-549|-33.0474665972|-71.4345128719|Quilpue|sinca
-550|-33.0497437981|-71.6141672317|Valparaiso|sinca
-609|-34.1623146091|-70.7139192255|Rancagua I|sinca
-611|-34.3945414179|-70.8529815423|Rengo|sinca
-612|-34.5797599171|-70.9896851865|San Fernando|sinca
-615|-34.1438883759|-70.7371312077|Rancagua II|sinca
-703|-35.4351418877|-71.6782614993|La Florida|sinca
-709|-34.9749250775|-71.2339675123|Curicó|sinca
-710|-35.4357255887|-71.619553864|U.C. Maule|sinca
-711|-35.4065827447|-71.6333964749|Universidad de Talca|sinca
-713|-35.8369422349|-71.592865854|Linares|sinca
-802|-36.7236951418|-73.1236588652|Consultorio - San Vicente|sinca
-804|-36.780632|-73.115657|JUNJI|sinca
-806|-36.737202|-73.104427|Inpesca|sinca
-807|-36.769803|-73.113708|Indura|sinca
-809|-36.9964309604|-73.1158053572|Calabozo|sinca
-810|-36.5948808865|-72.0892536505|INIA, Chillán|sinca
-815|-37.008669|-73.148086|Coronel Norte|sinca
-816|-37.031702|-73.138689|Coronel Sur|sinca
-827|-36.7846537411|-73.0520630258|Kingston College|sinca
-831|-37.0211828777|-73.1495555509|Cerro Merquín|sinca
-837|-36.735998|-73.118693|Nueva Libertad|sinca
-838|-36.791231|-73.119152|ENAP Price|sinca
-846|-36.6591170565|-72.4799613704|Nueva  Aldea|sinca
-850|-36.743905|-72.47721|Quillón|sinca
-854|-36.923329603|-73.0361323009|Punteras|sinca
-859|-37.1006962574|-73.1557603947|Lota rural|sinca
-860|-37.0776198097|-73.1541364986|Lota urbana|sinca
-861|-36.983803|-73.159774|Lagunillas|sinca
-871|-36.683859|-72.465292|Cayumanqui|sinca
-873|-36.6161677517|-72.0930405585|Puren|sinca
-875|-37.4711822887|-72.3614628498|21 de mayo|sinca
-876|-37.023623|-72.277476|Colicheu|sinca
-877|-37.068142|-72.289451|Progreso|sinca
-901|-38.748699123|-72.6207882282|Las Encinas Temuco|sinca
-902|-38.7647674517|-72.5987956822|Padre Las Casas II|sinca
-904|-38.7253024448|-72.5711925509|Museo Ferroviario|sinca
-A01|-40.584478666|-73.1187198221|Osorno|sinca
-A06|-42.9492038147|-72.7250011335|Chaiten Norte|sinca
-A07|-41.4795069236|-72.9687559301|Mirasol|sinca
-B03|-45.5799644795|-72.0611259878|Coyhaique|sinca
-B04|-45.5790456672|-72.0499645058|Coyhaique II|sinca
-C05|-53.1582954922|-70.9214974825|Punta Arenas|sinca
-D11|-33.422301|-70.651162|Independencia|sinca
-D12|-33.5166303623|-70.588123962|La Florida|sinca
-D13|-33.3767735203|-70.5233267841|Las Condes|sinca
-D14|-33.464142|-70.660797|Parque O'Higgins|sinca
-D15|-33.4378113791|-70.7501712331|Pudahuel|sinca
-D16|-33.4928487895|-70.7194402798|Cerrillos|sinca
-D17|-33.5470996456|-70.6662041019|El Bosque|sinca
-D18|-33.4330896101|-70.7321478687|Cerro Navia|sinca
-D27|-33.591390623|-70.594788|Puente Alto|sinca
-D28|-33.6737520714|-70.9530647374|Talagante|sinca
-D30|-33.3496269283|-70.7237926126|QUILICURA |sinca
-E03|-39.8313161047|-73.2285128221|Valdivia|sinca
-F01|-18.4834279915|-70.290550727|Arica|sinca
-Dhaka|23.796373|90.424614|Dhaka|usembassy
-New Delhi|28.63576|77.22445|New Delhi|usembassy
-Lima|-12.099398|-76.96888|Lima|usembassy
-Mumbai|19.07283|72.88261|Mumbai|usembassy
-Bogota|4.637735|-74.09486|Bogota|usembassy
-Pristina|42.661995|21.15055|Pristina|usembassy
-Kolkata|22.56263|88.36304|Kolkata|usembassy
-Hanoi|21.021938|105.81881|Hanoi|usembassy
-Addis Ababa School|8.996519|38.725433|Addis Ababa School|usembassy
-Addis Ababa Central|9.058498|38.761642|Addis Ababa Central|usembassy
-Chennai|13.08784|80.27847|Chennai|usembassy
-Ho Chi Minh City|10.782773|106.700035|Ho Chi Minh City|usembassy
-Hyderabad|17.38405|78.45636|Hyderabad|usembassy
-Jakarta Central|-6.182536|106.834236|Jakarta Central|usembassy
-Ulaanbaatar|47.928387|106.92947|Ulaanbaatar|usembassy
-Jakarta South|-6.236704|106.79324|Jakarta South|usembassy
-1|-34.625279|-58.365533|Station La Boca|buenosaires
-3|-34.599648|-58.391363|Córdoba station|buenosaires
-2|-34.606226|-58.432599|Centennial Park Station|buenosaires
-EN7|51.6686433473|-0.02200720557|Enfield - Prince of Wales School|london
-EN1|51.6450367267|-0.0661800662229|Enfield - Bush Hill Park|london
-BW1|51.618686|0.307746|Brentwood - Brentwood Town Hall|london
-HR1|51.617327|-0.298775|Harrow - Stanmore|london
-EN4|51.614864007|-0.0507658363689|Enfield - Derby Road|london
-EN5|51.613865|-0.125338|Enfield - Bowes Primary School|london
-HG1|51.599302|-0.068218|Haringey - Haringey Town Hall|london
-HR2|51.588417|-0.362989|Harrow - Pinner Road|london
-HG4|51.5839769008|-0.125400278485|Haringey - Priory Park South|london
-RB4|51.57661|0.030858|Redbridge - Gardner Close|london
-HV3|51.572976|0.179079|Havering - Romford|london
-RB7|51.5694843315|0.0829074748965|Redbridge - Ley Street|london
-BG1|51.563752|0.177891|Barking and Dagenham - Rush Green|london
-IS6|51.557895|-0.106989|Islington - Arsenal|london
-IS2|51.555378|-0.116146|Islington - Holloway Road|london
-CP2|51.554064|0.60606|Castle Point - Hadleigh|london
-BT5|51.552656|-0.248774|Brent - Neasden Lane|london
-BT4|51.552476|-0.258089|Brent - Ikea|london
-CD1|51.544219|-0.175284|Camden - Swiss Cottage|london
-TH5|51.5405194915|-0.033307388878|Tower Hamlets - Victoria Park|london
-BT6|51.537799|-0.247793|Brent - John Keble Primary School|london
-MW4|51.5363854088|-0.725480414495|Windsor and Maidenhead - Aldebury Road|london
-EA6|51.53085|-0.292488|Ealing - Hanger Lane Gyratory|london
-BG2|51.529389|0.132857|Barking and Dagenham - Scrattons Farm|london
-CD9|51.5277066195|-0.129053205283|Camden - Euston Road|london
-HK6|51.526454|-0.08491|Hackney - Old Street|london
-EI1|51.5236078191|-0.2655026318|Ealing - Western Avenue|london
-MY1|51.52254|-0.15459|Westminster - Marylebone Road|london
-MY7|51.52254|-0.15459|Westminster - Marylebone Road FDMS|london
-TH2|51.5225294861|-0.04215509919|Tower Hamlets - Mile End Road|london
-BL0|51.522287|-0.125848|Camden - Bloomsbury|london
-KC7|51.52106551|-0.21344617|Kensington and Chelsea - North Ken FDMS|london
-KC1|51.5210467476|-0.213492139585|Kensington and Chelsea - North Ken|london
-MW1|51.520894547|-0.724024666515|Windsor and Maidenhead - Frascati Way|london
-HV1|51.5207874593|0.205460705694|Havering - Rainham|london
-CT4|51.5202252732|-0.0961060474176|City of London - Beech Street|london
-EA8|51.518948|-0.265617|Ealing - Horn Lane|london
-EI8|51.5189160349|-0.265652052386|Ealing - Horn Lane TEOM|london
-TK3|51.518162|0.439548|Thurrock - Stanford-le-Hope|london
-IM1|51.5173675146|-0.120194711317|Camden - Holborn (inmidtown)|london
-CD3|51.515532|-0.127027|Camden - Shaftesbury Avenue|london
-TH4|51.5150461674|-0.00841849265643|Tower Hamlets - Blackwall|london
-CT2|51.5145253362|-0.104515626338|City of London - Farringdon Street|london
-WM6|51.5139287404|-0.152792701882|Westminster - Oxford Street|london
-CT3|51.5138471784|-0.077765681752|City of London - Sir John Cass School|london
-NB1|51.511998|-0.116715|Westminster - Strand (Northbank BID)|london
-BX3|51.510808|0.121617|Bexley - Thamesmead|london
-CT6|51.510499|-0.091634|City of London - Walbrook Wharf|london
-CT8|51.5095436854|-0.0873571979556|City of London - Upper Thames Street|london
-EA7|51.508549|-0.392179|Ealing - Southall|london
-EI7|51.5085164816|-0.392208459173|Ealing - Southall FDMS|london
-HF4|51.5045625672|-0.224670007032|Hammersmith and Fulham - Shepherds Bush|london
-KC3|51.49913951|-0.164337605|Kensington and Chelsea - Knightsbridge|london
-WM9|51.497733183|-0.144241409162|Westminster - Victoria (Victoria BID)|london
-WM8|51.4970661776|-0.14243882074|Westminster - Victoria|london
-HI0|51.496309|-0.460826|Hillingdon - Keats Way|london
-KC2|51.49550391|-0.178809464|Kensington and Chelsea - Cromwell Road|london
-WM0|51.494681|-0.131938|Westminster - Horseferry Road|london
-BQ7|51.4946486813|0.137279111232|Bexley - Belvedere West|london
-BQ8|51.4946486813|0.137279111232|Bexley - Belvedere West FDMS|london
-SK6|51.4931557049|-0.101527038275|Southwark - Elephant and Castle|london
-GN2|51.492571|0.017697|Greenwich - Millennium Village|london
-BX2|51.4906102082|0.158914493928|Bexley - Belvedere|london
-BX0|51.4906102082|0.158914493928|Bexley - Belvedere FDMS|london
-GN0|51.490532|0.074003|Greenwich - A206 Burrage Grove|london
-KC5|51.49019756|-0.190863311|Kensington and Chelsea - Earls Court Rd|london
-TH6|51.4891342634|-0.0129769309432|Tower Hamlets - Millwall Park|london
-LH0|51.48878|-0.441627|Hillingdon - Harlington|london
-KC4|51.48743685|-0.168397129|Kensington and Chelsea - Kings Road|london
-GN3|51.486957|0.095111|Greenwich - Plumstead High Street|london
-GR8|51.486884|0.017901|Greenwich - Woolwich Flyover|london
-LB5|51.485486774|-0.124545234819|Lambeth - Bondway Interchange|london
-LW3|51.4811412185|-0.0456708566668|Lewisham - Mercury Way|london
-SK5|51.4804994936|-0.0595528932573|Southwark - A2 Old Kent Road|london
-RI1|51.480189|-0.237335|Richmond Upon Thames - Castelnau|london
-MW2|51.4801789727|-0.62380842514|Windsor and Maidenhead - Clarence Road|london
-WAA|51.4794395281|-0.141786953606|Wandsworth - Battersea|london
-TK8|51.478697|0.255133|Thurrock - London Road (Purfleet)|london
-TK1|51.477076|0.317938|Thurrock - London Road (Grays)|london
-RI2|51.476168|-0.230427|Richmond Upon Thames - Barnes Wetlands|london
-LW2|51.474954|-0.039641|Lewisham - New Cross|london
-GR7|51.472504|-0.012381|Greenwich - Blackheath|london
-BX1|51.4659832747|0.184877126994|Bexley - Slade Green|london
-BX9|51.4659832747|0.184877126994|Bexley - Slade Green FDMS|london
-WA9|51.4650325059|-0.215824580948|Wandsworth - Putney|london
-LW4|51.4646910612|-0.016068243204|Lewisham - Loampit Vale|london
-LB4|51.4641135412|-0.114581026951|Lambeth - Brixton Road|london
-WA8|51.4637206047|-0.215890144123|Wandsworth - Putney High Street Facade|london
-WAC|51.4636903568|-0.166713485995|Wandsworth - Lavender Hill (Clapham Jct)|london
-WA7|51.463429|-0.215871|Wandsworth - Putney High Street|london
-TK4|51.4617571253|0.357953197319|Thurrock - Calcutta Road Tilbury|london
-WA2|51.456962|-0.191074|Wandsworth - Wandsworth Town Hall|london
-GR9|51.456357|0.040725|Greenwich - Westhorne Avenue|london
-GB0|51.4563|0.085606|Greenwich and Bexley - Falconwood FDMS|london
-GB6|51.4563|0.085606|Greenwich and Bexley - Falconwood|london
-RHG|51.4531422511|-0.341218138106|Richmond Upon Thames - Chertsey Road|london
-RD0|51.4529847075|-0.944461432664|Reading - New Town|london
-GR4|51.45258|0.070766|Greenwich - Eltham|london
-LW1|51.445468|-0.020266|Lewisham - Catford|london
-GN4|51.4346627061|0.0642224671705|Greenwich - Fiveways Sidcup Rd A20|london
-WAB|51.429331|-0.166524|Wandsworth - Tooting High Street|london
-LB6|51.4282131429|-0.131868638796|Lambeth - Streatham Green|london
-TD5|51.4252560361|-0.345608290873|Richmond Upon Thames - Bushy Park|london
-TD0|51.4243043441|-0.345714576447|Richmond Upon Thames - Ntl Physical Lab|london
-ME2|51.4161384795|-0.192230805043|Merton - Merton Road|london
-KT3|51.413691|-0.302269|Kingston Upon Thames - Sopwith Way|london
-CR5|51.411349|-0.12311|Croydon - Norbury|london
-CR8|51.410039|-0.127523|Croydon - Norbury Manor|london
-ME1|51.40105|-0.195929|Merton - Morden Civic Centre|london
-ME7|51.3943415638|-0.165161044588|Merton - Willow Lane Industrial Estate|london
-ST5|51.3892869045|-0.14166152478|Sutton - Beddington Lane north|london
-ST8|51.3835652278|-0.136417861473|Sutton - Beddington Lane |london
-KT4|51.379312|-0.281259|Kingston Upon Thames - Tolworth Broadway|london
-ST6|51.377923|-0.240414|Sutton - Worcester Park|london
-CR9|51.3739530635|-0.0967638468324|Croydon - Park Lane|london
-ST3|51.365318|-0.165936|Sutton - Carshalton|london
-CR7|51.3622305655|-0.117604507351|Croydon - Purley Way A23|london
-ST4|51.3586596125|-0.149723946605|Sutton - Wallington|london
-ZV3|51.293759175|0.195766572888|Sevenoaks - Sevenoaks Quarry|london
-ZV1|51.289391|0.201437|Sevenoaks - Greatness Park|london
-ZV2|51.28879|0.193401|Sevenoaks - Bat and Ball|london
-RG1|51.1658584759|-0.167734107139|Reigate and Banstead - Horley|london
-RG2|51.161508|-0.162928|Reigate and Banstead - Horley South|london
-RG6|51.1612605001|-0.16241003678|Reigate and Banstead - Horley South East|london
-RG3|51.142082|-0.194181|Reigate and Banstead - Poles Lane|london
-ARM5|54.353728|-6.654558|Armagh Lonsdale Road|northern_ireland
-BALY|54.861595|-6.250873|Ballymena Ballykeel|northern_ireland
-BEL2|54.59965|-5.928833|Belfast Centre|northern_ireland
-BEL5|54.594789|-5.857523|Belfast Newtownards Road|northern_ireland
-BEL0|54.587516|-5.92378|Belfast Ormeau Road|northern_ireland
-BEL1|54.572586|-5.974944|Belfast Stockman's Lane|northern_ireland
-BE2|54.591753|-5.949517|Belfast Westlink Roden Street|northern_ireland
-CAS3|54.594577|-5.803313|Castlereagh Dundonald|northern_ireland
-DER4|54.99642|-7.310163|Derry Dale's Corner|northern_ireland
-DERR|55.002851|-7.331128|Derry Rosemount|northern_ireland
-DPK1|54.328443|-5.715743|Downpatrick Roadside|northern_ireland
-LVD2|54.9284|-6.926879|Limavady Dungiven|northern_ireland
-LIS5|54.543516|-6.008608|Lisburn Dunmurry Seymour Hill|northern_ireland
-LN|54.43951|-7.900328|Lough Navar|northern_ireland
-NWY5|54.180381|-6.33924|Newry Canal Street|northern_ireland
-NWT5|54.666013|-5.950219|Newtownabbey Antrim Road|northern_ireland
-ND2|54.641963|-5.837939|North Down Holywood A2|northern_ireland
-SBAN|54.821427|-7.453291|Strabane Springhill Park|northern_ireland
-ABD1|57.128567|-2.125447|Aberdeen Anderson Dr|scotland
-ABD|57.15736|-2.094278|Aberdeen Errol Place|scotland
-AD1|57.169738|-2.095348|Aberdeen King Street|scotland
-ABD0|57.141922|-2.091664|Aberdeen Market Street 2|scotland
-ABD3|57.144555|-2.106472|Aberdeen Union Street Roadside|scotland
-ABD8|57.134195|-2.093968|Aberdeen Wellington Road|scotland
-ALO2|56.117343|-3.791818|Alloa A907|scotland
-AFR1|56.642076|-2.894328|Angus Forfar Glamis Rd|scotland
-ACTH|55.79216|-3.2429|Auchencorth Moss|scotland
-BUSH|55.862281|-3.205782|Bush Estate|scotland
-DUMF|55.070033|-3.614233|Dumfries|scotland
-DUN4|56.467332|-2.943423|Dundee Broughty Ferry Road|scotland
-DUN6|56.465126|-2.993867|Dundee Lochee Road|scotland
-DUN1|56.475434|-2.959861|Dundee Mains Loan|scotland
-DUNM|56.464258|-2.971386|Dundee Meadowside|scotland
-DUN5|56.462383|-2.96739|Dundee Seagate|scotland
-DUN7|56.45974|-2.970708|Dundee Whitehall Street|scotland
-MARN|55.607469|-4.497986|E Ayrshire Kilmarnock St Marnock St|scotland
-EDB2|55.919596|-4.333505|East Dunbartonshire Bearsden|scotland
-EDB1|55.904167|-4.225|East Dunbartonshire Bishopbriggs|scotland
-EDB3|55.935921|-4.151759|East Dunbartonshire Kirkintilloch|scotland
-EDB4|55.938253|-4.317753|East Dunbartonshire Milngavie |scotland
-MUSS|55.944008|-3.059223|East Lothian Musselburgh N High St|scotland
-ED11|55.896909|-3.31966|Edinburgh Currie|scotland
-ED10|55.939026|-3.392727|Edinburgh Glasgow Road|scotland
-ED5|55.937708|-3.232267|Edinburgh Gorgie Road|scotland
-ED9|55.960497|-3.30325|Edinburgh Queensferry Road|scotland
-ED8|55.974594|-3.161455|Edinburgh Salamander St|scotland
-ED1|55.9425|-3.281111|Edinburgh St John's Road|scotland
-ED3|55.945589|-3.182186|Edinburgh St Leonards|scotland
-ESK|55.31531|-3.206111|Eskdalemuir|scotland
-FAL7|55.988456|-3.969288|Falkirk Banknock|scotland
-FAL09|56.015766|-3.608622|Falkirk Bo'ness|scotland
-FAL11|56.002188|-3.784352|Falkirk Graham's Road|scotland
-FALK|56.018951|-3.721013|Falkirk Grangemouth MC|scotland
-FAL8|56.010894|-3.718233|Falkirk Grangemouth Zetland Park|scotland
-FAL5|55.991087|-3.941685|Falkirk Haggs|scotland
-FAL3|56.001956|-3.786485|Falkirk Hope St|scotland
-FAL10|56.013572|-3.789022|Falkirk Main St Bainsford|scotland
-FAL6|56.000507|-3.790128|Falkirk West Bridge Street|scotland
-CUPA|56.319444|-3.014167|Fife Cupar|scotland
-DUNF|56.07383|-3.44862|Fife Dunfermline|scotland
-KIR|56.124331|-3.141347|Fife Kirkcaldy|scotland
-ROSY|56.036243|-3.417582|Fife Rosyth|scotland
-FW|56.82266|-5.101102|Fort William|scotland
-GL1|55.850556|-4.231111|Glasgow Abercromby Street|scotland
-GLA5|55.861667|-4.271389|Glasgow Anderston|scotland
-GL3|55.87603|-4.318754|Glasgow Broomhill|scotland
-GL6|55.851071|-4.19714|Glasgow Burgher St.|scotland
-GLA6|55.874167|-4.294722|Glasgow Byres Road|scotland
-GL9|55.870766|-4.318448|Glasgow Dumbarton Road|scotland
-GGWR|55.872038|-4.270936|Glasgow Great Western Road|scotland
-GHSR|55.860936|-4.238214|Glasgow High Street|scotland
-GLA4|55.85917|-4.258889|Glasgow Kerbside|scotland
-GL2|55.836256|-4.270768|Glasgow Nithsdale Road|scotland
-GLKP|55.865782|-4.243631|Glasgow Townhead|scotland
-GLA7|55.79412|-4.354968|Glasgow Waulkmillglen Reservoir|scotland
-GRAN|56.010319|-3.704399|Grangemouth|scotland
-GRA2|56.013142|-3.710833|Grangemouth Moray|scotland
-INC2|55.944079|-4.734421|Inverclyde Greenock A8|scotland
-INV2|57.481308|-4.241451|Inverness|scotland
-INV03|57.479525|-4.225588|Inverness Academy Street|scotland
-LERW|60.13922|-1.185319|Lerwick|scotland
-NL3|55.84581|-3.947346|N Lanarkshire Chapelhall|scotland
-NL1|55.851944|-4.019444|N Lanarkshire Coatbridge Whifflet|scotland
-NL4|55.957778|-4.039444|N Lanarkshire Croy|scotland
-NL9|55.908941|-4.082339|N Lanarkshire Moodiesburn|scotland
-NL6|55.788333|-3.986389|N Lanarkshire Motherwell|scotland
-NL7|55.843523|-4.023222|N Lanarkshire Shawhead Coatbridge|scotland
-IRV|55.614578|-4.666786|North Ayrshire Irvine High St|scotland
-NL11|55.843583|-4.037413|North Lanarkshire Kirkshaw|scotland
-PAI3|55.841836|-4.423958|Paisley Gordon Street|scotland
-PAI4|55.848115|-4.426619|Paisley St James St|scotland
-PEEB|55.657472|-3.196527|Peebles|scotland
-PET2|56.399327|-3.434182|Perth Atholl Street|scotland
-PET1|56.373126|-3.841475|Perth Crieff|scotland
-PETH|56.396597|-3.4324|Perth High Street|scotland
-PET3|56.41467|-3.44964|Perth Muirton|scotland
-REN1|55.863313|-4.390978|Renfrew Cockels Loan|scotland
-HARB|55.470162|-4.633681|South Ayrshire Ayr Harbour|scotland
-AYR|55.464531|-4.631673|South Ayrshire Ayr High St|scotland
-SL07|55.818802|-4.167073|South Lanarkshire Cambuslang|scotland
-EK0|55.775278|-4.163611|South Lanarkshire East Kilbride|scotland
-SL05|55.774018|-4.03736|South Lanarkshire Hamilton|scotland
-SL03|55.673936|-3.775658|South Lanarkshire Lanark|scotland
-SLC08|55.798813|-4.058363|South Lanarkshire Raith Interchange 2|scotland
-SL04|55.828408|-4.218786|South Lanarkshire Rutherglen|scotland
-SL06|55.818357|-4.081839|South Lanarkshire Uddingston|scotland
-STRL|56.11472|-3.932178|Stirling Craig's Roundabout|scotland
-SV|57.734456|-4.776583|Strath Vaich|scotland
-WDB3|55.91796|-4.406231|West Dunbartonshire Clydebank|scotland
-WDB4|55.943197|-4.55973|West Dunbartonshire Glasgow Road|scotland
-BRX|55.934357|-3.46919|West Lothian Broxburn|scotland
-WLC1|55.97671|-3.59731|West Lothian Linlithgow High Street 2|scotland
-WLN4|55.983925|-3.455939|West Lothian Newton|scotland
-ANG5|53.307155|-4.274216|Anglesey Brynteg|wales
-AN10|53.410479|-4.493642|Anglesey Felin Cafnan|wales
-ANG2|53.290642|-4.406563|Anglesey Llynfaes|wales
-AH|52.50385|-3.034178|Aston Hill|wales
-CAE5|51.666667|-3.194919|Caerphilly Blackwood High Street|wales
-CAE8|51.74032|-3.2983|Caerphilly Fochriw|wales
-CAE4|51.573962|-3.218084|Caerphilly White Street|wales
-CARD|51.48178|-3.17625|Cardiff Centre|wales
-CHEP|51.638094|-2.678731|Chepstow A48|wales
-NTH1|51.659617|-3.801693|Cimla Road / Victoria Gardens|wales
-CWMB|51.6538|-3.006953|Cwmbran|wales
-CAE6|51.680579|-3.133508|Hafod-yr-ynys Roadside|wales
-MAWR|53.136152|-4.074791|Marchlyn Mawr|wales
-CAE7|51.57537|-3.231658|Nantgarw Road|wales
-PEMB|51.781784|-4.691462|Narberth|wales
-NPT4|51.601262|-2.973273|Newport M4 Junction 25|wales
-NPT1|51.601203|-2.977281|Newport St Julians Comp School|wales
-PT7|51.590233|-3.786049|Port Talbot Docks|wales
-PT6|51.572433|-3.751092|Port Talbot Dyffryn School|wales
-PTLW|51.58493|-3.801069|Port Talbot Little Warren|wales
-PT4|51.58395|-3.770822|Port Talbot Margam|wales
-PT11|51.579656|-3.766465|Port Talbot Prince Street 2|wales
-PT8|51.591479|-3.779197|Port Talbot Talbot Road|wales
-PT10|51.589942|-3.772005|Port Talbot Theodore Road|wales
-PT9|51.576676|-3.759005|Port Talbot Twll-yn-y-Wal Park|wales
-RHD7|51.61968|-3.33232|Rhondda Glyncoch Garth Avenue|wales
-RHD8|51.684393|-3.378816|Rhondda Mountain Ash|wales
-RHD6|51.604647|-3.338912|Rhondda Pontypridd Gelliwastad Rd|wales
-RHD4|51.597845|-3.331923|Rhondda-Cynon-Taf Broadway|wales
-RHD2|51.565439|-3.256145|Rhondda-Cynon-Taf Nantgarw|wales
-SWA9|51.645733|-3.939392|Swansea Cwm Level Park|wales
-SWA7|51.632927|-3.93854|Swansea Hafod DOAS|wales
-SWA5|51.662122|-3.921301|Swansea Morriston Roadside|wales
-SWA1|51.632696|-3.947374|Swansea Roadside|wales
-SWA8|51.625711|-3.934461|Swansea St Thomas DOAS|wales
-SW10|51.625921|-3.941502|Swansea Station Court High Street|wales
-TWYN|51.744444|-3.365833|Twynyrodyn|wales
-GLM8|51.444567|-3.187042|V Glamorgan Windsor Road Penarth|wales
-WREX|53.04222|-3.002778|Wrexham|wales
-AY1|51.812443|-0.808084|Aylesbury Walton Street 2|england
-BAR6|53.551177|-1.50816|Barnsley A628 Pogmoor Roadside|england
-BAR9|53.546344|-1.452162|Barnsley A635 Kendray Roadside|england
-HB010|52.138153|-0.46663|Bedford Lurke Street|england
-HB011|52.135049|-0.474658|Bedford Prebend Street|england
-BAI2|52.455719|-1.743912|Birmingham Airport 2|england
-WIL1|51.348788|-2.252262|Bradford-on-Avon, Masons Lane|england
-BUR2|53.524915|-2.277565|Bury Prestwich|england
-BUR1|53.563481|-2.330732|Bury Radcliffe|england
-WIL8|51.43534|-2.00255|Calne London Road|england
-WIL5|51.436345|-2.004275|Calne, New Road 2|england
-NEW2|51.537598|-0.002138|Cam Road|england
-CAM3|52.199575|0.12774|Cambridge Gonville Place|england
-CAM5|52.21393|0.138083|Cambridge Montague Road|england
-CAM4|52.20843|0.141521|Cambridge Newmarket Road|england
-CAM1|52.204133|0.127483|Cambridge Parker Street|england
-CRL2|54.90455|-2.937022|Carlisle Stanwix Bank|england
-HB013|51.770339|-0.591364|Dacorum Northchurch High Street|england
-WIL3|51.352198|-1.990416|Devizes, Sidmouth Street|england
-HB012|51.795569|-0.076225|East Herts Hertford Gascoyne Way|england
-EWE2|51.349927|-0.249748|Ewell High Street|england
-FAR2|50.850875|-1.17806|Fareham Portland Street|england
-GA1|54.951529|-1.649945|Gateshead A1 Dunston|england
-GA2|54.965944|-1.604438|Gateshead Bottle Bank|england
-GA3|54.962008|-1.597121|Gateshead Lychgate Court|england
-GIRT|52.225556|0.087222|Girton Road|england
-FAR1|50.844177|-1.183323|Gosport Road|england
-T55|51.481478|-0.486675|Heathrow Green Gates|england
-LHR2|51.479167|-0.440556|Heathrow LHR2|england
-T54|51.459444|-0.479444|Heathrow Oaks Road|england
-HEN|51.536552|-0.903958|Henley|england
-HB008|51.662193|-0.264313|Hertsmere Borehamwood Background|england
-HB009|51.659803|-0.261916|Hertsmere Borehamwood Roadside|england
-HI1|51.55226|-0.40278|Hillingdon 1 - South Ruislip|england
-SIPS|51.484384|-0.455695|Hillingdon Sipson|england
-HB002|51.940974|-0.274038|Hitchin Stevenage Road|england
-HB003|51.940988|-0.274431|Hitchin Stevenage Road Particulates|england
-HS5|51.489398|-0.310081|Hounslow Brentford|england
-HS4|51.492507|-0.257252|Hounslow Chiswick|england
-HS2|51.482982|-0.411895|Hounslow Cranford|england
-HS9|51.447388|-0.408733|Hounslow Feltham|england
-HS8|51.500676|-0.284383|Hounslow Gunnersbury|england
-HS7|51.463402|-0.427525|Hounslow Hatton Cross|england
-HS6|51.479129|-0.36476|Hounslow Heston|england
-BN2|51.591901|-0.205992|London Barnet Chalgrove School|england
-HIL1|51.487989|-0.480984|London Hillingdon Harmondsworth|england
-HIL4|51.487534|-0.479451|London Hillingdon Harmondsworth Os|england
-HIL5|51.498167|-0.412333|London Hillingdon Hayes|england
-HI3|51.48113|-0.42376|London Hillingdon Oxford Avenue|england
-HB006|51.87765|-0.376297|London Luton Airport|england
-HB007|51.880154|-0.422144|Luton Dunstable Road East|england
-MAN1|53.472077|-2.239001|Manchester Oxford Road|england
-MAN7|53.48157|-2.23793|Manchester Piccadilly LA|england
-MAHG|53.3712|-2.239|Manchester Sharston|england
-WIL7|51.420963|-1.726842|Marlborough London Road|england
-NUL1|53.012375|-2.224184|Newcastle-under-Lyme Queens Gardens|england
-OX6|51.752527|-1.250939|Oxford High St|england
-OX3|51.744856|-1.260338|Oxford St Ebbes (Cal Club)|england
-REA2|51.464355|-0.977094|Reading Caversham Road|england
-REA4|51.461957|-1.012459|Reading Oxford Road|england
-RED3|54.60317|-1.09784|Redcar Dormanstown|england
-IMP|52.23364|0.10508|S Cambs Impington|england
-ORCH|52.2335|0.115229|S Cambs Orchard Park School|england
-M60|53.503784|-2.381239|Salford M60|england
-WIL4|51.065247|-1.793793|Salisbury, Exeter Street|england
-CW|53.5794|-2.09385|Shaw Crompton Way|england
-SLH7|51.502202|-0.608653|Slough Chalvey|england
-SLH3|51.480372|-0.508729|Slough Colnbrook|england
-SLH6|51.480372|-0.508729|Slough Colnbrook Osiris|england
-SLH5|51.484326|-0.5085|Slough Lakeside 1 Osiris|england
-SLH8|51.487764|-0.502656|Slough Lakeside 2|england
-SLH9|51.487764|-0.502656|Slough Lakeside 2 Osiris|england
-SLH4|51.511599|-0.607794|Slough Town Centre A4|england
-GX|51.574108|-0.533309|South Bucks Gerrards Cross|england
-SHOL|52.772975|0.181633|South Holland Westmere School|england
-MONK|52.785625|-0.175053|Spalding Monkhouse School|england
-HB005|51.900528|-0.205111|Stevenage Lytton Way|england
-STK7|53.391717|-2.22628|Stockport Cheadle A34|england
-STK5|53.38547|-2.129559|Stockport Hazel Grove|england
-SUN2|54.883642|-1.406726|Sunderland Silksworth (CC)|england
-SUN4|54.907415|-1.394195|Sunderland Trimdon Street|england
-BN1|51.614675|-0.176607|Tally Ho|england
-TAM1|53.458994|-2.005694|Tameside Mottram Moor|england
-TAME|53.445847|-2.098802|Tameside Two Trees School|england
-GOS1|50.821611|-1.163939|Tichborne Way|england
-TRAF|53.448876|-2.320941|Trafford|england
-TRF2|53.442476|-2.311421|Trafford A56|england
-WD1|51.601041|-1.12355|Wallingford|england
-WL4|51.601728|-0.016442|Waltham Crooked Billet|england
-WL1|51.562376|-0.004898|Waltham Forest Dawlish Rd|england
-WL5|51.556239|-0.013628|Waltham Forest Leyton|england
-HB004|51.6592|-0.402863|Watford Town Hall|england
-WAT|51.645112|-1.004394|Watlington|england
-HB001|51.767563|-0.214824|Welwyn Hatfield|england
-WID2|53.371193|-2.722289|Widnes Marzahn Way|england
-WID1|53.365391|-2.73168|Widnes Milton Road|england
-WIG7|53.549444|-2.638056|Wigan Centre PM10|england
-NEW3|51.514727|0.014554|Wren Close|england
-WYA4|51.624072|-0.75436|Wycombe Abbey 4|england
-WSTO|51.652503|-0.894158|Wycombe Stokenchurch|england
-YK10|53.967646|-1.086538|York Bootham|england
-YK11|53.951889|-1.075861|York Fishergate|england
-YK16|53.937787|-1.073861|York Fulford Road|england
-YK7|53.963805|-1.085679|York Gillygate|england
-YK13|53.965951|-1.070219|York Heworth Green|england
-YK8|53.954167|-1.094639|York Holgate|england
-YK9|53.954663|-1.068241|York Lawrence Street|england
-YK15|53.953411|-1.086275|York Nunnery Lane|england
-YK018|53.966432|-1.126061|York Plantation Drive|england
-BAR3|53.56292|-1.510436|Barnsley Gawber|england
-BPLE|51.074793|-4.041924|Barnstaple A39|england
-BATH|51.391127|-2.354155|Bath Roadside|england
-BIL|54.60537|-1.275039|Billingham|england
-BBRD|53.388511|-3.025014|Birkenhead Borough Road|england
-BIRR|52.47609|-1.875024|Birmingham A4540 Roadside|england
-AGRN|52.437165|-1.829999|Birmingham Acocks Green|england
-BIR1|52.511722|-1.830583|Birmingham Tyburn|england
-BLAR|53.747751|-2.452724|Blackburn Accrington Road|england
-BLC2|53.80489|-3.007175|Blackpool Marton|england
-BORN|50.73957|-1.826744|Bournemouth|england
-BDMA|53.771245|-1.759774|Bradford Mayo Avenue|england
-BRT3|50.840836|-0.147572|Brighton Preston Park|england
-BRS8|51.462839|-2.584482|Bristol St Paul's|england
-BURW|53.559029|-2.293772|Bury Whitefield Roadside|england
-CAM|52.20237|0.124456|Cambridge Roadside|england
-CANK|52.687298|-1.980821|Cannock A5190 Roadside|england
-CANT|51.27399|1.098061|Canterbury|england
-CARL|54.894834|-2.945307|Carlisle Roadside|england
-MACK|51.05625|-2.68345|Charlton Mackrell|england
-CHAT|51.374264|0.54797|Chatham Roadside|england
-CHLG|53.244131|-1.454946|Chesterfield Loundsley Green|england
-CHS7|53.231722|-1.456944|Chesterfield Roadside|england
-CHBO|51.149617|-1.438228|Chilbolton Observatory|england
-CHBR|50.735454|-1.780888|Christchurch Barrack Road|england
-COAL|52.411563|-1.560228|Coventry Allesley|england
-DCST|53.518868|-1.138073|Doncaster A630 Cleveland Street|england
-EB|50.805778|0.271611|Eastbourne|england
-EX|50.725083|-3.532465|Exeter Roadside|england
-GLAZ|53.46008|-2.472056|Glazebury|england
-HM|54.334944|-0.80855|High Muffles|england
-HONI|50.792287|-3.196702|Honiton|england
-HUL2|53.74878|-0.341222|Hull Freetown|england
-HULR|53.758971|-0.305749|Hull Holderness Road|england
-LB|53.40337|-1.752006|Ladybower|england
-LEAM|52.28881|-1.533119|Leamington Spa|england
-LEAR|52.294884|-1.542911|Leamington Spa Rugby Road|england
-LEED|53.80378|-1.546472|Leeds Centre|england
-LED6|53.819972|-1.576361|Leeds Headingley Kerbside|england
-LEIR|52.638677|-1.124228|Leicester A594 Roadside|england
-LECU|52.619823|-1.127311|Leicester University|england
-LEOM|52.22174|-2.736665|Leominster|england
-LIN3|53.221373|-0.534189|Lincoln Canwick Rd.|england
-LVP|53.34633|-2.844333|Liverpool Speke|england
-LH|50.7937|0.18125|Lullington Heath|england
-LUTR|51.892293|-0.46211|Luton A505 Roadside|england
-MAN3|53.48152|-2.237881|Manchester Piccadilly|england
-MAHG|53.371306|-2.239218|Manchester Sharston|england
-MKTH|52.554444|-0.772222|Market Harborough|england
-MID|54.569297|-1.220874|Middlesbrough|england
-NEWC|54.97825|-1.610528|Newcastle Centre|england
-NCA3|54.986405|-1.595362|Newcastle Cradlewell Roadside|england
-NTN3|52.271886|-0.879898|Northampton Kingsthorpe|england
-NO12|52.614193|1.301976|Norwich Lakenfields|england
-NOTT|52.95473|-1.146447|Nottingham Centre|england
-NWBV|52.969377|-1.188851|Nottingham Western Boulevard|england
-BOLD|52.502436|-2.003497|Oldbury Birmingham Road|england
-OX|51.751745|-1.257463|Oxford Centre Roadside|england
-OX8|51.744806|-1.260278|Oxford St Ebbes|england
-PLYM|50.37167|-4.142361|Plymouth Centre|england
-PMTH|50.82881|-1.068583|Portsmouth|england
-PRES|53.76559|-2.680353|Preston|england
-REA5|51.454896|-0.940382|Reading London Rd.|england
-ROCH|51.45617|0.634889|Rochester Stoke|england
-ECCL|53.48481|-2.334139|Salford Eccles|england
-SASH|50.411463|-4.227678|Saltash Callington Road|england
-SDY|52.132417|-0.300306|Sandy Roadside|england
-SCN2|53.58634|-0.636811|Scunthorpe Town|england
-CW|53.579283|-2.093786|Shaw Crompton Way|england
-SHBR|53.40495|-1.455815|Sheffield Barnsley Road|england
-SHDG|53.378622|-1.478096|Sheffield Devonshire Green|england
-SHE|53.41058|-1.396139|Sheffield Tinsley|england
-SIB|52.2944|1.463497|Sibton|england
-SA33|50.920265|-1.463484|Southampton A33|england
-SOUT|50.90814|-1.395778|Southampton Centre|england
-SEND|51.544206|0.678408|Southend-on-Sea|england
-SHLW|53.451826|-2.742134|St Helens Linkway|england
-OSY|51.77798|1.049031|St Osyth|england
-SOTR|54.565819|-1.3159|Stockton-on-Tees A1305 Roadside|england
-EAGL|54.516667|-1.358547|Stockton-on-Tees Eaglescliffe|england
-STKR|52.980436|-2.111898|Stoke-on-Trent A50 Roadside|england
-STOK|53.02821|-2.175133|Stoke-on-Trent Centre|england
-STOR|50.916932|-0.449548|Storrington Roadside|england
-SUN2|54.88361|-1.406878|Sunderland Silksworth|england
-SUNR|54.91839|-1.408391|Sunderland Wessington Way|england
-WAL4|52.605621|-2.030523|Walsall Woodlands|england
-WAR|53.38928|-2.615358|Warrington|england
-WEYB|52.95049|1.122017|Weybourne|england
-WFEN|52.2985|0.290917|Wicken Fen|england
-WSMR|53.365391|-2.73168|Widnes Milton Road|england
-WIG5|53.54914|-2.638139|Wigan Centre|england
-TRAN|53.37287|-3.022722|Wirral Tranmere|england
-WTHG|50.832947|-0.379916|Worthing A27 Roadside|england
-YW|50.5976|-3.71651|Yarner Wood|england
-YK10|53.967513|-1.086514|York Bootham|england
-17|45.071717|-64.479792|Kentville|nova_scotia
-3|45.07267|-64.84033|Aylesford|nova_scotia
-10|44.647175|-63.573689|Halifax Johnston|nova_scotia
-2|44.646347|-63.573569|Halifax Downtown|nova_scotia
-9|44.71969|-63.48162|Lake Major|nova_scotia
-4|45.682647|-62.69671|Pictou|nova_scotia
-5|46.142317|-60.172575|Sydney|nova_scotia
-8|45.614028|-61.362122|Port Hawkesbury|nova_scotia
-2|48.272553616|24.3585931271|Yasinia|zakarpattia
-8|48.0529841533|24.2051413236|Rakhiv|zakarpattia
-13|48.1081420517|24.2078813995|Terentyn|zakarpattia
-5|48.0588|24.4156|Luhy|zakarpattia
-26|47.968|24.0056|V. Bychkiv|zakarpattia
-27|48.004|24.1103|Kosivska Poliana|zakarpattia
-42|48.3087|24.2506|Drahobrat|zakarpattia
-48|47.9357|24.1738|Dilove|zakarpattia
-49|47.9372|23.8718|Solotvyno|zakarpattia
-18|48.12|22.82|Tisabech|zakarpattia
-19|48.0|22.5|Tivadar|zakarpattia
-20|48.41|22.2|Zakhon|zakarpattia
-21|48.11|22.31|Vasharoshnamen|zakarpattia
-22|47.79|22.71|Chenher|zakarpattia
-23|47.72|22.45|Aherdemaior|zakarpattia
-36|48.165|23.26|Khust|zakarpattia
-12|48.224037528|23.2413684455|Rokosovo|zakarpattia
-9|48.0050517748|23.5757464412|Tiachiv|zakarpattia
-4|48.18|23.25|Kryva|zakarpattia
-10|48.3301|23.9286|Ust-Chorna|zakarpattia
-17|48.24|24.05|Krasna|zakarpattia
-37|48.1144|23.7691|Nerestnytsia|zakarpattia
-39|48.715|23.38|N. Studenyi|zakarpattia
-40|48.6194|23.3307|Zalomysko|zakarpattia
-41|48.6723|23.563|Torun|zakarpattia
-34|48.6704|23.3381|Pylypets|zakarpattia
-35|48.5872|23.4446|Repynne|zakarpattia
-6|48.5269|23.5038|Mizhhiria|zakarpattia
-14|48.5|23.75|Kolochava retr.|zakarpattia
-3|48.4066|23.6756|Kolochava|zakarpattia
-1|48.3668608137|23.2857070769|Dovhe|zakarpattia
-28|48.26|22.85|Nyzhni Remety|zakarpattia
-31|48.6126|22.9632|Poliana|zakarpattia
-38|48.794|23.099|N. Vorota|zakarpattia
-15|48.7434083446|23.0209721955|Pidpolozzia|zakarpattia
-16|48.54|22.94|Svaliava|zakarpattia
-7|48.6666364069|23.1967980401|Plai|zakarpattia
-33|48.4431|22.7161|Mukachevo|zakarpattia
-46|48.45|22.25|Chop|zakarpattia
-43|48.7341|22.5148|Simer|zakarpattia
-44|48.77|22.5|Zarichevo|zakarpattia
-45|48.9053|22.5536|Yavornyk|zakarpattia
-11|48.6214|22.3|Uzhhorod|zakarpattia
-32|48.6988|22.7997|T. Poliana|zakarpattia
-29|48.8973|22.4651|V. Bereznyi|zakarpattia
-30|48.9894|22.6293|Zhornava|zakarpattia
-25|48.8586|22.6054|Chornoholova|zakarpattia
-33631|48.6332700965|22.2612241853|Uzhhorod|zakarpattia
-33514|48.8973|22.4651|V. Bereznyi|zakarpattia
-33634|48.217|22.633|Berehovo|zakarpattia
-33515|48.6675257518|23.1980875392|Plai|zakarpattia
-33638|48.165|23.26|Khust|zakarpattia
-33633|48.5269|23.5038|Mizhhiria|zakarpattia
-33647|48.0529841533|24.2051413236|Rakhiv|zakarpattia
-33517|48.794|23.099|N. Vorota|zakarpattia
-33518|48.712945435|23.3754595066|N. Studenyi|zakarpattia
 46|42.501528107|-92.3162044449|Waterloo, Water Tower|iowa
 4|41.8234469009|-90.2115603427|Clinton, Chancy Park|iowa
 3|41.8749559473|-90.1774342706|Clinton, Rainbow Park|iowa
@@ -1950,3 +1219,168 @@ teco|35.8483059361|-116.227419968|TecopaShoshone California|nevada
 tono|38.0603930881|-117.22047424|Tonopah Nevada|nevada
 twih|38.2037659396|-116.173957743|Twin Springs Nevada|nevada
 warm|38.1918388301|-116.417978319|Warm Springs Summit Nevada|nevada
+ATHENS|39.4421630667|-81.9088545373|ATHENS|ohio
+CANTON|40.8008234808|-81.3730227211|CANTON|ohio
+CINCI_NR|39.1460308244|-84.5383887687|CINCI_NR|ohio
+CLEVELAND_NR|41.4400630123|-81.4948349117|CLEVELAND_NR|ohio
+G_T_CRAIG|41.4921131809|-81.6784906668|G_T_CRAIG|ohio
+MENTOR|41.6670823594|-81.3391915568|MENTOR|ohio
+MORSE_RD|40.0601105878|-82.9770372444|MORSE_RD|ohio
+PATT_PARK|41.1064067762|-81.503572034|PATT_PARK|ohio
+PREBLE_NCORE|39.8356353786|-84.7205413196|PREBLE_NCORE|ohio
+SHADYSIDE|39.9677923255|-80.74793921|SHADYSIDE|ohio
+SMOKY ROW|40.1110894698|-83.0654187076|SMOKY ROW|ohio
+TAFT|39.12886|-84.50404|TAFT|ohio
+FRANKLIN|39.965232878|-82.9552221367|FRANKLIN|ohio
+ALLIANCE|40.9313450435|-81.1234889593|ALLIANCE|ohio
+BATAVIA|39.0828631548|-84.1441475509|BATAVIA|ohio
+BEREA_BOE|41.3614625432|-81.8644477827|BEREA_BOE|ohio
+BGREEN|41.3777056632|-83.6111127619|BGREEN|ohio
+BREWSTER|40.7127447929|-81.5983667958|BREWSTER|ohio
+CENTERBURG|40.3100631795|-82.691724|CENTERBURG|ohio
+CHIPPEWA|41.0605141999|-81.9239362992|CHIPPEWA|ohio
+COLERAIN|39.214879873|-84.6908036736|COLERAIN|ohio
+CONNEAUT|41.9597480545|-80.5728004898|CONNEAUT|ohio
+COOLEY|41.669001|-83.28717|COOLEY|ohio
+CRAWFORD_WOODS|41.377656823|-83.6111140136|CRAWFORD_WOODS|ohio
+DELAWARE|40.3568423354|-83.0636455586|DELAWARE|ohio
+DISTRICT|41.5552009367|-81.5751796465|DISTRICT|ohio
+EASTLAKE|41.6729592521|-81.422496306|EASTLAKE|ohio
+EASTWOOD|39.7856107628|-84.1343875238|EASTWOOD|ohio
+ELYRIA|41.4208791842|-82.0957427687|ELYRIA|ohio
+ERIE2|41.6440512924|-83.5462287211|ERIE2|ohio
+HEATH|40.0262191129|-82.4331662309|HEATH|ohio
+JFS|41.72681|-81.242196|JFS|ohio
+KINSMAN|41.4542490719|-80.591263809|KINSMAN|ohio
+LAKE_ROCKWELL|41.182466|-81.3304501974|LAKE_ROCKWELL|ohio
+LEBANON|39.427167487|-84.2003919873|LEBANON|ohio
+LIMA|40.7709648548|-84.0538799728|LIMA|ohio
+LONDON|39.78819|-83.47606|LONDON|ohio
+MAL_COLLEGE|40.8281069863|-81.3784769452|MAL_COLLEGE|ohio
+MAPLE_C|40.0877|-82.959773|MAPLE_C|ohio
+MARIETTA|39.4320889633|-81.4600925247|MARIETTA|ohio
+MAYFIELD|41.5370484954|-81.4586271435|MAYFIELD|ohio
+MIAMI_E|40.0845863914|-84.1136756474|MIAMI_E|ohio
+MIDD|39.5294322765|-84.393424211|MIDD|ohio
+MUD_RUN|39.8556584694|-83.9976361227|MUD_RUN|ohio
+NEW_ALBNY|40.0845|-82.81552|NEW_ALBNY|ohio
+NOTRE_DAME|41.5149665849|-81.2499135102|NOTRE_DAME|ohio
+OAKHILL|41.0963155649|-80.6587435378|OAKHILL|ohio
+ODOT|38.5080897482|-82.6592387619|ODOT|ohio
+PREBLE_CNTY|39.8356296116|-84.7204718504|PREBLE_CNTY|ohio
+SPRINGFIELD|40.0010108232|-83.8045499864|SPRINGFIELD|ohio
+STEUBEN|40.3664361852|-80.6157899728|STEUBEN|ohio
+SYCAMORE|39.2786961244|-84.3662802173|SYCAMORE|ohio
+TCSE|41.2404673503|-80.6626663744|TCSE|ohio
+WATERVILLE|41.4941970016|-83.7189680475|WATERVILLE|ohio
+WILGUS|38.6290178227|-82.45886|WILGUS|ohio
+WILMINGTON|39.4299281991|-83.7888336804|WILMINGTON|ohio
+XENIA|39.6657702342|-83.9427511159|XENIA|ohio
+AMANDA|39.47885|-84.40768|AMANDA|ohio
+BARR|41.463022224|-82.11419466|BARR|ohio
+EAST_HS|41.0634655995|-81.4688821498|EAST_HS|ohio
+FAIRGRNDS|40.0027071531|-82.9944202721|FAIRGRNDS|ohio
+HDSTART|41.0959625256|-80.6585183196|HDSTART|ohio
+LAIRD|41.2314136325|-80.8013407225|LAIRD|ohio
+SFIELD2|39.92882|-83.80949|SFIELD2|ohio
+SINCLAIR|39.7559499618|-84.1987751019|SINCLAIR|ohio
+WEST_UNION|38.7946787818|-83.5339950407|WEST_UNION|ohio
+Y_SPRINGS|39.8083323077|-83.8870924762|Y_SPRINGS|ohio
+YANKEE|39.4723693305|-84.3949499593|YANKEE|ohio
+E_LPOOL|40.6315487997|-80.5471697347|E_LPOOL|ohio
+HACKNEY|39.63232158|-81.6700274694|HACKNEY|ohio
+HARVARD_YARDS|41.4466285204|-81.6623426464|HARVARD_YARDS|ohio
+MADE|39.4647334613|-84.4036899864|MADE|ohio
+ST_THEODOS|41.4769481675|-81.6823329321|ST_THEODOS|ohio
+21-111-1041|38.2315992933|-85.8268100193|Louisville Police Firearms Training Center|louisville
+21-111-0067|38.228844132|-85.6544210675|Cannons Lane Air Monitoring Station|louisville
+21-185-0004|38.3989474326|-85.4431996698|KyDAQ Monitoring Station in Buckner - Seasonal Monitor|louisville
+21-111-0027|38.1378607574|-85.5764632026|Bates Elementary School|louisville
+21-111-0043|38.2331974524|-85.8156842701|Southwick Community Center|louisville
+21-029-0006|37.9861734108|-85.7119630092|KyDAQ Monitoring Station in Shepherdsville - Seasonal Monitor|louisville
+21-111-0075|38.1936441534|-85.7119491576|Durrett Lane Near Road Site (30m from I-264)|louisville
+21-111-0051|38.0608907846|-85.8980655434|Watson Lane Elementary School, Valley Station|louisville
+604|36.6972037468|-97.0812859525|Ponca City|oklahoma
+217|36.9081099957|-95.8823387347|Copan|oklahoma
+167|35.7931228318|-95.3022675441|Muskogee|oklahoma
+188|36.2257845903|-95.2649557387|Pryor|oklahoma
+170|35.7768790843|-95.286566221|Ft Gibson|oklahoma
+101|35.4792353858|-97.7514929864|Yukon|oklahoma
+049|35.320105|-97.484099|Moore|oklahoma
+144|36.1054627968|-96.3612160272|Mannford|oklahoma
+1073|35.159649|-97.473819034|Goldsby|oklahoma
+033|35.47754158|-97.4940261164|OKC|oklahoma
+096|35.4777724594|-97.3030590204|Choctaw|oklahoma
+415|34.8855936253|-95.7844262721|McAlester|oklahoma
+178|36.1337534756|-95.7645570272|Lynn Lane|oklahoma
+175|36.1498153463|-96.0117090611|Tulsa|oklahoma
+035|35.4728669928|-97.5268646944|OKC|oklahoma
+235|36.1269783634|-95.9989334898|Tulsa|oklahoma
+01|34.3154241541|-95.8894009864|McGee Creek|oklahoma
+174|35.9536694969|-96.004987517|Glenpool|oklahoma
+04|34.1032444009|-97.0707619253|Lake Murray|oklahoma
+06|34.734270573|-98.7094268778|Wichita Mtns|oklahoma
+860|36.1583958091|-98.9319417076|Seiling|oklahoma
+651|34.6329079064|-98.4287824898|Lawton North|oklahoma
+1037|35.614131|-97.475083|OKC|oklahoma
+179|36.1548380852|-96.0158349864|Tulsa Riverside|oklahoma
+1110|36.154369|-95.9379467415|Tulsa Turner Park|oklahoma
+856|35.5602514887|-98.6834574559|Weatherford|oklahoma
+065|34.87696|-97.70748|Bradley|oklahoma
+1127|36.2049252302|-95.9766095985|Tulsa|oklahoma
+097|35.5029571265|-97.577646034|OKC|oklahoma
+226|36.3558640322|-96.0124124762|Skiatook|oklahoma
+297|34.2441972231|-97.4629279316|Healdton|oklahoma
+555|36.5083614384|-97.8568198794|Kremlin|oklahoma
+671|34.2266027775|-98.035418966|Waurika|oklahoma
+300|33.8808390181|-97.2759260407|Burneyville|oklahoma
+380|33.9453763837|-96.405715966|Durant|oklahoma
+416|34.8294165493|-95.8436369932|Savanna|oklahoma
+Amanda|39.4788475037|-84.4076766968|Amanda|cincinnati
+Batavia|39.0828018188|-84.1440963745|Batavia|cincinnati
+Cinci Near Road|39.1460266113|-84.5383758545|Cinci Near Road|cincinnati
+Colerain|39.2149391174|-84.6908569336|Colerain|cincinnati
+Hamilton|39.3833732605|-84.5440826416|Hamilton|cincinnati
+Lebanon|39.4268913269|-84.2007675171|Lebanon|cincinnati
+Made|39.464717865|-84.4037704468|Made|cincinnati
+Middletown|39.5294799805|-84.3933639526|Middletown|cincinnati
+Sycamore|39.2787017822|-84.3661193848|Sycamore|cincinnati
+Taft|39.1288604736|-84.5040435791|Taft|cincinnati
+Yankee|39.4724349976|-84.3949508667|Yankee|cincinnati
+BIBE-KB|29.3026649965|-103.177860896|Big Bend K-Bar Ranch Road|gpmn_parks
+CANY-IS|38.4584882626|-109.821054939|Canyonlands Island in the Sky|gpmn_parks
+CAVE-MA|32.1792|-104.4417|Carlsbad Caverns Maintenance Area|gpmn_parks
+CHIR-ES|32.0094228923|-109.38907483|Chiricahua Entrance Station|gpmn_parks
+CRMO-VC|43.4621263307|-113.561754396|Craters of the Moon Visitor Center|gpmn_parks
+DEVA-PV|36.5089887258|-116.84790098|Death Valley Park Village|gpmn_parks
+DENA-HQ|63.7246684333|-148.957813078|Denali Headquarters|gpmn_parks
+DINO-WE|40.2907757983|-108.938766021|Dinosaur West Entrance Housing|gpmn_parks
+GLAC-WG|48.5102651723|-113.996864215|Glacier West Glacier Horse Stables|gpmn_parks
+GRCA-AS|36.0586395454|-112.183596894|Grand Canyon The Abyss|gpmn_parks
+GRTE-SS|43.6708507011|-110.599487619|Grand Teton Science School|gpmn_parks
+GRBA-MY|39.005154098|-114.216000272|Great Basin Maintenance Yard|gpmn_parks
+GRSM-CD|35.5622523104|-83.4973032945|Great Smoky Mountains Clingmans Dome|gpmn_parks
+GRSM-CM|35.6966735703|-83.6096864735|Great Smoky Mountains Cove Mountain|gpmn_parks
+GRSM-LR|35.6334214772|-83.941591675|Great Smoky Mountains Look Rock|gpmn_parks
+JOTR-BR|34.071679944|-116.390900407|Joshua Tree Black Rock|gpmn_parks
+JOTR-CC|33.7412852723|-115.820404735|Joshua Tree Cottonwood Canyon|gpmn_parks
+JOTR-PW|33.9398183821|-115.410850068|Joshua Tree Pinto Wells|gpmn_parks
+LAVO-ML|40.5401268766|-121.576855618|Lassen Volcanic Manzanita Lake Fire Station|gpmn_parks
+MACA-HM|37.1318231668|-86.147947503|Mammoth Cave Houchin Meadow|gpmn_parks
+MEVE-RM|37.1983957155|-108.490412653|Mesa Verde Resource Management Area|gpmn_parks
+MOJA-KM|35.1027970647|-115.776497225|Mojave Kelso Mountains|gpmn_parks
+PEFO-SE|34.8225123306|-109.892468271|Petrified Forest South Entrance|gpmn_parks
+PINN-ES|36.485|-121.1556|Pinnacles SW of East Entrance Station|gpmn_parks
+ROMO-LP|40.278141869|-105.545650475|Rocky Mountain Long’s Peak|gpmn_parks
+SEKI-AS|36.4894322023|-118.829127402|Sequoia and Kings Canyon Ash Mountain|gpmn_parks
+SHEN-BM|38.5228326194|-78.4349106753|Shenandoah Big Meadows|gpmn_parks
+VOYA-SB|48.4125529528|-92.8291812733|Voyageurs Sullivan Bay|gpmn_parks
+YELL-WT|44.5654406161|-110.400277062|Yellowstone Water Tank|gpmn_parks
+YOSE-TD|37.7132722745|-119.706022395|Yosemite Turtleback Dome|gpmn_parks
+ZION-DW|37.1983578281|-113.150730177|Zion Dalton’s Wash|gpmn_parks
+MEEK-PS|40.0038539775|-107.847570095|Meeker Plant Science Center|gpmn_parks
+RANG-GC|40.0869153222|-108.761542694|Rangely Golf Course|gpmn_parks
+ACAD-MH|44.3771124864|-68.2609334277|Acadia McFarland Hill|gpmn_parks
+GRSM-CC|35.6040361497|-83.7829322725|Great Smoky Mountains Cades Cove|gpmn_parks
+THRO-VC|46.894814615|-103.377734912|Theodore Roosevelt Painted Canyon Visitor Cntr|gpmn_parks
+WICA-VC|43.5575623447|-103.483713497|Wind Cave Visitor Center|gpmn_parks

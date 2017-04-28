@@ -32,20 +32,26 @@ class Map(Base):
     __tablename__ = 'scrapper_map'
 
     id = Column(Integer, primary_key=True)
+    data_time = Column(DateTime(timezone=True))
+    scrap_time = Column(DateTime(timezone=True))
+
     lon = Column(Float)
     lat = Column(Float)
+
     source = Column(String(250))
     source_id = Column(String(250))
+
     no2 = Column(Float)
     so2 = Column(Float)
     pm25 = Column(Float)
     pm10 = Column(Float)
     co = Column(Float)
+
     temp = Column(Float)
-    pressure = Column(Float)
-    humidity = Column(Float)
-    data_time = Column(DateTime(timezone=True))
-    scrap_time = Column(DateTime(timezone=True))
+    pres = Column(Float)
+    wd = Column(Float)
+    ws = Column(Float)
+    hum = Column(Float)
 
 
 class StationData(Base):

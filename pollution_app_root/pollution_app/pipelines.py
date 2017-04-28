@@ -9,8 +9,6 @@ from db_models import db_connect, Map, Station, StationData, WeatherStation, Wea
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
 
-
-
 class MainPipeline:
     def __init__(self):
         # pass
@@ -78,18 +76,29 @@ class MainPipeline:
             except KeyError:
                 pass
 
+            # weather
             try:
                 map_st.temp = item['data_value']['temp']
             except KeyError:
                 pass
 
             try:
-                map_st.humidity = item['data_value']['hum_rel']
+                map_st.ws = item['data_value']['ws']
             except KeyError:
                 pass
 
             try:
-                map_st.pressure = item['data_value']['pres']
+                map_st.wd = item['data_value']['wd']
+            except KeyError:
+                pass
+
+            try:
+                map_st.pres = item['data_value']['pres']
+            except KeyError:
+                pass
+
+            try:
+                map_st.hum = item['data_value']['hum']
             except KeyError:
                 pass
 

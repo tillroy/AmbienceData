@@ -47,6 +47,39 @@ def show_source():
         print(u"{0} sources.".format(len(sources)))
 
 
+def update_map_info():
+    conn = sqlite3.connect('station.db')
+    cursor = conn.cursor()
+
+    cursor.execute(u"""
+            SELECT source, country, spider, type
+            FROM station GROUP BY source, country, spider;
+            """)
+
+    sources = cursor.fetchall()
+    conn.close()
+
+    open(u"update_map_info.sql", "w").close()
+    for source in sources:
+        url = str(source[0])
+        country = str(source[1])
+        spider = str(source[2])
+        _type = str(source[3])
+
+        sql_str = u"""
+            UPDATE scrapper_map
+            SET country = '{country}', spider_name = '{spider_name}', spider_type = {spider_type}
+            WHERE spider = '{source}';
+            """.format(
+            country=country,
+            spider_name=spider,
+            spider_type=_type,
+            source=url
+        )
+        open(u"update_map_info.sql", "a").write(sql_str.encode("utf-8"))
+
+
+
 def make_csv(country):
     conn = sqlite3.connect('station.db')
     cursor = conn.cursor()
@@ -165,8 +198,8 @@ if __name__ == "__main__":
     # make_sql(u"texas", u"pollution", u"scrapper_station", u"scrapper_map")
 
     # make_sql(u"california", u"weather", u"scraper_current_weather_data")
-    # make_csv("%")
-
+    # make_csv("us")
+    update_map_info()
 
 
     # england scotland wales northern_ireland
