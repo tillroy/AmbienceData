@@ -62,13 +62,13 @@ def update_map_info():
     open(u"update_map_info.sql", "w").close()
     for source in sources:
         url = str(source[0])
-        country = str(source[1])
-        spider = str(source[2])
-        _type = str(source[3])
+        country = "'" + str(source[1]) + "'" if source[1] else "NULL"
+        spider = "'" + str(source[2]) + "'" if source[2] else "NULL"
+        _type = "'" + str(source[3]) + "'" if source[3] else "NULL"
 
         sql_str = u"""
             UPDATE scrapper_map
-            SET country = '{country}', spider_name = '{spider_name}', spider_type = {spider_type}
+            SET country = {country}, spider_name = {spider_name}, spider_type = {spider_type}
             WHERE spider = '{source}';
             """.format(
             country=country,
