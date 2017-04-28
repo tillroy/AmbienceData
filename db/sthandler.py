@@ -69,7 +69,7 @@ def update_map_info():
         sql_str = u"""
             UPDATE scrapper_map
             SET country = {country}, spider_name = {spider_name}, spider_type = {spider_type}
-            WHERE spider = '{source}';
+            WHERE source = '{source}';
             """.format(
             country=country,
             spider_name=spider,
