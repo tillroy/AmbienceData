@@ -48,10 +48,10 @@ class Map(Base):
     co = Column(Float)
 
     temp = Column(Float)
-    pres = Column(Float)
+    pressure = Column(Float)
     wd = Column(Float)
     ws = Column(Float)
-    hum = Column(Float)
+    humidity = Column(Float)
 
 
 class StationData(Base):

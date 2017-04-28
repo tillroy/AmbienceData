@@ -93,12 +93,12 @@ class MainPipeline:
                 pass
 
             try:
-                map_st.pres = item['data_value']['pres']
+                map_st.pressure = item['data_value']['pres']
             except KeyError:
                 pass
 
             try:
-                map_st.hum = item['data_value']['hum']
+                map_st.humidity = item['data_value']['hum']
             except KeyError:
                 pass
 

@@ -21,12 +21,12 @@ DOWNLOAD_TIMEOUT = 60
 
 DATABASE = {
     'drivername': 'postgres',
-    'host': 'localhost',
-    # 'host': '107.170.254.113',
+    # 'host': 'localhost',
+    'host': '107.170.254.113',
     'port': '5432',
     'username': 'postgres',
-    # 'password': 'tes2wSf4',
-    'password': 'postgres',
+    'password': 'tes2wSf4',
+    # 'password': 'postgres',
     'database': 'ambiencedata'
 }
 
@@ -35,7 +35,7 @@ DOWNLOAD_HANDLERS = {
     's3': None
 }
 
-# ITEM_PIPELINES = {'pollution_app.pipelines.MainPipeline': 300}
+ITEM_PIPELINES = {'pollution_app.pipelines.MainPipeline': 300}
 # ITEM_PIPELINES = {'pollution_app.pipelines.WeatherPipeline': 300}
 # ITEM_PIPELINES = {'pollution_app.pipelines.CassandraPipeline': 300}
 
