@@ -66,7 +66,7 @@ class AlaskaSpider(Spider):
             if pollutant.get_name() is not None and pollutant.get_value() is not None and record[3] == current_data_time:
                 station_data[pollutant.get_name()] = pollutant.get_value()
 
-        if station_data:
+        if station_data and current_data_time:
             items = AppItem()
             items[u"scrap_time"] = datetime.now(tz=timezone(SCRAPER_TIMEZONE))
             items[u"data_time"] = current_data_time

@@ -48,7 +48,7 @@ class Feature(object):
         self.raw_value = None
         self.raw_units = None
 
-        # converted and vakidated
+        # converted and validated
         self.valid_value = None
         self.valid_name = None
         self.valid_units = None

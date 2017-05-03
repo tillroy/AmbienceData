@@ -142,10 +142,12 @@ class ArkansasSpider(Spider):
                         station_data[pollutant.get_name()] = pollutant.get_value()
 
                 # print(station_data)
-                if station_data:
+                data_time = pd.to_datetime(current_data_time).replace(tzinfo=timezone(self.tz))
+
+                if station_data and data_time:
                     items = AppItem()
                     items[u"scrap_time"] = datetime.now(tz=timezone(SCRAPER_TIMEZONE))
-                    items[u"data_time"] = pd.to_datetime(current_data_time).replace(tzinfo=timezone(self.tz))
+                    items[u"data_time"] = data_time
                     items[u"data_value"] = station_data
                     items[u"source"] = self.source
                     items[u"source_id"] = station_id

@@ -32,7 +32,7 @@ class MontanaSpider(Spider):
         href = u"http://svc.mt.gov/deq/todaysair/AirDataDisplay.aspx?siteAcronym={station_id}&targetDate={mm}/{dd}/{yyyy}"
         codes = (u"SL", u"BI", u"BH", u"BD", u"BN", u"FV", u"FT", u"OP", u"PS", u"RP", u"LB", u"ML", u"MS", u"SE",
                  u"OF", u"TF", u"PE", u"LT")
-        # codes = (u"SL",)
+        codes = (u"SL",)
         for code_value in codes:
             url = href.format(station_id=code_value, mm=cor_date.month, dd=cor_date.day, yyyy=cor_date.year)
             yield Request(
@@ -43,7 +43,7 @@ class MontanaSpider(Spider):
 
     def get_station_data(self, resp):
         raw_record = resp.xpath(u"//*[@id='ContentPlaceHolder1_tablebody']/tr[last()]/td")
-        hour = raw_record[0].xpath(u"./text()").re(u"(\d?\d:\d\d)-")[0]
+        hour = raw_record[0].xpath(u"./text()").re(u"-(\d?\d:\d\d)")[0]
 
         pollutant_value = raw_record[1].xpath(u"./text()").extract_first()
         # only one pollutant
@@ -52,7 +52,7 @@ class MontanaSpider(Spider):
 
         cor_date = resp.meta["date"].strftime("%d-%m-%Y")
         raw_data_time = " ".join((cor_date, hour))
-        date_time = parser.parse(raw_data_time).replace(tzinfo=timezone(self.tz))
+        date_time = parser.parse(raw_data_time, dayfirst=True).replace(tzinfo=timezone(self.tz))
 
         # print(date_time, hour, pollutant_value)
 

@@ -35,7 +35,7 @@ DOWNLOAD_HANDLERS = {
     's3': None
 }
 
-ITEM_PIPELINES = {'pollution_app.pipelines.MainPipeline': 300}
+# ITEM_PIPELINES = {'pollution_app.pipelines.MainPipeline': 300}
 # ITEM_PIPELINES = {'pollution_app.pipelines.WeatherPipeline': 300}
 # ITEM_PIPELINES = {'pollution_app.pipelines.CassandraPipeline': 300}
 
