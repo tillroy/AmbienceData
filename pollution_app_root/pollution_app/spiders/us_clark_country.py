@@ -70,7 +70,7 @@ class ClarkCountrySpider(Spider):
 
         data_time = resp.xpath(u'//*[@id="meteostar_wrapper"]/p[5]/b/text()').extract_first()
         data_time = u" ".join((data_time, hour))
-        data_time = parser.parse(data_time).replace(tzinfo=timezone(self.tz))
+        data_time = parser.parse(data_time, dayfirst=True).replace(tzinfo=timezone(self.tz))
 
         units = {
             u"o3": u"ppb",

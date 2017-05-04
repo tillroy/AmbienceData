@@ -15,7 +15,7 @@ from pollution_app.settings import SCRAPER_TIMEZONE
 
 
 class CaliforniaSpider(Spider):
-    name = u"us_california"
+    name = u"us_california_pollution"
     source = u"https://www.arb.ca.gov"
     tz = u"US/Pacific"
 
@@ -49,7 +49,7 @@ class CaliforniaSpider(Spider):
                  u"80128", u"80132", u"80133", u"80135", u"80136", u"80140", u"80142", u"80143", u"80198", u"80201",
                  u"90306")
         # codes = (u"90306", u"80128",)
-        # codes = (u"80128",)
+        codes = (u"80128",)
 
         href = u"https://www.arb.ca.gov/qaweb/site.php?"
 
@@ -62,14 +62,33 @@ class CaliforniaSpider(Spider):
                 meta={u"code": code_value}
             )
 
+    @staticmethod
+    def validate_url(url):
+        try:
+            res = url.split("loc_url=")[1]
+            res = res.replace("%2F", "/")
+            res = res.replace("%3A", ":")
+            res = res.replace("%3F", "?")
+            res = res.replace("%3D", "=")
+            res = res.replace("%26", "&")
+
+            res = res.replace("http://", "https://")
+            return res
+        except IndexError:
+            return None
+
     def get_station_url(self, resp):
 
         t = resp.xpath(u'//*[@id="content_area"]').extract()[0]
         all_tables = re.findall(u"<table.*?>(.*?)<\/?table>", t, re.DOTALL)
         raw_rows = re.findall(u"<td.*?>(.+?)<\/td", all_tables[2], re.DOTALL)
         hrefs = re.findall(u"<a href=\"(.+?)\"", raw_rows[0], re.DOTALL)
-        base = u"https://www.arb.ca.gov/qaweb/"
-        raw_links = [urljoin(base, href) for href in hrefs]
+        # base = u"https://www.arb.ca.gov/qaweb/"
+        # raw_links = [urljoin(base, href) for href in hrefs]
+        raw_links = [self.validate_url(el) for el in hrefs]
+        print("")
+        print(raw_links)
+        print("")
 
         # print(resp.url)
 
@@ -79,8 +98,10 @@ class CaliforniaSpider(Spider):
         # this link redirected to the correct one.
         return Request(
             # start from last
-            url=raw_links.pop(),
-            callback=self.get_station_suburl,
+            # url=raw_links.pop(),
+            url=raw_links[0],
+            # callback=self.get_station_suburl,
+            callback=self.get_test,
             meta={
                 u"raw_links": raw_links,
                 u"links": list(),
@@ -109,8 +130,12 @@ class CaliforniaSpider(Spider):
                 }
             )
         except IndexError:
-            # print("LINKS", resp.meta[u"links"])
+            print("")
+            resp.meta[u"links"] = [el.replace("http://", "https://") for el in resp.meta[u"links"]]
+            print("LINKS", resp.meta[u"links"])
 
+            print("")
+            print(resp.meta[u"links"].pop())
             return Request(
                 # start from last
                 url=resp.meta[u"links"].pop(),
@@ -122,14 +147,21 @@ class CaliforniaSpider(Spider):
                 }
             )
 
+    def get_test(self, resp):
+        print("")
+        print("TEST")
+        print(resp.url)
+
+
     def get_station_data(self, resp):
-        # print("LINKS", resp.url)
+        print("")
+        print("LINKS", resp.url)
+        print("")
 
         try:
             pollutant_name = url_query_parameter(resp.url, u"param")
             unit = None
 
-            # print("POLLUTANT_NAME", pollutant_name)
             raw_data = resp.xpath(u".//*[@id='graph']/table/tr[1]/td").extract_first()
 
             try:

@@ -35,7 +35,7 @@ DOWNLOAD_HANDLERS = {
     's3': None
 }
 
-# ITEM_PIPELINES = {'pollution_app.pipelines.MainPipeline': 300}
+ITEM_PIPELINES = {'pollution_app.pipelines.MainPipeline': 300}
 # ITEM_PIPELINES = {'pollution_app.pipelines.WeatherPipeline': 300}
 # ITEM_PIPELINES = {'pollution_app.pipelines.CassandraPipeline': 300}
 
@@ -59,7 +59,7 @@ DOWNLOADER_MIDDLEWARES = {
     'scrapy_splash.SplashMiddleware': 725,
     'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware': 810,
 }
-#
+
 SPIDER_MIDDLEWARES = {
     'scrapy_splash.SplashDeduplicateArgsMiddleware': 100,
 }
@@ -81,7 +81,7 @@ USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Ge
 #CONCURRENT_REQUESTS_PER_IP=16
 
 # Disable cookies (enabled by default)
-#COOKIES_ENABLED=False
+# COOKIES_ENABLED=False
 
 # Disable Telnet Console (enabled by default)
 #TELNETCONSOLE_ENABLED=False
@@ -116,11 +116,11 @@ USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Ge
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See http://doc.scrapy.org/en/latest/topics/autothrottle.html
 # NOTE: AutoThrottle will honour the standard settings for concurrency and delay
-#AUTOTHROTTLE_ENABLED=True
+AUTOTHROTTLE_ENABLED = True
 # The initial download delay
-#AUTOTHROTTLE_START_DELAY=5
+AUTOTHROTTLE_START_DELAY = 5
 # The maximum download delay to be set in case of high latencies
-#AUTOTHROTTLE_MAX_DELAY=60
+AUTOTHROTTLE_MAX_DELAY = 60
 # Enable showing throttling stats for every response received:
 #AUTOTHROTTLE_DEBUG=False
 

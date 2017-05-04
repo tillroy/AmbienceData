@@ -32,7 +32,7 @@ class MontanaSpider(Spider):
         href = u"http://svc.mt.gov/deq/todaysair/AirDataDisplay.aspx?siteAcronym={station_id}&targetDate={mm}/{dd}/{yyyy}"
         codes = (u"SL", u"BI", u"BH", u"BD", u"BN", u"FV", u"FT", u"OP", u"PS", u"RP", u"LB", u"ML", u"MS", u"SE",
                  u"OF", u"TF", u"PE", u"LT")
-        codes = (u"SL",)
+        # codes = (u"SL",)
         for code_value in codes:
             url = href.format(station_id=code_value, mm=cor_date.month, dd=cor_date.day, yyyy=cor_date.year)
             yield Request(
@@ -64,6 +64,7 @@ class MontanaSpider(Spider):
         pollutant.set_raw_name(pollutant_name)
         pollutant.set_raw_value(pollutant_value)
         pollutant.set_raw_units(pollutant_units)
+
         if pollutant.get_name() is not None and pollutant.get_value() is not None:
             station_data[pollutant.get_name()] = pollutant.get_value()
 

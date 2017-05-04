@@ -5,6 +5,8 @@ from datetime import datetime
 from scrapy import Spider, Request
 from dateutil import parser
 from pytz import timezone
+import numpy as np
+import pandas as pd
 
 from pollution_app.feature import Feature
 from pollution_app.items import AppItem
@@ -164,6 +166,14 @@ class TexasSpider(Spider):
             hours = [u"{0}:00".format(x) for x in new_hours]
             return hours
 
+    @staticmethod
+    def coerce_float(dig):
+        try:
+            res = float(dig)
+            return res
+        except ValueError:
+            return np.nan
+
     def get_station_data(self, resp):
         raw_table = resp.xpath(u"//*[@id='meteostar_wrapper']/div[3]/table/tr")[2:-3]
 
@@ -174,11 +184,7 @@ class TexasSpider(Spider):
 
         pollutants_hour = resp.xpath(u"//*[@id='meteostar_wrapper']/div[3]/table/tr[2]/th/text()").extract()
         pollutants_hour = self.validate_hours(pollutants_hour)
-        hour = pollutants_hour[len(pollutants_hour) - 2] if len(pollutants_hour) > 1 else pollutants_hour[0]
-
-        data_time = u" ".join((month, day, year, hour))
-        data_time = parser.parse(data_time).replace(tzinfo=timezone(self.tz))
-        # print(data_time)
+        data_times = [parser.parse(u" ".join((month, day, year, hour))) for hour in pollutants_hour]
 
         units = {
             u"o3": u"ppb",
@@ -199,39 +205,58 @@ class TexasSpider(Spider):
         }
 
         station_data = dict()
+        table = list()
         for row in raw_table:
             try:
                 pollutant_name = row.xpath(u"td[1]/a/b/text()").extract()[0]
             except IndexError:
                 pollutant_name = None
 
-            pollutants_data = row.xpath(u"td[last()-3]").re(u">(\d+?)<|>(\d+?\.\d+)<")
-            pollutant_value = [el for el in pollutants_data if el != u""]
-            pollutant_value = pollutant_value[0] if pollutant_value else None
+            pollutants_data = row.xpath(u"td")[1:-2]
+            pollutants_data = ["".join(el.xpath(u".//text()").extract()) for el in pollutants_data]
+            pollutants_data = map(self.coerce_float, pollutants_data)
 
-            pollutant = Feature(self.name)
-            pollutant.set_source(self.source)
-            pollutant.set_raw_name(pollutant_name)
-            pollutant.set_raw_value(pollutant_value)
-            # print("RAW", pollutant_name, pollutant_value)
-            try:
-                pollutant.set_raw_units(units[pollutant.get_name()])
-            except KeyError:
-                print(u"There is no such pollutant in local units list <<<<<<<<{0}>>>>>>".format(pollutant.get_name()))
+            print(pollutants_data)
+            print(pollutants_hour)
 
-            # print("answare", pollutant.get_name(), pollutant.get_value(), pollutant.get_units())
+            records = list()
+            for el in zip([pollutant_name] * len(data_times), pollutants_data, data_times):
+                pollutant = Feature(self.name)
+                pollutant.set_source(self.source)
+                pollutant.set_raw_name(el[0])
+                pollutant.set_raw_value(el[1])
+                pollutant.set_raw_units(units.get(pollutant.get_name()))
 
-            if pollutant.get_name() is not None and pollutant.get_value() is not None:
-                station_data[pollutant.get_name()] = pollutant.get_value()
+                res = {
+                    "name": pollutant.get_name(),
+                    "value": pollutant.get_value(),
+                    "date": el[2],
+                    "unit": pollutant.get_units()
+                }
+                records.append(res)
 
-        print(station_data)
+            table.extend(records)
+
+        df = pd.DataFrame(table)
+        df["value"] = df["value"].astype(float)
+        df = df.dropna(axis=0)
+        # print(df)
+
+        current_data_time = df["date"].max()
+        current_data = df[df["date"] == current_data_time]
+
+        print(current_data)
+
+        station_data = dict()
+        for el in current_data[["name", "value"]].itertuples(index=False):
+            station_data[el[0]] = el[1]
 
         if station_data:
             items = AppItem()
             items[u"scrap_time"] = datetime.now(tz=timezone(SCRAPER_TIMEZONE))
-            items[u"data_time"] = data_time
+            items[u"data_time"] = pd.to_datetime(current_data_time).replace(tzinfo=timezone(self.tz))
             items[u"data_value"] = station_data
             items[u"source"] = self.source
             items[u"source_id"] = resp.meta[u"code"]
-        #
+
             yield items

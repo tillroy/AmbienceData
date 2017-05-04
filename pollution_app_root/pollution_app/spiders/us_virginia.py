@@ -20,7 +20,7 @@ class VirginiaSpider(Spider):
     def start_requests(self):
         codes = (u"28", u"10", u"17", u"25", u"26", u"24", u"13", u"14", u"18", u"19", u"37", u"30", u"31", u"34",
                  u"35", u"11", u"12", u"15", u"16", u"20", u"21", u"23", u"27", u"39")
-        # codes = (u"11",)
+        # codes = (u"35",)
 
         url = u"http://vadeq.tx.sutron.com/cgi-bin/daily_summary.pl?"
 
@@ -70,7 +70,7 @@ class VirginiaSpider(Spider):
 
         data_time = resp.xpath(u'//*[@id="meteostar_wrapper"]/p[5]/b/text()').extract_first()
         data_time = u" ".join((data_time, hour))
-        data_time = parser.parse(data_time).replace(tzinfo=timezone(self.tz))
+        data_time = parser.parse(data_time, dayfirst=True).replace(tzinfo=timezone(self.tz))
 
         units = {
             u"o3": u"ppb",

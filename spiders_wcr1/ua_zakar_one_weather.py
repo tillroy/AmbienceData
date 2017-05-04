@@ -20,6 +20,10 @@ class ZakarOneSpider(Spider):
     source = u"http://www.gmc.uzhgorod.ua"
     tz = u"EET"
 
+    custom_settings = {
+        "ITEM_PIPELINES": {'pollution_app.pipelines.WeatherPipeline': 300}
+    }
+
     def start_requests(self):
         codes = (u"33631", u"33514", u"33634", u"33515", u"33638", u"33633", u"33647", u"33517", u"33518")
         # codes = (u"33631",)
@@ -52,7 +56,7 @@ class ZakarOneSpider(Spider):
         raw_data = df.iloc[0].to_dict()
         raw_data_time = raw_data.pop(u"Дата і час", None)
 
-        data_time = parser.parse(raw_data_time).replace(tzinfo=timezone(self.tz))
+        data_time = parser.parse(raw_data_time, dayfirst=True).replace(tzinfo=timezone(self.tz))
 
         data = raw_data
         units = {

@@ -48,7 +48,7 @@ class WisconsinSpider(Spider):
 
         hour = latest_data.columns[-1]
         raw_data_time = u"{0} {1}:00".format(str_date, hour)
-        data_time = parser.parse(raw_data_time).replace(tzinfo=timezone(self.tz))
+        data_time = parser.parse(raw_data_time, dayfirst=True).replace(tzinfo=timezone(self.tz))
 
         grouped = latest_data.groupby(by=u"Site")
 
