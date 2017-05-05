@@ -4,6 +4,7 @@ import random
 
 
 class RandomRequest(Request):
+    """Add random User-Agent header for each request"""
     user_agents = (
     "Mozilla/5.0 (compatible; U; ABrowse 0.6;  Syllable) AppleWebKit/420+ (KHTML, like Gecko)",
     "Mozilla/5.0 (compatible; ABrowse 0.4; Syllable)",
