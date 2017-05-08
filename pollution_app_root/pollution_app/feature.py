@@ -314,7 +314,9 @@ class Feature(object):
         }
 
         self.current_units = {
-            (u"ppm", u"PPM", u"(PPM)", u"Parts per million", u"parts per million"): u"ppm",
+            (
+                u"ppm", u"PPM", u"(PPM)", u"Parts per million", u"parts per million",
+                u"Parts Per Million ( ppm )"): u"ppm",
             (u"ppb", u"PPB", u"(PPB)", u"Parts per billion", u"parts per billion"): u"ppb",
             (u"in Hg", u"inHg", u"in HG", u"(INHG)", u"IN-HG", u"in. Hg.", u"Inches (mercury)"): u"inhg",
             (u"mmHg",): u"mmhg",
