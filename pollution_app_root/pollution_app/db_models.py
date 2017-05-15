@@ -10,8 +10,11 @@ import settings
 Base = declarative_base()
 
 
-def db_connect():
-    return create_engine(URL(**settings.DATABASE))
+def db_connect(db_set=None):
+    if db_set is None:
+        db_set = settings.DATABASE
+
+    return create_engine(URL(**db_set))
 
 
 class Station(Base):
@@ -28,7 +31,39 @@ class Station(Base):
     data_value = Column(JSON)
 
 
+class Data24hr(Base):
+    __tablename__ = 'scraper_data_24hr'
+
+    id = Column(Integer, primary_key=True)
+    source = Column(String(250))
+    source_id = Column(String(250))
+    station_name = Column(String(250))
+    address = Column(String(250))
+    country = Column(String(3))
+    spider_name = Column(String(3))
+    spider_type = Column(String(3))
+
+    lon = Column(Float)
+    lat = Column(Float)
+
+    data_time = Column(DateTime(timezone=True))
+    scrap_time = Column(DateTime(timezone=True))
+
+    no2 = Column(Float)
+    so2 = Column(Float)
+    pm25 = Column(Float)
+    pm10 = Column(Float)
+    co = Column(Float)
+
+    temperature = Column(Float)
+    pressure = Column(Float)
+    humidity = Column(Float)
+    wd = Column(Float)
+    ws = Column(Float)
+
+
 class Map(Base):
+    """Deprecated"""
     __tablename__ = 'scrapper_map'
 
     id = Column(Integer, primary_key=True)

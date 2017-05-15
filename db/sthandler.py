@@ -79,7 +79,6 @@ def update_map_info():
         open(u"update_map_info.sql", "a").write(sql_str.encode("utf-8"))
 
 
-
 def make_csv(country):
     conn = sqlite3.connect('station.db')
     cursor = conn.cursor()
@@ -159,7 +158,7 @@ def make_sql(spider_name, spider_type, *args):
             source = record[5]
 
             sql_str = u"""
-                INSERT INTO {db_name}(lon, lat, address, source_id, st_name, source)
+                INSERT INTO {db_name}(lon, lat, address, c, st_name, source)
                 VALUES({lon},{lat},'{address}','{code}','{name}', '{source}');
             """.format(
                 db_name=db_name,
@@ -199,7 +198,7 @@ if __name__ == "__main__":
 
     # make_sql(u"california", u"weather", u"scraper_current_weather_data")
     # make_csv("us")
-    update_map_info()
+    # update_map_info()
 
 
     # england scotland wales northern_ireland
