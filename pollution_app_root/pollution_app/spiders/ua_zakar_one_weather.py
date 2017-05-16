@@ -20,13 +20,13 @@ class ZakarOneSpider(Spider):
     source = u"http://www.gmc.uzhgorod.ua"
     tz = u"EET"
 
-    custom_settings = {
-        "ITEM_PIPELINES": {'pollution_app.pipelines.WeatherPipeline': 300}
-    }
+    # custom_settings = {
+    #     "ITEM_PIPELINES": {'pollution_app.pipelines.WeatherPipeline': 300}
+    # }
 
     def start_requests(self):
         codes = (u"33631", u"33514", u"33634", u"33515", u"33638", u"33633", u"33647", u"33517", u"33518")
-        # codes = (u"33631",)
+        codes = (u"33631",)
 
         href = u"http://www.gmc.uzhgorod.ua/metdata1.php?"
 

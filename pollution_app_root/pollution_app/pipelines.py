@@ -6,7 +6,7 @@ from sqlalchemy.orm import sessionmaker
 from sqlalchemy import and_
 
 from db_models import db_connect, Map, Station, StationData, WeatherStation, WeatherData, CurrentWeatherData, Data24hr
-from settings import SQLITE_STATION_DATA_PATH
+from settings import SQLITE_STATION_DATA_PATH, SCRAPER_DATABASE, AMBIENCE_DATABASE
 
 # Define your item pipelines here
 #
@@ -42,20 +42,12 @@ class DataPipeline(object):
     def open_spider(self, spider):
         self.station = StationsData()
 
-        self.anbiencedataSession = sessionmaker(bind=db_connect())
+        self.ambienceSession = sessionmaker(bind=db_connect(AMBIENCE_DATABASE))
         # scraper data base session
-        SCRAPER_DATABASE = {
-            'drivername': 'postgres',
-            'host': 'localhost',
-            'port': '5432',
-            'username': 'postgres',
-            'password': 'postgres',
-            'database': 'ambiencedata'
-        }
-        self.scraperSession = sessionmaker(bind=db_connect(SCRAPER_DATABASE))
+
         self.scraperSession = sessionmaker(bind=db_connect(SCRAPER_DATABASE))
 
-        self.amb_session = self.anbiencedataSession()
+        self.amb_session = self.ambienceSession()
         self.scraper_session = self.scraperSession()
 
     def close_spider(self, spider):
@@ -65,10 +57,12 @@ class DataPipeline(object):
         self.scraper_session.close()
 
     def insert_all_daily_data(self, item):
-        if item.get("source_if") is not None and item.get("source") is not None:
-            station_data = self.station.get_station(item.get("source_if"), item.get("source"))
+        if item.get("source_id") is not None and item.get("source") is not None:
+            station_data = self.station.get_station(item.get("source_id"), item.get("source"))
         else:
             station_data = None
+
+        print(station_data)
 
         map_st = Data24hr()
 
@@ -82,11 +76,11 @@ class DataPipeline(object):
                 if source is not None:
                     map_st.source = source
 
-                source_id = station_data.get("source_id")
+                source_id = station_data.get("code")
                 if source_id is not None:
                     map_st.source_id = source_id
 
-                station_name = station_data.get("station_name")
+                station_name = station_data.get("name")
                 if station_name is not None:
                     map_st.station_name = station_name
 
@@ -98,11 +92,11 @@ class DataPipeline(object):
                 if country is not None:
                     map_st.country = country
 
-                spider_name = station_data.get("spider_name")
+                spider_name = station_data.get("spider")
                 if spider_name is not None:
                     map_st.spider_name = spider_name
 
-                spider_type = station_data.get("spider_type")
+                spider_type = station_data.get("type")
                 if spider_type is not None:
                     map_st.spider_type = spider_type
 
@@ -124,50 +118,50 @@ class DataPipeline(object):
                 map_st.scrap_time = scrap_time
 
             # pollution data
-            no2 = item.get("no2")
+            no2 = data_value.get("no2")
             if no2 is not None:
                 map_st.no2 = no2
 
-            so2 = item.get("so2")
+            so2 = data_value.get("so2")
             if so2 is not None:
                 map_st.so2 = so2
 
-            pm25 = item.get("pm25")
+            pm25 = data_value.get("pm25")
             if pm25 is not None:
                 map_st.pm25 = pm25
 
-            pm10 = item.get("pm10")
+            pm10 = data_value.get("pm10")
             if pm10 is not None:
                 map_st.pm10 = pm10
 
-            co = item.get("co")
+            co = data_value.get("co")
             if co is not None:
                 map_st.co = co
 
             # weather
-            temperature = item.get("temperature")
+            temperature = data_value.get("temp")
             if temperature is not None:
                 map_st.temperature = temperature
 
-            pressure = item.get("pressure")
+            pressure = data_value.get("pres")
             if pressure is not None:
                 map_st.pressure = pressure
 
-            humidity = item.get("humidity")
+            humidity = data_value.get("hum")
             if humidity is not None:
                 map_st.humidity = humidity
 
-            ws = item.get("ws")
+            ws = data_value.get("ws")
             if ws is not None:
                 map_st.ws = ws
 
-            wd = item.get("wd")
+            wd = data_value.get("wd")
             if wd is not None:
                 map_st.wd = wd
 
         return map_st
 
-    def insert_archive_data(self, item):
+    def insert_pollution_archive_data(self, item):
         # get station_id
         station = self.amb_session.query(Station).filter(and_(Station.source_id == item['source_id'], Station.source == item['source'])).one()
 
@@ -179,21 +173,46 @@ class DataPipeline(object):
 
         return station_data
 
-    def proces_items(self, item, spider):
+    @staticmethod
+    def insert_weather_data(item):
+        station_data = WeatherData()
+        station_data.st_id = item['source_id']
+        station_data.source = item['source']
+
+        station_data.data = item['data_value']
+        station_data.data_time = item['data_time']
+        station_data.scrap_time = item['scrap_time']
+
+        return station_data
+
+    def process_item(self, item, spider):
         try:
             # INFO insert into STATION ARCHIVE
 
-            self.amb_session.add(self.insert_archive_data(item))
+            self.amb_session.add(self.insert_pollution_archive_data(item))
             self.amb_session.commit()
 
+        except Exception as e:
+            self.amb_session.rollback()
+            print(e)
+
+        try:
             # INFO insert data to the daily table
-            self.scraper_session.add(self.insert_all_daily_data(item))
+            all_data = self.insert_all_daily_data(item)
+            self.scraper_session.add(all_data)
+            self.scraper_session.commit()
+        except Exception as e:
+            self.scraper_session.rollback()
+            print(e)
+
+        try:
+            # INFO insert weather data
+            self.scraper_session.add(self.insert_weather_data(item))
             self.scraper_session.commit()
 
-        except:
-            self.amb_session.rollback()
+        except Exception as e:
             self.scraper_session.rollback()
-            raise
+            print(e)
 
         return item
 

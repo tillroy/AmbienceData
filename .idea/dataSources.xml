@@ -10,5 +10,11 @@
         <property name="enable_load_extension" value="true" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="ambiencedata@104.130.14.6" uuid="9d9bbaf2-bbf6-404e-bff8-3b6733e40d39">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://104.130.14.6:5432/ambiencedata</jdbc-url>
+    </data-source>
   </component>
 </project>

@@ -20,9 +20,9 @@ class ZakarTwoSpider(Spider):
     source = u"http://www.gmc.uzhgorod.ua"
     tz = u"EET"
 
-    custom_settings = {
-        "ITEM_PIPELINES": {'pollution_app.pipelines.WeatherPipeline': 300}
-    }
+    # custom_settings = {
+    #     "ITEM_PIPELINES": {'pollution_app.pipelines.WeatherPipeline': 300}
+    # }
 
     def start_requests(self):
         codes = (u"2", u"8", u"13", u"5", u"26", u"27", u"42", u"48", u"49", u"18", u"19", u"20", u"21", u"22", u"23",
