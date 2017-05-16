@@ -6,6 +6,7 @@ from sqlalchemy.orm import sessionmaker
 from sqlalchemy import and_
 
 from db_models import db_connect, Map, Station, StationData, WeatherStation, WeatherData, CurrentWeatherData, Data24hr
+from settings import SQLITE_STATION_DATA_PATH
 
 # Define your item pipelines here
 #
@@ -17,7 +18,7 @@ class StationsData(object):
     """SQLite database for station data, their location etc."""
 
     def __init__(self):
-        self.conn = sqlite3.connect('/mnt/hdd/pycharm_projects/AmbienceData/db/station.db')
+        self.conn = sqlite3.connect(SQLITE_STATION_DATA_PATH)
         self.cursor = self.conn.cursor()
 
     def get_station(self, code, source):
@@ -39,6 +40,8 @@ class StationsData(object):
 
 class DataPipeline(object):
     def open_spider(self, spider):
+        self.station = StationsData()
+
         self.anbiencedataSession = sessionmaker(bind=db_connect())
         # scraper data base session
         SCRAPER_DATABASE = {
@@ -62,11 +65,56 @@ class DataPipeline(object):
         self.scraper_session.close()
 
     def insert_all_daily_data(self, item):
+        if item.get("source_if") is not None and item.get("source") is not None:
+            station_data = self.station.get_station(item.get("source_if"), item.get("source"))
+        else:
+            station_data = None
+
         map_st = Data24hr()
+
 
         data_value = item.get("data_value")
         if data_value is not None:
 
+            # station meta data
+            if station_data is not None:
+                source = station_data.get("source")
+                if source is not None:
+                    map_st.source = source
+
+                source_id = station_data.get("source_id")
+                if source_id is not None:
+                    map_st.source_id = source_id
+
+                station_name = station_data.get("station_name")
+                if station_name is not None:
+                    map_st.station_name = station_name
+
+                address = station_data.get("address")
+                if address is not None:
+                    map_st.address = address
+
+                country = station_data.get("country")
+                if country is not None:
+                    map_st.country = country
+
+                spider_name = station_data.get("spider_name")
+                if spider_name is not None:
+                    map_st.spider_name = spider_name
+
+                spider_type = station_data.get("spider_type")
+                if spider_type is not None:
+                    map_st.spider_type = spider_type
+
+                lon = station_data.get("lon")
+                if lon is not None:
+                    map_st.lon = lon
+
+                lat = station_data.get("lat")
+                if lat is not None:
+                    map_st.lat = lat
+
+            # time data
             data_time = item.get("data_time")
             if data_time is not None:
                 map_st.data_time = data_time
@@ -75,6 +123,7 @@ class DataPipeline(object):
             if scrap_time is not None:
                 map_st.scrap_time = scrap_time
 
+            # pollution data
             no2 = item.get("no2")
             if no2 is not None:
                 map_st.no2 = no2

@@ -27,6 +27,6 @@ class StationsData(object):
 s = StationsData()
 
 print(s.get_station("20", "http://dec.alaska.gov"))
-print(s.get_station("2", "http://dec.alaska.gov"))
-print(s.get_station("5", "http://dec.alaska.gov"))
+# print(s.get_station("2", "http://dec.alaska.gov"))
+# print(s.get_station("5", "http://dec.alaska.gov"))
 print(s.get_station("ddd", "http://dec.alaska.gov"))

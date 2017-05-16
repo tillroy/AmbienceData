@@ -11,6 +11,10 @@
 
 SCRAPER_TIMEZONE = 'EET'
 
+# SQLITE_STATION_DATA_PATH = "/mnt/hdd/pycharm_projects/AmbienceData/db/station.db"
+SQLITE_STATION_DATA_PATH = "/mnt/hdd/pycharm_projects/AmbienceData/db/station.db"
+
+
 SPLASH_URL = 'http://localhost:8050'
 
 BOT_NAME = 'pollution_app'
