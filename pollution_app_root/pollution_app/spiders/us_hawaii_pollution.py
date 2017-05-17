@@ -15,7 +15,7 @@ from pollution_app.rextension import clean
 
 
 class HawaiiSpider(Spider):
-    name = u"us_hawaii"
+    name = u"us_hawaii_pollution"
     source = u"http://emdweb.doh.hawaii.gov/air-quality"
     tz = u"US/Hawaii"
 

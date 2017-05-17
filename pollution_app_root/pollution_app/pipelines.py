@@ -62,7 +62,7 @@ class DataPipeline(object):
         else:
             station_data = None
 
-        print(station_data)
+        # print(station_data)
 
         map_st = Data24hr()
 

@@ -18,9 +18,9 @@ class CaliforniaWeatherSpider(Spider):
     source = u"http://www.cimis.water.ca.gov"
     tz = u"US/Pacific"
 
-    custom_settings = {
-        "ITEM_PIPELINES": {'pollution_app.pipelines.WeatherCurrentPipeline': 300}
-    }
+    # custom_settings = {
+    #     "ITEM_PIPELINES": {'pollution_app.pipelines.WeatherCurrentPipeline': 300}
+    # }
 
     def start_requests(self):
         # station_data = u"http://et.water.ca.gov/api/station"
