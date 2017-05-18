@@ -61,7 +61,9 @@ DOWNLOAD_HANDLERS = {
 }
 
 # ITEM_PIPELINES = {'pollution_app.pipelines.MainPipeline': 300}
-ITEM_PIPELINES = {'pollution_app.pipelines.DataPipeline': 300}
+
+# ITEM_PIPELINES = {'pollution_app.pipelines.DataPipeline': 300}
+
 # ITEM_PIPELINES = {'pollution_app.pipelines.WeatherPipeline': 300}
 # ITEM_PIPELINES = {'pollution_app.pipelines.CassandraPipeline': 300}
 
