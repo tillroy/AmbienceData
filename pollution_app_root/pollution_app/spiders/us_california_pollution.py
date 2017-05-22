@@ -3,7 +3,7 @@
 import re
 from datetime import datetime, timedelta
 
-from scrapy import Spider, Request
+from scrapy import Spider
 from w3lib.url import add_or_replace_parameter, urljoin, url_query_parameter
 import pandas as pd
 from dateutil import parser
@@ -16,8 +16,9 @@ from pollution_app.items import AppItem
 from pollution_app.settings import SCRAPER_TIMEZONE
 from scrapy.exceptions import CloseSpider
 
+
 class CaliforniaNewSpider(Spider):
-    name = u"us_california_new_pollution"
+    name = u"us_california_pollution"
     source = u"https://www.arb.ca.gov"
     tz = u"US/Pacific"
 
@@ -34,10 +35,10 @@ class CaliforniaNewSpider(Spider):
                   "NOY", "NMHC", "OZONE_ppm", "SO2", "THC", "PMTEOM", "PMBAM", "PM10_LHR",
                   "PM10_SHR", "PM25HR"
                   ]
-        # params = ["BENZENE", "OZONE", "CO", "SO2"]
+        # params = ["BENZENE", "BC", "CO", "CO2", "COH"]
         # params = ["OZONE", "CO", "SO2"]
         # params = ["COH", "H2S",]
-        # params = ["H2S",]
+        # params = ["SO2",]
 
         url = add_or_replace_parameter(href, "year", today_in_tz.year)
         url = add_or_replace_parameter(url, "mon", today_in_tz.month)
@@ -66,19 +67,23 @@ class CaliforniaNewSpider(Spider):
 
         # url_date = datetime(year=int(year), month=int(month), day=int(day), tzinfo=timezone(self.tz))
         url_date = datetime(year=int(year), month=int(month), day=int(day))
-
+        # print(url_date)
         return url_date
 
     def check_validity(self, resp):
         # print("params", resp.meta["params"])
-        checker = resp.xpath('//*[@id="content_area"]/center[2]/table[2]/tr[1]/td[2]/text()').extract()
-        checker = " ".join("".join(checker).split())
+        checker = resp.xpath('//*[@id="content_area"]/center[2]/table[2]//tr[1]/td[2]/script')
+        # checker = " ".join("".join(checker).split())
+        # print(checker, url_query_parameter(resp.url, "param"))
         # print(url_query_parameter(resp.url, "param"))
 
         if self.request_counter < 2:
+            # checker = resp.xpath('//*[@id="content_area"]/center[2]/table[2]//tr[1]/td[2]/script')
+            # print(checker, url_query_parameter(resp.url, "param"), resp.xpath('//*[@id="content_area"]/center[2]/table[2]//tr[1]/td[2]/script').extract())
+
             # print("LESS THAN 2 REQUESTS")
-            if "No Data Available. Please try your query again." in checker:
-                # print("NOT AVALIABLE", resp.meta["data"])
+            if not checker:
+                # print("NOT AVALIABLE", url_query_parameter(resp.url, "param"), resp.meta["param"])
 
                 self.request_counter += 1
                 # print("NOT AVAILABLE {0}".format(self.request_counter))
@@ -90,7 +95,6 @@ class CaliforniaNewSpider(Spider):
 
                 yield RandomRequest(
                     url=url,
-                    # callback=self.collect_station_data,
                     callback=self.check_validity,
                     meta={
                         "params": resp.meta["params"],
@@ -102,6 +106,7 @@ class CaliforniaNewSpider(Spider):
                     dont_filter=True,
                 )
             else:
+                # print("AVALIABLE", url_query_parameter(resp.url, "param"), resp.meta["param"],resp.meta.get("changed_today_in_tz"))
                 # print("3", resp.meta["data"])
                 self.request_counter = 0
 
@@ -142,12 +147,14 @@ class CaliforniaNewSpider(Spider):
                     }
                 )
             else:
-                self.push_data(resp)
-                # for el in self.push_data(resp):
-                #     yield
+                # self.push_data(resp)
+                for el in self.push_data(resp):
+                    yield el
 
-    def get_max_valid_date(self, df):
+    @staticmethod
+    def get_max_valid_date(df):
         time_group = df.groupby(by="time").size().to_frame("size")
+
         time_group.reset_index(level=0, inplace=True)
 
         current_time = time_group[time_group["size"] > 40]["time"].max()
@@ -159,50 +166,47 @@ class CaliforniaNewSpider(Spider):
 
         df = pd.DataFrame(data)
 
-        # print(df.groupby(by="name").size())
-
+        # print(df.groupby(by=["unit", "name"]).size())
 
         df["value"] = pd.to_numeric(df["value"])
         df = df[pd.notnull(df["value"])]
 
-        # print(df.groupby(by="time").size())
-
         current_time = self.get_max_valid_date(df)
         # print(current_time)
         current_data = df[df["time"] == current_time]
-        # print(current_data)
+        print(current_data)
         grouped = current_data.groupby(by="station_id")
 
-        # FIXME check units validity!!!!
+        # print(df.groupby(by="name").size())
 
-        # for station_id, gr in grouped:
-        #     station_data = dict()
-        #     for poll in gr[["name", "value", "unit"]].itertuples(index=False):
-        #         pollutant_name = poll[0]
-        #         pollutant_value = poll[1]
-        #         pollutant_units = poll[2]
-        #
-        #         # print(pollutant_name, pollutant_value, pollutant_units)
-        #
-        #         pollutant = Feature(self.name)
-        #         pollutant.set_source(self.source)
-        #         pollutant.set_raw_name(pollutant_name)
-        #         pollutant.set_raw_value(pollutant_value)
-        #         pollutant.set_raw_units(pollutant_units)
-        #
-        #         # print("answare", pollutant.get_name(), pollutant.get_value(), pollutant.get_units())
-        #         if pollutant.get_name() is not None and pollutant.get_value() is not None:
-        #             station_data[pollutant.get_name()] = pollutant.get_value()
-        #
-        #     if station_data:
-        #         items = AppItem()
-        #         items[u"scrap_time"] = datetime.now(tz=timezone(SCRAPER_TIMEZONE))
-        #         items[u"data_time"] = pd.to_datetime(current_time).replace(tzinfo=timezone(self.tz))
-        #         items[u"data_value"] = station_data
-        #         items[u"source"] = self.source
-        #         items[u"source_id"] = station_id
-        #
-        #         yield items
+        for station_id, gr in grouped:
+            station_data = dict()
+            for poll in gr[["name", "value", "unit"]].itertuples(index=False):
+                pollutant_name = poll[0]
+                pollutant_value = poll[1]
+                pollutant_units = poll[2]
+
+                # print(pollutant_name, pollutant_value, pollutant_units)
+
+                pollutant = Feature(self.name)
+                pollutant.set_source(self.source)
+                pollutant.set_raw_name(pollutant_name)
+                pollutant.set_raw_value(pollutant_value)
+                pollutant.set_raw_units(pollutant_units)
+
+                # print("answare", pollutant.get_name(), pollutant.get_value(), pollutant.get_units())
+                if pollutant.get_name() is not None and pollutant.get_value() is not None:
+                    station_data[pollutant.get_name()] = pollutant.get_value()
+
+            if station_data:
+                items = AppItem()
+                items[u"scrap_time"] = datetime.now(tz=timezone(SCRAPER_TIMEZONE))
+                items[u"data_time"] = pd.to_datetime(current_time).replace(tzinfo=timezone(self.tz))
+                items[u"data_value"] = station_data
+                items[u"source"] = self.source
+                items[u"source_id"] = station_id
+
+                yield items
 
     def collect_station_data(self, resp):
         try:
@@ -212,7 +216,12 @@ class CaliforniaNewSpider(Spider):
 
             date = self.get_date_from_url(resp.url)
 
-            pollutant_unit = resp.xpath('//*[@id="graph"]/table//tr[1]/td/span/text()').extract()[-1]
+            # pollutant_unit = resp.xpath('//*[@id="graph"]/table//tr[1]/td/span/text()').extract()[-1]
+            pollutant_unit_list = resp.xpath('//*[@id="graph"]/table//tr[1]/td/span/text()').extract()
+            raw_pollutant_unit = " ".join(" ".join(pollutant_unit_list).split())
+
+            pollutant_unit = re.findall(".*\((.+?)\)", raw_pollutant_unit)
+            pollutant_unit = " ".join(pollutant_unit[0].split()) if len(pollutant_unit) > 0 else None
 
             raw_table = resp.xpath('//*[@id="graph"]/table//tr')[2:]
             table_column_names = raw_table.pop(0).xpath('.//td/div/text()').extract()[5:]
@@ -240,7 +249,10 @@ class CaliforniaNewSpider(Spider):
             resp.meta["data"].extend(table)
 
             param = resp.meta["params"].pop(0)
-            url = add_or_replace_parameter(resp.url, "param", param)
+
+
+            url = resp.url if resp.meta.get("changed_today_in_tz") is not None else resp.meta["href"]
+            url = add_or_replace_parameter(url, "param", param)
 
             # print(resp.meta["params"])
 
@@ -257,6 +269,6 @@ class CaliforniaNewSpider(Spider):
             )
 
         except IndexError:
-            self.push_data(resp)
-            # for el in self.push_data(resp):
-            #     yield
+            # self.push_data(resp)
+            for el in self.push_data(resp):
+                yield el

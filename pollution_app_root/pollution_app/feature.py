@@ -149,7 +149,7 @@ class Feature(object):
             (u'Ozone 1-hour  average', u'o3_1hr', u'O3 Média horária', u"Ozone 1 hour", u"Ozone 1 Hour Average"): u'o3_1hr',
             (u'Ozone rolling 4-hour average', u'o3_4hr'): u'o3_4hr',
             # pm
-            (u'PM', u'Fine Particles', u'PM Coarse', u"PM-Coarse", u"pm", u"PMcrs"): u"pm",
+            (u'PM', u'Fine Particles', u'PM Coarse', u"PM-Coarse", u"pm", u"PMcrs", u"PMBAM"): u"pm",
             (u'TSP', u'Particles TSP'): u'tsp',
             (u'TSP 24 Hour mean', u"Total Particulates 24 Hour mean"): u'tsp_24hr',
             (u'TSP_BAM',): u'tsp_bam',
@@ -159,7 +159,7 @@ class Feature(object):
                 u'PM2.5', u'PM 2.5', u'PM25', u'pm25', u'Particles as PM2.5', u'PM2.5(ug/m^3)', u'Particle PM2.5',
                 u'pm2_5', u"MP 2,5", u"1-Hour PM 2.5", u"PM-2.5 (Local Conditions)", u"PM2.5 (NEPH)",
                 u"PM-2.5", u"PM2.5 (TEOM)", u"NPM25", u"TPM25", u"PM2.5_WEB", u"PM25C", u"PM25FEM", U"PM25R",
-                u"FEM_TPM25", u"Fine Particles (PM2.5)", u"DF-PM25 FEM", u"F-PM25 FEM"
+                u"FEM_TPM25", u"Fine Particles (PM2.5)", u"DF-PM25 FEM", u"F-PM25 FEM", u"PM25HR"
             ): u'pm25',
             (u'PM25_24HR', u'Particles rolling 24-hour average (PM25)', u'MP2.5 Média 24   h', u"PM 2.5 24 Hour mean",
              u"24-Hour PM 2.5", u"Particulate Matter PM2.5 24 Hour Rolling Average"): u'pm25_24hr',
@@ -204,6 +204,8 @@ class Feature(object):
             (u'GRIMM25_24HR',): u'grimm_25_24hr',
             (u'GRIMM01_24HR',): u'grimm_01_24hr',
             (u'GRIMM10_24HR',): u'grimm_10_24hr',
+            # bc
+            (u'bc',): u'bc',
             # co co2
             (
                 u'Carbon Monoxide', u'C--O', u'CO', u'CO', u'co', u'Carbon monoxide',
@@ -310,7 +312,9 @@ class Feature(object):
             (u"temp", u"temp_10m", u"temp_2m", u"temp_dew_p", u"temp_wt", u"temp_ins", u"temp_soil"): u"degc",
 
             (u"rad_solar", u"rad_net"): u"ly",
-            (u"pm25", u"pm10", u"pm10_24hr", u"pm25_bam", u"pm25_1hr", u"pm10_bam", u"pm", u"pm25_24hr"): u"ug_m3",
+            (
+                u"pm25", u"pm10", u"pm10_24hr", u"pm25_bam", u"pm25_1hr", u"pm10_bam", u"pm",
+                u"pm25_24hr", u"bc"): u"ug_m3",
         }
 
         self.current_units = {
@@ -348,7 +352,7 @@ class Feature(object):
             (
                 u"ug/m3", u"µg/m3", u"ug/m3(L)", u"ug/m3L", u"ug/m^3", u"µg/m", u"µg/m ", u"ug/m3 (S)", u"ug/m3 (L)",
                 u"ug/m^3 (s)", u"ug/m3S", u"ug/m3LC", u"(UG/M3)", u"ug/m3 LC", u"UG/M3 LC", u"UG/M3",
-                u"Micrograms/cubic meter (LC)", u"Micrograms/cubic meter (25 C)",
+                u"Micrograms/cubic meter (LC)", u"Micrograms/cubic meter (25 C)", u"ug/m",
                 u"micrograms per cubic meter (local conditions)"
 
             ): u"ug_m3",
