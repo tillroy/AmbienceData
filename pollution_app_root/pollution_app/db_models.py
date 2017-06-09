@@ -97,6 +97,8 @@ class StationData(Base):
     data_time = Column(DateTime(timezone=True))
     scrap_time = Column(DateTime(timezone=True))
     data_value = Column(JSON)
+    source = Column(String(250))
+    source_id = Column(String(250))
 
 
 # for weather data

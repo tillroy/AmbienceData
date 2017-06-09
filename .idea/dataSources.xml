@@ -16,5 +16,17 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://104.130.14.6:5432/ambiencedata</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="ambiencedata@159.203.81.20" uuid="cee6f907-e1a5-456e-a7c9-66c92427d5c2">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://159.203.81.20:5432/ambiencedata</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="ambiencedata@107.170.254.113" uuid="1f14a5f8-b8f0-43b9-8fd8-ae183676b558">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://107.170.254.113:5432/ambiencedata</jdbc-url>
+    </data-source>
   </component>
 </project>

@@ -58,11 +58,12 @@ class DataPipeline(object):
 
     def insert_all_daily_data(self, item):
         if item.get("source_id") is not None and item.get("source") is not None:
+            print("NOT NOE")
             station_data = self.station.get_station(item.get("source_id"), item.get("source"))
         else:
             station_data = None
 
-        # print(station_data)
+        # print("station data", station_data)
 
         map_st = Data24hr()
 
@@ -161,16 +162,32 @@ class DataPipeline(object):
 
         return map_st
 
-    def insert_pollution_archive_data(self, item):
+    def insert_pollution_archive_data_old(self, item):
         # get station_id
+        print(item['source_id'], item['source'])
         station = self.amb_session.query(Station).filter(and_(Station.source_id == item['source_id'], Station.source == item['source'])).one()
+
+        print("station id", station.id)
 
         station_data = StationData()
         station_data.st_id = station.id
         station_data.data_value = item['data_value']
         station_data.data_time = item['data_time']
         station_data.scrap_time = item['scrap_time']
+        # print(station_data)
+        return station_data
 
+    def insert_pollution_archive_data(self, item):
+        # get station_id
+        station_data = StationData()
+        station_data.st_id = station.id
+        station_data.source = item['source']
+        station_data.source_id = item['source_id']
+
+        station_data.data_value = item['data_value']
+        station_data.data_time = item['data_time']
+        station_data.scrap_time = item['scrap_time']
+        # print(station_data)
         return station_data
 
     @staticmethod
@@ -188,7 +205,7 @@ class DataPipeline(object):
     def process_item(self, item, spider):
         try:
             # INFO insert into STATION ARCHIVE
-
+            print("INSERT ARCHIVE DATA")
             self.amb_session.add(self.insert_pollution_archive_data(item))
             self.amb_session.commit()
 
@@ -197,6 +214,7 @@ class DataPipeline(object):
             print(e)
 
         try:
+            print("INSERT DAILY DATA")
             # INFO insert data to the daily table
             all_data = self.insert_all_daily_data(item)
             self.scraper_session.add(all_data)
@@ -206,6 +224,7 @@ class DataPipeline(object):
             print(e)
 
         try:
+            print("INSERT WEATHER DATA")
             # INFO insert weather data
             self.scraper_session.add(self.insert_weather_data(item))
             self.scraper_session.commit()
@@ -480,3 +499,30 @@ class WeatherCurrentPipeline:
             session.close()
 
         return item
+
+
+if __name__ == "__main__":
+    ambienceSession = sessionmaker(bind=db_connect(AMBIENCE_DATABASE))
+    amb_session = ambienceSession()
+    station = amb_session.query(Station).all()
+    counter = 4808
+    # last id 3811
+
+    for el in station[4808:]:
+        # print("1", el.source.encode())
+        # print("2", el.source_id.encode("utf-8"))
+        # print("3", el.id)
+
+        sql = u"UPDATE scrapper_station_data SET source = '{source}', source_id = '{source_id}' WHERE st_id = {st_id}".format(source=el.source, source_id=el.source_id, st_id=el.id)
+        # print(sql)
+        amb_session.execute(sql)
+        amb_session.commit()
+
+
+
+        counter += 1
+        print("station: {0}".format(counter))
+        # break
+
+
+

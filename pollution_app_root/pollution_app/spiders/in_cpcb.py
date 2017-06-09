@@ -111,6 +111,10 @@ class CpcbSpider(scrapy.Spider):
         u"http://www.cpcb.gov.in/CAAQM/frmCurrentDataNew.aspx?StationName=Ardhali Bazar&StateId=28&CityId=270"
     )
 
+    st_data = (
+        u"http://www.cpcb.gov.in/CAAQM/frmCurrentDataNew.aspx?StationName=Ardhali Bazar&StateId=28&CityId=270",
+    )
+
     start_urls = st_data
 
 

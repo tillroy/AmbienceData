@@ -11,8 +11,8 @@
 
 SCRAPER_TIMEZONE = 'EET'
 
-SQLITE_STATION_DATA_PATH = "/mnt/hdd/pycharm_projects/AmbienceData/db/station.db"
-# SQLITE_STATION_DATA_PATH = "/opt/crawler/station.db"
+# SQLITE_STATION_DATA_PATH = "/mnt/hdd/pycharm_projects/AmbienceData/db/station.db"
+SQLITE_STATION_DATA_PATH = "/opt/crawler/station.db"
 
 
 SPLASH_URL = 'http://localhost:8050'
@@ -48,7 +48,7 @@ AMBIENCE_DATABASE = {
 SCRAPER_DATABASE = {
     'drivername': 'postgres',
     # 'host': 'localhost',
-    'host': '104.130.14.6',
+    'host': '159.203.81.20',
     'port': '5432',
     'username': 'postgres',
     'password': 'postgres',
@@ -62,7 +62,7 @@ DOWNLOAD_HANDLERS = {
 
 # ITEM_PIPELINES = {'pollution_app.pipelines.MainPipeline': 300}
 
-# ITEM_PIPELINES = {'pollution_app.pipelines.DataPipeline': 300}
+ITEM_PIPELINES = {'pollution_app.pipelines.DataPipeline': 300}
 
 # ITEM_PIPELINES = {'pollution_app.pipelines.WeatherPipeline': 300}
 # ITEM_PIPELINES = {'pollution_app.pipelines.CassandraPipeline': 300}
